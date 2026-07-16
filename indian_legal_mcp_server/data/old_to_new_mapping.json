@@ -1,0 +1,3954 @@
+[
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "1",
+    "new_section": "1",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "2",
+    "new_section": "2",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "3",
+    "new_section": "3",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "4",
+    "new_section": "4",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "5",
+    "new_section": "5",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "6",
+    "new_section": "6",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "7",
+    "new_section": "7",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "8",
+    "new_section": "8",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "9",
+    "new_section": "9",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "10",
+    "new_section": "10",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "11",
+    "new_section": "11",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "12",
+    "new_section": "12",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "13",
+    "new_section": "13",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "34",
+    "new_section": "34",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "35",
+    "new_section": "35",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "76",
+    "new_section": "14",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "77",
+    "new_section": "16",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "78",
+    "new_section": "17",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "79",
+    "new_section": "18",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "80",
+    "new_section": "19",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "81",
+    "new_section": "20",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "82",
+    "new_section": "21",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "83",
+    "new_section": "22",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "84",
+    "new_section": "23",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "85",
+    "new_section": "24",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "86",
+    "new_section": "27",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "87",
+    "new_section": "25",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "88",
+    "new_section": "28",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "89",
+    "new_section": "29",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "90",
+    "new_section": "30",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "91",
+    "new_section": "31",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "92",
+    "new_section": "32",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "93",
+    "new_section": "33",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "94",
+    "new_section": "27",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "95",
+    "new_section": "36",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "96",
+    "new_section": "37",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "97",
+    "new_section": "38",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "98",
+    "new_section": "39",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "99",
+    "new_section": "40",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "100",
+    "new_section": "41",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "101",
+    "new_section": "42",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "102",
+    "new_section": "36",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "103",
+    "new_section": "37",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "104",
+    "new_section": "38",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "105",
+    "new_section": "39",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "106",
+    "new_section": "40",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "120A",
+    "new_section": "252",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "120B",
+    "new_section": "250",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "141",
+    "new_section": "199",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "143",
+    "new_section": "200",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "146",
+    "new_section": "201",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "147",
+    "new_section": "202",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "149",
+    "new_section": "203",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "159",
+    "new_section": "204",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "160",
+    "new_section": "205",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "166",
+    "new_section": "222",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "167",
+    "new_section": "223",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "172",
+    "new_section": "177",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "176",
+    "new_section": "221",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "186",
+    "new_section": "236",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "191",
+    "new_section": "228",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "193",
+    "new_section": "229",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "197",
+    "new_section": "230",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "198",
+    "new_section": "231",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "216",
+    "new_section": "240",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "224",
+    "new_section": "234",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "225",
+    "new_section": "235",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "268",
+    "new_section": "208",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "290",
+    "new_section": "209",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "299",
+    "new_section": "99",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "300",
+    "new_section": "100",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "301",
+    "new_section": "101",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "302",
+    "new_section": "99",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "304",
+    "new_section": "102",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "304A",
+    "new_section": "106",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "304B",
+    "new_section": "76",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "305",
+    "new_section": "109",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "306",
+    "new_section": "109",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "307",
+    "new_section": "104",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "308",
+    "new_section": "105",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "309",
+    "new_section": "110",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "319",
+    "new_section": "114",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "320",
+    "new_section": "118",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "321",
+    "new_section": "115",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "322",
+    "new_section": "117",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "323",
+    "new_section": "115",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "324",
+    "new_section": "119",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "325",
+    "new_section": "120",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "339",
+    "new_section": "123",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "340",
+    "new_section": "124",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "342",
+    "new_section": "126",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "349",
+    "new_section": "131",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "350",
+    "new_section": "132",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "351",
+    "new_section": "133",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "354",
+    "new_section": "74",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "359",
+    "new_section": "136",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "360",
+    "new_section": "136",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "361",
+    "new_section": "137",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "362",
+    "new_section": "141",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "363",
+    "new_section": "140",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "364",
+    "new_section": "144",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "375",
+    "new_section": "63",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "376",
+    "new_section": "63",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "376D",
+    "new_section": "65",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "378",
+    "new_section": "154",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "379",
+    "new_section": "153",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "383",
+    "new_section": "148",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "390",
+    "new_section": "149",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "391",
+    "new_section": "151",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "392",
+    "new_section": "150",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "395",
+    "new_section": "152",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "403",
+    "new_section": "157",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "404",
+    "new_section": "158",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "405",
+    "new_section": "159",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "406",
+    "new_section": "160",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "407",
+    "new_section": "315",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "409",
+    "new_section": "316",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "410",
+    "new_section": "161",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "411",
+    "new_section": "334",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "415",
+    "new_section": "162",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "416",
+    "new_section": "319",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "417",
+    "new_section": "163",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "418",
+    "new_section": "164",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "420",
+    "new_section": "165",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "425",
+    "new_section": "176",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "426",
+    "new_section": "177",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "441",
+    "new_section": "191",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "442",
+    "new_section": "193",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "445",
+    "new_section": "195",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "446",
+    "new_section": "197",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "447",
+    "new_section": "192",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "448",
+    "new_section": "194",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "449",
+    "new_section": "144",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "453",
+    "new_section": "198",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "463",
+    "new_section": "167",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "466",
+    "new_section": "337",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "467",
+    "new_section": "338",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "468",
+    "new_section": "168",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "471",
+    "new_section": "341",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "472",
+    "new_section": "169",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "474",
+    "new_section": "344",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "477A",
+    "new_section": "345",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "478",
+    "new_section": "351",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "479",
+    "new_section": "346",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "482",
+    "new_section": "347",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "483",
+    "new_section": "348",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "484",
+    "new_section": "349",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "485",
+    "new_section": "350",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "489A",
+    "new_section": "343",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "498A",
+    "new_section": "77",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "499",
+    "new_section": "245",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "500",
+    "new_section": "244",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "501",
+    "new_section": "246",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "502",
+    "new_section": "247",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "503",
+    "new_section": "242",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "504",
+    "new_section": "243",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "506",
+    "new_section": "241",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "ipc_1860",
+    "new_act": "bns_2023",
+    "old_section": "511",
+    "new_section": "249",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "2",
+    "new_section": "2",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "9",
+    "new_section": "7",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "11",
+    "new_section": "8",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "12",
+    "new_section": "9",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "20",
+    "new_section": "14",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "24",
+    "new_section": "21",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "28",
+    "new_section": "22",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "29",
+    "new_section": "23",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "30",
+    "new_section": "24",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "31",
+    "new_section": "25",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "37",
+    "new_section": "31",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "38",
+    "new_section": "30",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "39",
+    "new_section": "33",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "41",
+    "new_section": "35",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "41A",
+    "new_section": "52",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "41D",
+    "new_section": "47",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "42",
+    "new_section": "56",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "43",
+    "new_section": "40",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "44",
+    "new_section": "39",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "46",
+    "new_section": "60",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "47",
+    "new_section": "61",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "50",
+    "new_section": "45",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "51",
+    "new_section": "42",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "53",
+    "new_section": "89",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "54",
+    "new_section": "89",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "57",
+    "new_section": "46",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "91",
+    "new_section": "68",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "93",
+    "new_section": "62",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "94",
+    "new_section": "68",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "97",
+    "new_section": "63",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "99",
+    "new_section": "70",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "100",
+    "new_section": "69",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "102",
+    "new_section": "71",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "103",
+    "new_section": "64",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "125",
+    "new_section": "144",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "126",
+    "new_section": "149",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "127",
+    "new_section": "148",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "144",
+    "new_section": "163",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "154",
+    "new_section": "173",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "155",
+    "new_section": "174",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "156",
+    "new_section": "77",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "157",
+    "new_section": "79",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "160",
+    "new_section": "80",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "161",
+    "new_section": "81",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "165",
+    "new_section": "72",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "167",
+    "new_section": "86",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "169",
+    "new_section": "179",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "172",
+    "new_section": "177",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "173",
+    "new_section": "93",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "178",
+    "new_section": "97",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "179",
+    "new_section": "96",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "190",
+    "new_section": "95",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "200",
+    "new_section": "110",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "203",
+    "new_section": "112",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "204",
+    "new_section": "111",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "211",
+    "new_section": "210",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "238",
+    "new_section": "241",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "251",
+    "new_section": "256",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "303",
+    "new_section": "47",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "311",
+    "new_section": "312",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "357",
+    "new_section": "234",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "374",
+    "new_section": "267",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "378",
+    "new_section": "271",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "386",
+    "new_section": "277",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "395",
+    "new_section": "394",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "397",
+    "new_section": "397",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "399",
+    "new_section": "401",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "406",
+    "new_section": "100",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "407",
+    "new_section": "101",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "418",
+    "new_section": "421",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "432",
+    "new_section": "432",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "436",
+    "new_section": "181",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "437",
+    "new_section": "182",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "438",
+    "new_section": "188",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "439",
+    "new_section": "189",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "468",
+    "new_section": "330",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "crpc_1973",
+    "new_act": "bnss_2023",
+    "old_section": "482",
+    "new_section": "350",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in BNSS 2023"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "1",
+    "new_section": "1",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "2",
+    "new_section": "2",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "3",
+    "new_section": "3",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "4",
+    "new_section": "4",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "5",
+    "new_section": "5",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "6",
+    "new_section": "6",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "7",
+    "new_section": "7",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "8",
+    "new_section": "8",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "9",
+    "new_section": "9",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "10",
+    "new_section": "10",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "11",
+    "new_section": "11",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "12",
+    "new_section": "12",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "13",
+    "new_section": "13",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "14",
+    "new_section": "76",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "16",
+    "new_section": "77",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "17",
+    "new_section": "78",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "18",
+    "new_section": "79",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "19",
+    "new_section": "80",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "20",
+    "new_section": "81",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "21",
+    "new_section": "82",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "22",
+    "new_section": "83",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "23",
+    "new_section": "84",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "24",
+    "new_section": "85",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "25",
+    "new_section": "87",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "27",
+    "new_section": "86",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "28",
+    "new_section": "88",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "29",
+    "new_section": "89",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "30",
+    "new_section": "90",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "31",
+    "new_section": "91",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "32",
+    "new_section": "92",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "33",
+    "new_section": "93",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "34",
+    "new_section": "34",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "35",
+    "new_section": "35",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "36",
+    "new_section": "95",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "37",
+    "new_section": "96",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "38",
+    "new_section": "97",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "39",
+    "new_section": "98",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "40",
+    "new_section": "99",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "41",
+    "new_section": "100",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "42",
+    "new_section": "101",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "63",
+    "new_section": "375",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "64",
+    "new_section": "376",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "65",
+    "new_section": "376D",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "74",
+    "new_section": "354",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "76",
+    "new_section": "304B",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "77",
+    "new_section": "498A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "85",
+    "new_section": "498A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "99",
+    "new_section": "302",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "100",
+    "new_section": "300",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "101",
+    "new_section": "301",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "102",
+    "new_section": "304",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "103",
+    "new_section": "302",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "104",
+    "new_section": "307",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "105",
+    "new_section": "308",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "106",
+    "new_section": "304A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "109",
+    "new_section": "306",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "110",
+    "new_section": "309",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "114",
+    "new_section": "319",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "115",
+    "new_section": "321",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "117",
+    "new_section": "322",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "118",
+    "new_section": "320",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "119",
+    "new_section": "324",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "120",
+    "new_section": "325",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "123",
+    "new_section": "339",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "124",
+    "new_section": "340",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "126",
+    "new_section": "342",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "131",
+    "new_section": "349",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "132",
+    "new_section": "350",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "133",
+    "new_section": "351",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "136",
+    "new_section": "359",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "137",
+    "new_section": "361",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "140",
+    "new_section": "363",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "141",
+    "new_section": "362",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "144",
+    "new_section": "364",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "148",
+    "new_section": "383",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "149",
+    "new_section": "390",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "150",
+    "new_section": "392",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "151",
+    "new_section": "391",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "152",
+    "new_section": "395",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "153",
+    "new_section": "379",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "154",
+    "new_section": "378",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "157",
+    "new_section": "403",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "158",
+    "new_section": "404",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "159",
+    "new_section": "405",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "160",
+    "new_section": "406",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "161",
+    "new_section": "410",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "162",
+    "new_section": "415",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "163",
+    "new_section": "417",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "164",
+    "new_section": "418",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "165",
+    "new_section": "420",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "167",
+    "new_section": "463",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "168",
+    "new_section": "468",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "169",
+    "new_section": "472",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "176",
+    "new_section": "425",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "177",
+    "new_section": "426",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "191",
+    "new_section": "441",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "192",
+    "new_section": "447",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "193",
+    "new_section": "442",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "194",
+    "new_section": "448",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "195",
+    "new_section": "445",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "196",
+    "new_section": "445",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "197",
+    "new_section": "446",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "198",
+    "new_section": "453",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "199",
+    "new_section": "141",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "200",
+    "new_section": "143",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "201",
+    "new_section": "146",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "202",
+    "new_section": "147",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "203",
+    "new_section": "149",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "204",
+    "new_section": "159",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "205",
+    "new_section": "160",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "208",
+    "new_section": "268",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "209",
+    "new_section": "290",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "221",
+    "new_section": "176",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "222",
+    "new_section": "166",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "223",
+    "new_section": "167",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "228",
+    "new_section": "191",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "229",
+    "new_section": "193",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "230",
+    "new_section": "197",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "231",
+    "new_section": "198",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "234",
+    "new_section": "224",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "235",
+    "new_section": "225",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "236",
+    "new_section": "186",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "240",
+    "new_section": "216",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "241",
+    "new_section": "506",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "242",
+    "new_section": "503",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "243",
+    "new_section": "504",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "244",
+    "new_section": "500",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "245",
+    "new_section": "499",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "246",
+    "new_section": "501",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "247",
+    "new_section": "502",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "249",
+    "new_section": "511",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "250",
+    "new_section": "120B",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "251",
+    "new_section": "309",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "252",
+    "new_section": "120A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "308",
+    "new_section": "405",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "309",
+    "new_section": "406",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "314",
+    "new_section": "405",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "315",
+    "new_section": "407",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "316",
+    "new_section": "409",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "318",
+    "new_section": "415",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "319",
+    "new_section": "416",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "320",
+    "new_section": "417",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "321",
+    "new_section": "418",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "322",
+    "new_section": "420",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "325",
+    "new_section": "425",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "333",
+    "new_section": "426",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "334",
+    "new_section": "411",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "336",
+    "new_section": "463",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "337",
+    "new_section": "466",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "338",
+    "new_section": "467",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "339",
+    "new_section": "468",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "341",
+    "new_section": "471",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "342",
+    "new_section": "472",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "343",
+    "new_section": "489A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "344",
+    "new_section": "474",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "345",
+    "new_section": "477A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "346",
+    "new_section": "479",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "347",
+    "new_section": "482",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "348",
+    "new_section": "483",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "349",
+    "new_section": "484",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "350",
+    "new_section": "485",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "351",
+    "new_section": "478",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bns_2023",
+    "new_act": "ipc_1860",
+    "old_section": "352",
+    "new_section": "482",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in IPC 1860"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "2",
+    "new_section": "2",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "7",
+    "new_section": "9",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "8",
+    "new_section": "11",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "9",
+    "new_section": "12",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "14",
+    "new_section": "20",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "21",
+    "new_section": "24",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "22",
+    "new_section": "28",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "23",
+    "new_section": "29",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "24",
+    "new_section": "30",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "25",
+    "new_section": "31",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "30",
+    "new_section": "38",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "31",
+    "new_section": "37",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "33",
+    "new_section": "39",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "35",
+    "new_section": "41",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "36",
+    "new_section": "41",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "37",
+    "new_section": "41",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "39",
+    "new_section": "44",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "40",
+    "new_section": "43",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "42",
+    "new_section": "51",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "43",
+    "new_section": "51",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "45",
+    "new_section": "50",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "46",
+    "new_section": "57",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "47",
+    "new_section": "41D",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "50",
+    "new_section": "436",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "52",
+    "new_section": "41A",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "55",
+    "new_section": "41",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "56",
+    "new_section": "42",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "58",
+    "new_section": "43",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "60",
+    "new_section": "46",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "61",
+    "new_section": "47",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "62",
+    "new_section": "93",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "63",
+    "new_section": "97",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "64",
+    "new_section": "103",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "67",
+    "new_section": "97",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "68",
+    "new_section": "94",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "69",
+    "new_section": "100",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "70",
+    "new_section": "99",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "71",
+    "new_section": "102",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "72",
+    "new_section": "165",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "77",
+    "new_section": "156",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "78",
+    "new_section": "156",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "79",
+    "new_section": "157",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "80",
+    "new_section": "160",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "81",
+    "new_section": "161",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "82",
+    "new_section": "41",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "86",
+    "new_section": "167",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "87",
+    "new_section": "167",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "88",
+    "new_section": "167",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "89",
+    "new_section": "53",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "93",
+    "new_section": "173",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "95",
+    "new_section": "190",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "96",
+    "new_section": "179",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "97",
+    "new_section": "178",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "100",
+    "new_section": "406",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "101",
+    "new_section": "407",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "109",
+    "new_section": "190",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "110",
+    "new_section": "200",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "111",
+    "new_section": "204",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "112",
+    "new_section": "203",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "144",
+    "new_section": "125",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "148",
+    "new_section": "127",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "149",
+    "new_section": "126",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "153",
+    "new_section": "125",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "163",
+    "new_section": "144",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "173",
+    "new_section": "154",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "174",
+    "new_section": "155",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "175",
+    "new_section": "154",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "177",
+    "new_section": "172",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "178",
+    "new_section": "173",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "179",
+    "new_section": "169",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "181",
+    "new_section": "436",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "182",
+    "new_section": "437",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "187",
+    "new_section": "167",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "188",
+    "new_section": "438",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "189",
+    "new_section": "439",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "234",
+    "new_section": "357",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "241",
+    "new_section": "238",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "256",
+    "new_section": "251",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "267",
+    "new_section": "374",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "271",
+    "new_section": "378",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "276",
+    "new_section": "378",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "277",
+    "new_section": "386",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "312",
+    "new_section": "311",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "330",
+    "new_section": "468",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "350",
+    "new_section": "482",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "352",
+    "new_section": "482",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "354",
+    "new_section": "1",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "394",
+    "new_section": "395",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "397",
+    "new_section": "397",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "401",
+    "new_section": "399",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "421",
+    "new_section": "418",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "432",
+    "new_section": "432",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "478",
+    "new_section": "436",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "479",
+    "new_section": "436",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "482",
+    "new_section": "438",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  },
+  {
+    "old_act": "bnss_2023",
+    "new_act": "crpc_1973",
+    "old_section": "483",
+    "new_section": "436",
+    "mapping_type": "direct",
+    "changes": "Corresponding provision in CrPC 1973"
+  }
+]

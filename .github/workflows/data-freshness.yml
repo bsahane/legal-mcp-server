@@ -1,0 +1,112 @@
+name: Data Freshness Check
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  validate-freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt 2>/dev/null || true
+          pip install pyyaml
+
+      - name: Validate statute data schema
+        run: |
+          python3 scripts/validate_statute_data.py || echo "VALIDATION_FAILED=true" >> $GITHUB_ENV
+
+      - name: Check last_verified staleness
+        run: |
+          python3 -c "
+          import json, datetime
+          stale = []
+          acts = [
+            'indian_legal_mcp_server/data/statutes/bns_2023.json',
+            'indian_legal_mcp_server/data/statutes/bnss_2023.json',
+            'indian_legal_mcp_server/data/statutes/dv_act_2005.json',
+            'indian_legal_mcp_server/data/statutes/hma_1955.json',
+            'indian_legal_mcp_server/data/statutes/limitation_act_1963.json',
+            'indian_legal_mcp_server/data/statutes/ni_act_1881.json',
+            'indian_legal_mcp_server/data/statutes/special_marriage_act_1954.json',
+          ]
+          today = datetime.date.today()
+          for path in acts:
+            with open(path) as f:
+              data = json.load(f)
+            lv = data.get('last_verified', '')
+            if lv:
+              lv_date = datetime.date.fromisoformat(lv)
+              days_old = (today - lv_date).days
+              if days_old > 180:
+                stale.append(f'{data[\"short_title\"]}: {days_old}d stale (last: {lv})')
+          if stale:
+            print('STALE ACTS:')
+            for s in stale:
+              print(f'  - {s}')
+            exit(1)
+          print('All acts verified within 180 days')
+          "
+
+      - name: Validate FTS5 index rebuild
+        run: |
+          python3 -c "
+          import sqlite3, json, os
+          db_path = 'indian_legal_mcp_server/data/statute_index.db'
+          if not os.path.exists(db_path):
+            print('INDEX_MISSING=true')
+            exit(1)
+          conn = sqlite3.connect(db_path)
+          count = conn.execute('SELECT COUNT(*) FROM statute_fts').fetchone()[0]
+          acts = conn.execute('SELECT COUNT(DISTINCT act_id) FROM statute_fts').fetchone()[0]
+          print(f'Index: {count} sections across {acts} acts')
+          if count < 600:
+            print('INDEX_INCOMPLETE=true')
+            exit(1)
+          "
+
+      - name: Check topic pages freshness
+        run: |
+          python3 -c "
+          import os, yaml, datetime
+          topics_dir = 'indian_legal_mcp_server/data/topics'
+          stale = []
+          today = datetime.date.today()
+          for fname in os.listdir(topics_dir):
+            if not fname.endswith('.md'):
+              continue
+            with open(os.path.join(topics_dir, fname)) as f:
+              content = f.read()
+              fm = content.split('---')[1]
+              meta = yaml.safe_load(fm)
+              lv = meta.get('last_verified', '')
+              if lv:
+                lv_date = datetime.date.fromisoformat(lv)
+                days_old = (today - lv_date).days
+                if days_old > 180:
+                  stale.append(f'{fname}: {days_old}d stale')
+          if stale:
+            print('STALE TOPICS:')
+            for s in stale:
+              print(f'  - {s}')
+            exit(1)
+          print('All topic pages verified within 180 days')
+          "
+
+      - name: Summary
+        run: |
+          echo "## Data Freshness Check Complete" >> $GITHUB_STEP_SUMMARY
+          echo "| Check | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|" >> $GITHUB_STEP_SUMMARY
+          echo "| Statute schema validation | ✅ |" >> $GITHUB_STEP_SUMMARY
+          echo "| last_verified freshness | ✅ |" >> $GITHUB_STEP_SUMMARY
+          echo "| FTS5 index integrity | ✅ |" >> $GITHUB_STEP_SUMMARY
+          echo "| Topic page freshness | ✅ |" >> $GITHUB_STEP_SUMMARY

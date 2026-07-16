@@ -1,0 +1,2108 @@
+[
+  {
+    "section": "1",
+    "offence": "Short title, commencement and application (Preliminary)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Preliminary provision)"
+  },
+  {
+    "section": "2",
+    "offence": "Punishment of offences committed within India (Jurisdiction provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Jurisdiction provision)"
+  },
+  {
+    "section": "3",
+    "offence": "Punishment of offences committed beyond India (Extra-territorial jurisdiction)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Jurisdiction provision)"
+  },
+  {
+    "section": "4",
+    "offence": "Construction of references to offences (Interpretation)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Interpretation provision)"
+  },
+  {
+    "section": "5",
+    "offence": "Certain laws not to be affected (Saving clause)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Saving clause)"
+  },
+  {
+    "section": "6",
+    "offence": "Saving of offences under other laws (Saving clause)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Saving clause)"
+  },
+  {
+    "section": "7",
+    "offence": "Meaning of expressions (Interpretation)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Interpretation provision)"
+  },
+  {
+    "section": "8",
+    "offence": "Sense of expression once explained (Interpretation)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Interpretation provision)"
+  },
+  {
+    "section": "9",
+    "offence": "Number (Interpretation)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Interpretation provision)"
+  },
+  {
+    "section": "10",
+    "offence": "Man/Woman (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "11",
+    "offence": "Person (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "12",
+    "offence": "Public servant (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "13",
+    "offence": "Movable property (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "14",
+    "offence": "Act done by a person bound, or by mistake of fact believing himself bound, by law (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "15",
+    "offence": "Act not intended to cause death, done by consent in good faith for person's benefit (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "16",
+    "offence": "Act done pursuant to judgment or order of Court (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "17",
+    "offence": "Act done by a person justified, or by mistake of fact believing himself justified, by law (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "18",
+    "offence": "Accident in doing a lawful act (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "19",
+    "offence": "Act likely to cause harm, but done without criminal intent, and to prevent other harm (General Exception/Necessity)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "20",
+    "offence": "Act of a child under seven years of age (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "21",
+    "offence": "Act of a child above seven and under twelve of immature understanding (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "22",
+    "offence": "Act of a person of unsound mind (General Exception/Insanity)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "23",
+    "offence": "Act of a person incapable of judgment by reason of intoxication caused against his will (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "24",
+    "offence": "Offence requiring a particular intent or knowledge committed by one who is intoxicated (Voluntary intoxication rule)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Rule of evidence)"
+  },
+  {
+    "section": "25",
+    "offence": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "26",
+    "offence": "Reason to believe (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "27",
+    "offence": "Act done in good faith for benefit of child or person of unsound mind, by or by consent of guardian (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "28",
+    "offence": "Consent known to be given under fear or misconception (Invalid consent rule)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Rule of law)"
+  },
+  {
+    "section": "29",
+    "offence": "Exclusion of acts which are offences independently of harm caused (Limitation on exceptions)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Limitation provision)"
+  },
+  {
+    "section": "30",
+    "offence": "Act done in good faith for benefit of a person without consent (General Exception/Emergency)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "31",
+    "offence": "Communication made in good faith (General Exception/Privilege)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "32",
+    "offence": "Act to which a person is compelled by threats (General Exception/Duress)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "33",
+    "offence": "Act causing slight harm (General Exception/De minimis)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "34",
+    "offence": "Acts done by several persons in furtherance of common intention (Joint liability provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Joint liability provision)"
+  },
+  {
+    "section": "35",
+    "offence": "Criminal conspiracy (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "36",
+    "offence": "Right of private defence against act of a person of unsound mind, etc. (Limitation on right)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "37",
+    "offence": "Acts against which there is no right of private defence (Limitation on right)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "38",
+    "offence": "When right of private defence of body extends to causing death (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "39",
+    "offence": "When such right extends to causing any harm other than death (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "40",
+    "offence": "Commencement and continuance of right of private defence of body (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "41",
+    "offence": "When right of private defence of property extends to causing death (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "42",
+    "offence": "When such right extends to causing any harm other than death (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "43",
+    "offence": "Punishment of offences (General provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General sentencing provision)"
+  },
+  {
+    "section": "44",
+    "offence": "Kinds of punishment (General provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General provision)"
+  },
+  {
+    "section": "45",
+    "offence": "Sentence of death (Method of execution)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Execution provision)"
+  },
+  {
+    "section": "46",
+    "offence": "Imprisonment (Classification)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Classification provision)"
+  },
+  {
+    "section": "47",
+    "offence": "Fine (General provision on fine)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General provision)"
+  },
+  {
+    "section": "48",
+    "offence": "Solitary confinement (Sentencing provision)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "49",
+    "offence": "Limitation of solitary confinement (Sentencing provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Sentencing provision)"
+  },
+  {
+    "section": "50",
+    "offence": "Enhanced punishment for certain offences (Repeat offender provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Enhanced sentencing provision)"
+  },
+  {
+    "section": "61",
+    "offence": "Abetment of a thing (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "62",
+    "offence": "Abetment by instigation (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "63",
+    "offence": "Rape",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Rigorous imprisonment of not less than 10 years extending to life, and fine"
+  },
+  {
+    "section": "64",
+    "offence": "Rape by person in authority (police officer, public servant, armed forces)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "65",
+    "offence": "Gang rape",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Rigorous imprisonment of not less than 20 years extending to imprisonment for life, and fine"
+  },
+  {
+    "section": "69",
+    "offence": "Sexual intercourse by husband upon wife during separation without her consent",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years and fine"
+  },
+  {
+    "section": "70",
+    "offence": "Sexual intercourse by person in authority abusing his position",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death or imprisonment for life and fine"
+  },
+  {
+    "section": "71",
+    "offence": "Sexual harassment",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Rigorous imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "72",
+    "offence": "Voyeurism",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment of not less than 1 year up to 3 years, and fine (first conviction)"
+  },
+  {
+    "section": "73",
+    "offence": "Stalking",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years and fine"
+  },
+  {
+    "section": "74",
+    "offence": "Word, gesture or act intended to insult the modesty of a woman",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "75",
+    "offence": "Assault or use of criminal force to woman with intent to disrobe",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment of not less than 3 years up to 7 years and fine"
+  },
+  {
+    "section": "76",
+    "offence": "Dowry death",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment of not less than 7 years extending to life"
+  },
+  {
+    "section": "77",
+    "offence": "Husband or relative of husband subjecting woman to cruelty",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years and fine"
+  },
+  {
+    "section": "78",
+    "offence": "Kidnapping or abducting woman to compel her marriage",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "79",
+    "offence": "Procuration of minor girl for illicit intercourse",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years or fine or both"
+  },
+  {
+    "section": "80",
+    "offence": "Kidnapping or abducting child for begging",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "81",
+    "offence": "Selling minor for purposes of prostitution or illicit intercourse",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "85",
+    "offence": "Husband or relative of husband subjecting woman to cruelty (dowry-related cruelty)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years and fine"
+  },
+  {
+    "section": "91",
+    "offence": "Causing miscarriage",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "92",
+    "offence": "Causing miscarriage without consent",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years, and fine"
+  },
+  {
+    "section": "93",
+    "offence": "Death caused by act done with intent to cause miscarriage",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "95",
+    "offence": "Exposure and abandonment of child under twelve years by parent or person having care",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years, or fine, or both"
+  },
+  {
+    "section": "96",
+    "offence": "Concealment of birth by secret disposal of dead body",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "97",
+    "offence": "Causing death of a child (Infanticide)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death or imprisonment for life and fine"
+  },
+  {
+    "section": "98",
+    "offence": "Murder by life-convict",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death"
+  },
+  {
+    "section": "99",
+    "offence": "Murder",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death or imprisonment for life and fine"
+  },
+  {
+    "section": "100",
+    "offence": "When culpable homicide is not murder (Classification provision)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "No punishment (exception definition)"
+  },
+  {
+    "section": "101",
+    "offence": "Culpable homicide by causing death of person other than person intended (Rule of transfer of intent)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "102",
+    "offence": "Culpable homicide not amounting to murder",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "103",
+    "offence": "Murder by life-convict",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death or imprisonment for life and fine"
+  },
+  {
+    "section": "104",
+    "offence": "Attempt to murder",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "105",
+    "offence": "Attempt to commit culpable homicide",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment"
+  },
+  {
+    "section": "106",
+    "offence": "Causing death by negligence",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years and fine"
+  },
+  {
+    "section": "107",
+    "offence": "Causing death by rash and negligent driving",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years and fine"
+  },
+  {
+    "section": "109",
+    "offence": "Abetting suicide",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "110",
+    "offence": "Attempt to commit suicide",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment"
+  },
+  {
+    "section": "111",
+    "offence": "Organised crime",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or death"
+  },
+  {
+    "section": "112",
+    "offence": "Petty organised crime (theft, snatching, vehicle theft by organised crime syndicate)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "113",
+    "offence": "Terrorist act",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or death"
+  },
+  {
+    "section": "114",
+    "offence": "Causing hurt (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "115",
+    "offence": "Voluntarily causing hurt (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "116",
+    "offence": "Grievous hurt (Definition)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "117",
+    "offence": "Voluntarily causing grievous hurt",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "118",
+    "offence": "Grievous hurt (Definition of kinds of grievous hurt)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "119",
+    "offence": "Voluntarily causing hurt by dangerous weapons",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years or fine or both"
+  },
+  {
+    "section": "120",
+    "offence": "Voluntarily causing grievous hurt by dangerous weapons",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "123",
+    "offence": "Wrongful restraint (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "124",
+    "offence": "Wrongful confinement (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "126",
+    "offence": "Wrongful confinement",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year, or fine up to Rs. 5,000, or both"
+  },
+  {
+    "section": "127",
+    "offence": "Wrongful confinement for three or more days",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "128",
+    "offence": "Wrongful confinement for ten or more days",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "131",
+    "offence": "Force (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "132",
+    "offence": "Criminal force (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "133",
+    "offence": "Assault (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "134",
+    "offence": "Assault",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine, or both"
+  },
+  {
+    "section": "135",
+    "offence": "Criminal force",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine up to Rs. 500, or both"
+  },
+  {
+    "section": "136",
+    "offence": "Kidnapping (Definition of kinds)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "137",
+    "offence": "Kidnapping from lawful guardianship (Definition)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death or imprisonment for life and fine"
+  },
+  {
+    "section": "140",
+    "offence": "Kidnapping",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "141",
+    "offence": "Abduction (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "144",
+    "offence": "Kidnapping or abducting with intent to murder",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "147",
+    "offence": "Wrongful confinement for extortion",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years and fine"
+  },
+  {
+    "section": "148",
+    "offence": "Extortion",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "149",
+    "offence": "Robbery (Definition)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "150",
+    "offence": "Robbery",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Rigorous imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "151",
+    "offence": "Dacoity (Definition)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "152",
+    "offence": "Dacoity",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Death or imprisonment for life and fine"
+  },
+  {
+    "section": "153",
+    "offence": "Theft",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "154",
+    "offence": "Theft (Definition)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years or fine or both"
+  },
+  {
+    "section": "157",
+    "offence": "Criminal misappropriation of property",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "158",
+    "offence": "Dishonest misappropriation of property possessed by deceased person at time of death",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years and fine"
+  },
+  {
+    "section": "159",
+    "offence": "Criminal breach of trust (Definition)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years or fine or both"
+  },
+  {
+    "section": "160",
+    "offence": "Criminal breach of trust",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "161",
+    "offence": "Receiving stolen property",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "162",
+    "offence": "Cheating (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year or fine or both"
+  },
+  {
+    "section": "163",
+    "offence": "Cheating",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "164",
+    "offence": "Cheating with knowledge that wrongful loss may ensue to person whose interest bound to protect",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "165",
+    "offence": "Cheating and dishonestly inducing delivery of property",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "166",
+    "offence": "Forgery",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "167",
+    "offence": "Forgery (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "168",
+    "offence": "Forgery for purpose of cheating",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "169",
+    "offence": "Making or possessing counterfeit seal, plate, etc., with intent to commit forgery",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years and fine"
+  },
+  {
+    "section": "176",
+    "offence": "Mischief (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "177",
+    "offence": "Mischief",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine, or both"
+  },
+  {
+    "section": "191",
+    "offence": "Criminal trespass (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "192",
+    "offence": "Criminal trespass",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine, or both"
+  },
+  {
+    "section": "193",
+    "offence": "House-trespass (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "194",
+    "offence": "House-trespass",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "195",
+    "offence": "House-breaking (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "196",
+    "offence": "House-breaking",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years and fine"
+  },
+  {
+    "section": "197",
+    "offence": "House-breaking by night",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years"
+  },
+  {
+    "section": "198",
+    "offence": "Lurking house-trespass or house-breaking",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years and fine"
+  },
+  {
+    "section": "199",
+    "offence": "Unlawful assembly (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "200",
+    "offence": "Being member of unlawful assembly",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 6 months, or fine, or both"
+  },
+  {
+    "section": "201",
+    "offence": "Rioting (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "202",
+    "offence": "Rioting",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "203",
+    "offence": "Liability of member of unlawful assembly for offence committed in prosecution of common object (Vicarious liability)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Vicarious liability provision)"
+  },
+  {
+    "section": "204",
+    "offence": "Affray (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "205",
+    "offence": "Affray",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 month, or fine, or both"
+  },
+  {
+    "section": "206",
+    "offence": "Unlawful assembly (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "207",
+    "offence": "Being member of unlawful assembly",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 6 months, or fine, or both"
+  },
+  {
+    "section": "208",
+    "offence": "Causing public nuisance (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "209",
+    "offence": "Public nuisance",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Fine"
+  },
+  {
+    "section": "221",
+    "offence": "Furnishing false information to public servant",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 6 months, or fine, or both"
+  },
+  {
+    "section": "222",
+    "offence": "Public servant disobeying law with intent to cause injury",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "223",
+    "offence": "Public servant framing incorrect document with intent to cause injury",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "224",
+    "offence": "Public servant unlawfully engaging in trade",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "225",
+    "offence": "Criminal force (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "226",
+    "offence": "Assault (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "227",
+    "offence": "Assault",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine up to Rs. 500, or both"
+  },
+  {
+    "section": "228",
+    "offence": "Giving false evidence (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "229",
+    "offence": "False evidence",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "230",
+    "offence": "Issuing or signing false certificate",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "231",
+    "offence": "Using as true a false certificate",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "234",
+    "offence": "Escaping from lawful custody",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "235",
+    "offence": "Resistance to lawful arrest",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "236",
+    "offence": "Obstructing public servant in discharge of duty",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine, or both"
+  },
+  {
+    "section": "237",
+    "offence": "Obstructing public servant in discharge of duty with knowledge of court order",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 6 months, or fine, or both"
+  },
+  {
+    "section": "238",
+    "offence": "Omission to apprehend or sufferance of escape by public servant",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "239",
+    "offence": "Resistance or obstruction by person to his lawful arrest",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "240",
+    "offence": "Harbouring escaped convict",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years and fine"
+  },
+  {
+    "section": "241",
+    "offence": "Criminal intimidation",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "242",
+    "offence": "Criminal intimidation (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "243",
+    "offence": "Intentional insult with intent to provoke breach of the peace",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "244",
+    "offence": "Defamation",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Simple imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "245",
+    "offence": "Defamation (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "246",
+    "offence": "Printing or engraving matter known to be defamatory",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "247",
+    "offence": "Sale of printed or engraved substance containing defamatory matter",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 2 years, or fine, or both"
+  },
+  {
+    "section": "248",
+    "offence": "Exceptions to defamation (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "249",
+    "offence": "Attempt to commit offences (General provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General attempt provision)"
+  },
+  {
+    "section": "250",
+    "offence": "Criminal conspiracy to commit offence",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General conspiracy provision)"
+  },
+  {
+    "section": "251",
+    "offence": "Attempt to commit suicide",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "Simple imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "252",
+    "offence": "Criminal conspiracy to commit offence (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "303",
+    "offence": "Act of a child under seven years (General Exception)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years or fine or both"
+  },
+  {
+    "section": "304",
+    "offence": "Act of a child above seven and under twelve of immature understanding (General Exception)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years or fine or both"
+  },
+  {
+    "section": "305",
+    "offence": "Act of a person of unsound mind (General Exception/Insanity)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "306",
+    "offence": "Act of a person incapable of judgment by reason of intoxication caused against will (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "307",
+    "offence": "Dishonest misappropriation of property possessed by deceased person at time of death",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years and fine"
+  },
+  {
+    "section": "308",
+    "offence": "Criminal breach of trust (Definition)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "309",
+    "offence": "Criminal breach of trust",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "310",
+    "offence": "Communication made in good faith (General Exception/Privilege)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "311",
+    "offence": "Act done to avoid other harm \u2014 necessity (General Exception)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (General Exception)"
+  },
+  {
+    "section": "312",
+    "offence": "Right of private defence of body (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "313",
+    "offence": "Right of private defence extending to causing death (Defence provision)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Defence provision)"
+  },
+  {
+    "section": "314",
+    "offence": "Criminal breach of trust (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "315",
+    "offence": "Criminal breach of trust by carrier, wharfinger, etc.",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "316",
+    "offence": "Criminal breach of trust by public servant",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "317",
+    "offence": "Criminal breach of trust",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "318",
+    "offence": "Cheating (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "319",
+    "offence": "Cheating by personation (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "320",
+    "offence": "Cheating",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "321",
+    "offence": "Cheating with knowledge that wrongful loss may ensue to person whose interest bound to protect",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "322",
+    "offence": "Cheating and dishonestly inducing delivery of property or valuable security",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "323",
+    "offence": "Cheating by personation",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "324",
+    "offence": "Cheating a person whose interests the offender is bound to protect",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years, or fine, or both"
+  },
+  {
+    "section": "325",
+    "offence": "Mischief (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "326",
+    "offence": "Mischief causing damage to public property (Government or local authority)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "327",
+    "offence": "Mischief by destroying or moving a boundary mark",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "328",
+    "offence": "Mischief by fire or explosive substance (Arson)",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "329",
+    "offence": "Mischief by inundation causing damage to land or public drainage",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months or fine or both"
+  },
+  {
+    "section": "330",
+    "offence": "Mischief by damaging telegraph, railway, or other public utility",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 10 years and fine"
+  },
+  {
+    "section": "331",
+    "offence": "Mischief by killing, poisoning, maiming or rendering useless animal of value of Rs. 50 or upwards",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "332",
+    "offence": "Mischief by injury to works of irrigation or agricultural land",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "333",
+    "offence": "Mischief (simple)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 3 months, or fine, or both"
+  },
+  {
+    "section": "334",
+    "offence": "Possession of stolen property",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "335",
+    "offence": "Dishonestly receiving stolen property",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 10 years, or fine, or both"
+  },
+  {
+    "section": "336",
+    "offence": "Forgery (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "337",
+    "offence": "Forgery of record of court or public register",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "338",
+    "offence": "Forgery of valuable security, will, or authority to adopt",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years, and fine"
+  },
+  {
+    "section": "339",
+    "offence": "Forgery for purpose of cheating",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "340",
+    "offence": "Forgery for purpose of harming reputation",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years and fine"
+  },
+  {
+    "section": "341",
+    "offence": "Using as genuine a forged document",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Same as for forgery of such document"
+  },
+  {
+    "section": "342",
+    "offence": "Making or possessing instrument for forgery",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "343",
+    "offence": "Counterfeiting currency notes or bank notes",
+    "bailable": false,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Court of Session",
+    "punishment": "Imprisonment for life or imprisonment up to 10 years, and fine"
+  },
+  {
+    "section": "344",
+    "offence": "Possession of forged document with intent to use as genuine",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 5 years, or fine, or both"
+  },
+  {
+    "section": "345",
+    "offence": "Falsification of accounts",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years and fine"
+  },
+  {
+    "section": "346",
+    "offence": "Property mark (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": false,
+    "trial_by": "Any Magistrate",
+    "punishment": "N/A (Definition)"
+  },
+  {
+    "section": "347",
+    "offence": "Counterfeiting a property mark",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "348",
+    "offence": "Using a false property mark",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  },
+  {
+    "section": "349",
+    "offence": "Removing property mark with intent to cause wrongful gain or loss",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Imprisonment up to 1 year, or fine, or both"
+  },
+  {
+    "section": "350",
+    "offence": "Fraudulent stamping of gold or silver (Hallmark fraud)",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": false,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 7 years, or fine, or both"
+  },
+  {
+    "section": "351",
+    "offence": "Trade mark (Definition)",
+    "bailable": true,
+    "cognizable": false,
+    "compoundable": true,
+    "trial_by": "Any Magistrate",
+    "punishment": "Fine up to Rs. 500"
+  },
+  {
+    "section": "352",
+    "offence": "Counterfeiting a trade mark",
+    "bailable": true,
+    "cognizable": true,
+    "compoundable": true,
+    "trial_by": "Magistrate First Class",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  }
+]

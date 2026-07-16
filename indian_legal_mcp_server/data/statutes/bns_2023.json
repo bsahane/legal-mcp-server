@@ -1,0 +1,2737 @@
+{
+  "act_id": "bns_2023",
+  "full_title": "Bharatiya Nyaya Sanhita, 2023",
+  "short_title": "BNS 2023",
+  "year": 2023,
+  "category": "criminal",
+  "enforcement_date": "2024-07-01",
+  "is_active": true,
+  "source_url": "https://indiacode.nic.in/handle/123456789/20076",
+  "last_verified": "2026-07-01",
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Short title, commencement and application",
+      "text": "This Act may be called the Bharatiya Nyaya Sanhita, 2023. It shall come into force on such date as the Central Government may appoint. It extends to the whole of India.",
+      "keywords": [
+        "short title",
+        "commencement",
+        "application",
+        "scope"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "2",
+      "section_title": "Punishment of offences committed within India",
+      "text": "Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.",
+      "keywords": [
+        "jurisdiction",
+        "territorial",
+        "offence within India"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "3",
+      "section_title": "Punishment of offences committed beyond, but which by law may be tried within India",
+      "text": "Any person liable, by any Indian law, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Sanhita for any act committed beyond India.",
+      "keywords": [
+        "extra-territorial",
+        "jurisdiction",
+        "beyond India"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "4",
+      "section_title": "Construction of references to offences",
+      "text": "Wherever the words 'offence' or 'offences' occur, they shall be understood to mean an act or thing punishable under this Sanhita.",
+      "keywords": [
+        "definition",
+        "offence",
+        "construction"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "5",
+      "section_title": "Certain laws not to be affected",
+      "text": "Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government.",
+      "keywords": [
+        "special laws",
+        "mutiny",
+        "armed forces"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "6",
+      "section_title": "Saving of offences under other laws",
+      "text": "Nothing in this Sanhita shall be construed to affect in any way the liability of any person to be tried or punished for any offence under any other law.",
+      "keywords": [
+        "saving clause",
+        "other laws",
+        "concurrent liability"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "7",
+      "section_title": "Meaning of expressions",
+      "text": "Throughout this Sanhita every definition of an offence shall be understood subject to the General Exceptions contained in Chapter XIV.",
+      "keywords": [
+        "General Exceptions",
+        "definitions",
+        "interpretation"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "8",
+      "section_title": "Sense of expression once explained",
+      "text": "Every expression which is explained in any part of this Sanhita is used in every part of this Sanhita in the sense explained.",
+      "keywords": [
+        "definition",
+        "interpretation",
+        "expression"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "9",
+      "section_title": "Number",
+      "text": "Words in the singular include the plural, and words in the plural include the singular.",
+      "keywords": [
+        "singular",
+        "plural",
+        "interpretation"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "10",
+      "section_title": "Man/Woman",
+      "text": "The word \"man\" denotes a male human being of any age; the word \"woman\" denotes a female human being of any age.",
+      "keywords": [
+        "man",
+        "woman",
+        "gender"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "11",
+      "section_title": "Person",
+      "text": "The word \"person\" includes any company or association or body of persons, whether incorporated or not.",
+      "keywords": [
+        "person",
+        "company",
+        "association",
+        "legal person"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "12",
+      "section_title": "Public servant",
+      "text": "The words \"public servant\" denote a person falling under any of the descriptions: every commissioned officer in the military, naval or air forces; every judge; every officer of a Court of Justice; every assessor; every arbitrator to whom any cause or matter has been referred.",
+      "keywords": [
+        "public servant",
+        "definition",
+        "government officer"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "13",
+      "section_title": "Movable property",
+      "text": "The words \"movable property\" are intended to include corporeal property of every description, except land and things attached to the earth.",
+      "keywords": [
+        "movable property",
+        "definition",
+        "land exclusion"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "14",
+      "section_title": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+      "text": "Nothing is an offence which is done by a person who is bound by law to do it, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself bound by law to do it.",
+      "keywords": [
+        "mistake of fact",
+        "bound by law",
+        "good faith",
+        "legal obligation"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "15",
+      "section_title": "Act not intended to cause death, done by consent in good faith for person's benefit",
+      "text": "Nothing which is not intended to cause death, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person for whose benefit it is done in good faith, and who has given a consent, whether express or implied, to suffer that harm.",
+      "keywords": [
+        "consent",
+        "good faith",
+        "benefit",
+        "harm",
+        "defence"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "16",
+      "section_title": "Act done pursuant to judgment or order of Court",
+      "text": "Nothing is an offence which is done pursuant to the judgment or order of a Court of Justice when done before the reversal of such judgment or order.",
+      "keywords": [
+        "court order",
+        "judgment",
+        "execution of order"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "17",
+      "section_title": "Act done by a person justified, or by mistake of fact believing himself justified, by law",
+      "text": "Nothing is an offence which is done by any person who is justified by law in doing it, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself justified by law in doing it.",
+      "keywords": [
+        "justified by law",
+        "mistake of fact",
+        "good faith"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "18",
+      "section_title": "Accident in doing a lawful act",
+      "text": "Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution.",
+      "keywords": [
+        "accident",
+        "misfortune",
+        "no criminal intent",
+        "lawful act"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "19",
+      "section_title": "Act likely to cause harm, but done without criminal intent, and to prevent other harm",
+      "text": "Nothing is an offence done in good faith for the purpose of preventing or avoiding other harm to person or property. Explanation — This exception does not extend to the intentional causing of death or the attempting to cause death.",
+      "keywords": [
+        "necessity",
+        "good faith",
+        "prevent harm",
+        "avoid harm"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "20",
+      "section_title": "Act of a child under seven years of age",
+      "text": "Nothing is an offence which is done by a child under seven years of age.",
+      "keywords": [
+        "child",
+        "under seven",
+        "infant",
+        "doli incapax"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "21",
+      "section_title": "Act of a child above seven and under twelve of immature understanding",
+      "text": "Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.",
+      "keywords": [
+        "child",
+        "immature understanding",
+        "doli capax",
+        "age seven to twelve"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "22",
+      "section_title": "Act of a person of unsound mind",
+      "text": "Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.",
+      "keywords": [
+        "unsound mind",
+        "insanity",
+        "mental illness",
+        "incapable of knowing"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "23",
+      "section_title": "Act of a person incapable of judgment by reason of intoxication caused against his will",
+      "text": "Nothing is an offence which is done by a person who, at the time of doing it, is by reason of intoxication, caused against his will, incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.",
+      "keywords": [
+        "intoxication",
+        "involuntary",
+        "incapable of judgment",
+        "against will"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "24",
+      "section_title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+      "text": "When an act is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.",
+      "keywords": [
+        "intoxication",
+        "specific intent",
+        "voluntary intoxication",
+        "knowledge"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "25",
+      "section_title": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent",
+      "text": "Nothing which is not intended to cause death, or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person above eighteen years of age who has given consent to suffer that harm, or by his will to take the risk of that harm.",
+      "keywords": [
+        "consent",
+        "harm",
+        "voluntary risk",
+        "grievous hurt"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "26",
+      "section_title": "Reason to believe",
+      "text": "A person is said to have 'reason to believe' a thing if he has sufficient cause to believe that thing but not otherwise.",
+      "keywords": [
+        "reason to believe",
+        "belief",
+        "knowledge"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "27",
+      "section_title": "Act done in good faith for benefit of child or person of unsound mind, by or by consent of guardian",
+      "text": "Nothing which is done in good faith for the benefit of a person under twelve years of age, or of a person of unsound mind, by or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause.",
+      "keywords": [
+        "guardian",
+        "good faith",
+        "benefit",
+        "child",
+        "unsound mind"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "28",
+      "section_title": "Consent known to be given under fear or misconception",
+      "text": "A consent is not such a consent as is intended by any section of this Sanhita if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consent was given in consequence of such fear or misconception.",
+      "keywords": [
+        "consent",
+        "fear",
+        "misconception",
+        "invalid consent",
+        "coercion"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "29",
+      "section_title": "Exclusion of acts which are offences independently of harm caused",
+      "text": "The provisions of sections 25, 26 and 27 do not extend to acts which are offences independently of any harm which they may cause, or be intended to cause, or be known to be likely to cause, to the person for whose benefit they are done.",
+      "keywords": [
+        "exclusion",
+        "independently punishable",
+        "harm",
+        "consent limitation"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "30",
+      "section_title": "Act done in good faith for benefit of a person without consent",
+      "text": "Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person's consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent.",
+      "keywords": [
+        "good faith",
+        "benefit",
+        "without consent",
+        "emergency",
+        "necessity"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "31",
+      "section_title": "Communication made in good faith",
+      "text": "No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.",
+      "keywords": [
+        "communication",
+        "good faith",
+        "benefit",
+        "confidential",
+        "privilege"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "32",
+      "section_title": "Act to which a person is compelled by threats",
+      "text": "Nothing is an offence which is done by a person who is compelled to do it by threats, which, at the time of doing it, reasonably cause the apprehension that instant death will otherwise be the consequence: Provided that the person doing the act did not voluntarily and without coercion put himself into the situation of being compelled.",
+      "keywords": [
+        "compulsion",
+        "threats",
+        "duress",
+        "coercion",
+        "instant death"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "33",
+      "section_title": "Act causing slight harm",
+      "text": "Nothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm.",
+      "keywords": [
+        "slight harm",
+        "de minimis",
+        "trivial",
+        "no complaint"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "34",
+      "section_title": "Acts done by several persons in furtherance of common intention",
+      "text": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+      "keywords": [
+        "common intention",
+        "group liability",
+        "joint liability",
+        "criminal act"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "35",
+      "section_title": "Criminal conspiracy",
+      "text": "When two or more persons agree to do, or cause to be done, an illegal act, or an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy.",
+      "keywords": [
+        "conspiracy",
+        "agreement",
+        "illegal act",
+        "criminal conspiracy"
+      ],
+      "chapter": "II — General Explanations"
+    },
+    {
+      "section_number": "36",
+      "section_title": "Right of private defence against act of a person of unsound mind, etc.",
+      "text": "The right of private defence in no case extends to the inflicting of more harm than is necessary to inflict for the purpose of defence. There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done by a public servant acting in good faith.",
+      "keywords": [
+        "private defence",
+        "unsound mind",
+        "limitations",
+        "necessary harm"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "37",
+      "section_title": "Acts against which there is no right of private defence",
+      "text": "There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act may not be strictly justifiable by law, provided there is no time to have recourse to the protection of the public authorities.",
+      "keywords": [
+        "private defence",
+        "public servant",
+        "good faith",
+        "limitation"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "38",
+      "section_title": "When right of private defence of body extends to causing death",
+      "text": "The right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant if the offence which occasions the exercise of the right is an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault.",
+      "keywords": [
+        "private defence",
+        "causing death",
+        "apprehension of death",
+        "assault"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "39",
+      "section_title": "When such right extends to causing any harm other than death",
+      "text": "The right of private defence of the body extends, in cases not covered by section 38, to the voluntary causing to the assailant of any harm other than death.",
+      "keywords": [
+        "private defence",
+        "harm other than death",
+        "grievous hurt"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "40",
+      "section_title": "Commencement and continuance of right of private defence of body",
+      "text": "The right of private defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence though the offence may not have been committed, and it continues as long as such apprehension of danger to the body continues.",
+      "keywords": [
+        "private defence",
+        "commencement",
+        "continuance",
+        "apprehension"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "41",
+      "section_title": "When right of private defence of property extends to causing death",
+      "text": "The right of private defence of property extends to the voluntary causing of death if the offence is robbery, house-breaking by night, mischief by fire to any building used as a human dwelling, theft, mischief or house-trespass and the fear of instant death or grievous hurt is reasonably apprehended.",
+      "keywords": [
+        "private defence",
+        "property",
+        "causing death",
+        "robbery",
+        "house-breaking"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "42",
+      "section_title": "When such right extends to causing any harm other than death",
+      "text": "The right of private defence of property extends, in cases not covered by section 41, to the voluntary causing to the wrongdoer of any harm other than death.",
+      "keywords": [
+        "private defence",
+        "property",
+        "harm other than death"
+      ],
+      "chapter": "III — General Exceptions"
+    },
+    {
+      "section_number": "43",
+      "section_title": "Punishment of offences",
+      "text": "Every offence shall be punished as prescribed in this Sanhita.",
+      "keywords": [
+        "punishment",
+        "sentence",
+        "penalty"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "44",
+      "section_title": "Kinds of punishment",
+      "text": "The punishments to which offenders are liable under the provisions of this Sanhita are: (a) Death; (b) Imprisonment for life; (c) Imprisonment, which is of two descriptions — rigorous and simple; (d) Forfeiture of property; (e) Fine; (f) Community service.",
+      "keywords": [
+        "kinds of punishment",
+        "death",
+        "life imprisonment",
+        "fine",
+        "community service"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "45",
+      "section_title": "Sentence of death",
+      "text": "When any person is sentenced to death, the sentence shall direct that he be hanged by the neck until he is dead.",
+      "keywords": [
+        "death sentence",
+        "execution",
+        "hanging"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "46",
+      "section_title": "Imprisonment",
+      "text": "Imprisonment may be rigorous, that is with hard labour, or simple.",
+      "keywords": [
+        "rigorous imprisonment",
+        "simple imprisonment",
+        "hard labour"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "47",
+      "section_title": "Fine",
+      "text": "Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive.",
+      "keywords": [
+        "fine",
+        "unlimited",
+        "quantum"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "48",
+      "section_title": "Solitary confinement",
+      "text": "When any person is convicted of an offence punishable with imprisonment for a term of one year or upwards, the court may sentence him to solitary confinement for any portion of the imprisonment.",
+      "keywords": [
+        "solitary confinement",
+        "imprisonment",
+        "punishment"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "49",
+      "section_title": "Limitation of solitary confinement",
+      "text": "Solitary confinement shall not exceed the limits prescribed.",
+      "keywords": [
+        "solitary confinement",
+        "limitation",
+        "maximum period"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "50",
+      "section_title": "Enhanced punishment for certain offences",
+      "text": "When an offence is committed by a person who has been previously convicted of the same or similar offence, the court may impose enhanced punishment.",
+      "keywords": [
+        "enhanced punishment",
+        "repeat offence",
+        "recidivist"
+      ],
+      "chapter": "III — Punishments"
+    },
+    {
+      "section_number": "61",
+      "section_title": "Abetment of a thing",
+      "text": "A person abets the doing of a thing when he instigates, engages in conspiracy, or intentionally aids the doing of that thing.",
+      "keywords": [
+        "abetment",
+        "instigation",
+        "conspiracy",
+        "aid"
+      ],
+      "chapter": "IV — Abetment"
+    },
+    {
+      "section_number": "62",
+      "section_title": "Abetment by instigation",
+      "text": "A person instigates another to do a thing when he actively suggests or stimulates the doing of that thing.",
+      "keywords": [
+        "instigation",
+        "abetment",
+        "suggestion"
+      ],
+      "chapter": "IV — Abetment"
+    },
+    {
+      "section_number": "63",
+      "section_title": "Punishment for rape",
+      "text": "Whoever, being a man, commits rape, shall be punished with rigorous imprisonment of not less than ten years, which may extend to imprisonment for life, and shall also be liable to fine.",
+      "keywords": [
+        "rape",
+        "sexual assault",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "64",
+      "section_title": "Punishment for rape by person in authority",
+      "text": "Whoever, being a police officer, public servant, member of armed forces, or person in a position of authority, commits rape shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life.",
+      "keywords": [
+        "rape",
+        "authority",
+        "police",
+        "public servant",
+        "armed forces"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "65",
+      "section_title": "Punishment for gang rape",
+      "text": "Where a woman is raped by one or more persons constituting a group acting in furtherance of their common intention, each of those persons shall be deemed to have committed rape and shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life.",
+      "keywords": [
+        "gang rape",
+        "group",
+        "common intention",
+        "punishment"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "69",
+      "section_title": "Sexual intercourse by husband upon wife during separation",
+      "text": "Whoever, being a husband, has sexual intercourse with his wife who is living separately under a decree of separation or under any custom or usage, without her consent, shall be punished with imprisonment of either description for a term which may extend to two years and shall also be liable to fine.",
+      "keywords": [
+        "marital rape",
+        "judicial separation",
+        "consent",
+        "husband"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "70",
+      "section_title": "Sexual intercourse by person in authority",
+      "text": "Whoever, being in a position of authority, abuses his position and has sexual intercourse with a woman under his authority, shall be punished with imprisonment.",
+      "keywords": [
+        "sexual harassment",
+        "authority",
+        "abuse of position"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "71",
+      "section_title": "Punishment for sexual harassment",
+      "text": "Whoever commits sexual harassment shall be punished with rigorous imprisonment for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "sexual harassment",
+        "workplace",
+        "punishment"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "72",
+      "section_title": "Voyeurism",
+      "text": "Whoever watches, or captures the image of a woman engaging in a private act, without her consent, shall be punished on first conviction with imprisonment of either description for a term which shall not be less than one year, but which may extend to three years, and shall also be liable to fine.",
+      "keywords": [
+        "voyeurism",
+        "privacy",
+        "image",
+        "woman",
+        "consent"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "73",
+      "section_title": "Stalking",
+      "text": "Whoever follows a woman, contacts her, or attempts to contact her to foster personal interaction repeatedly despite clear indication of disinterest, or monitors her use of internet or electronic communication, commits stalking.",
+      "keywords": [
+        "stalking",
+        "harassment",
+        "cyber",
+        "woman",
+        "electronic communication"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "74",
+      "section_title": "Word, gesture or act intended to insult the modesty of a woman",
+      "text": "Whoever, intending to insult the modesty of a woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, shall be punished.",
+      "keywords": [
+        "insult",
+        "modesty",
+        "woman",
+        "word",
+        "gesture"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "75",
+      "section_title": "Assault or use of criminal force to woman with intent to disrobe",
+      "text": "Whoever assaults or uses criminal force to any woman and strips her of her clothing, or compels her to be in a naked state, shall be punished with imprisonment.",
+      "keywords": [
+        "disrobe",
+        "assault",
+        "criminal force",
+        "woman",
+        "naked"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "76",
+      "section_title": "Dowry death",
+      "text": "Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called 'dowry death'.",
+      "keywords": [
+        "dowry death",
+        "cruelty",
+        "harassment",
+        "marriage",
+        "burn"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "77",
+      "section_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+      "text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+      "keywords": [
+        "cruelty",
+        "husband",
+        "relative",
+        "matrimonial",
+        "498A"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "78",
+      "section_title": "Kidnapping or abducting woman to compel her marriage",
+      "text": "Whoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, shall be punished.",
+      "keywords": [
+        "kidnapping",
+        "abduction",
+        "forced marriage",
+        "woman"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "79",
+      "section_title": "Procuration of minor girl",
+      "text": "Whoever procures a minor girl for the purpose of illicit intercourse with any person shall be punished.",
+      "keywords": [
+        "procuration",
+        "minor",
+        "girl",
+        "illicit intercourse",
+        "trafficking"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "80",
+      "section_title": "Kidnapping or abducting child for begging",
+      "text": "Whoever kidnaps or abducts any child for the purpose of begging shall be punished.",
+      "keywords": [
+        "kidnapping",
+        "child",
+        "begging",
+        "forced begging"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "81",
+      "section_title": "Selling minor for purposes of prostitution",
+      "text": "Whoever sells, lets to hire, or otherwise disposes of any minor with intent that such minor shall be employed or used for the purpose of prostitution or illicit intercourse, shall be punished.",
+      "keywords": [
+        "selling minor",
+        "prostitution",
+        "trafficking",
+        "child exploitation"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "85",
+      "section_title": "Husband or relative of husband of a woman subjecting her to cruelty (dowry-related cruelty)",
+      "text": "Whoever, being the husband or relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Explanation — 'Cruelty' means: (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health; (b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+      "keywords": [
+        "cruelty",
+        "dowry",
+        "498A",
+        "harassment",
+        "suicide",
+        "matrimonial"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "91",
+      "section_title": "Causing miscarriage",
+      "text": "Whoever voluntarily causes a woman with child to miscarry, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "miscarriage",
+        "abortion",
+        "pregnancy",
+        "voluntary"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "92",
+      "section_title": "Causing miscarriage without consent",
+      "text": "Whoever causes a woman to miscarry without her consent shall be punished with imprisonment for life or with imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "miscarriage",
+        "without consent",
+        "forced abortion"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "93",
+      "section_title": "Death caused by act done with intent to cause miscarriage",
+      "text": "Whoever, with intent to cause the miscarriage of a woman, does any act which causes the death of such woman, shall be punished.",
+      "keywords": [
+        "death",
+        "miscarriage",
+        "intent",
+        "woman death"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "95",
+      "section_title": "Exposure and abandonment of child under twelve years by parent or person having care",
+      "text": "Whoever, being the parent or person having care of a child under twelve years of age, exposes or abandons such child, shall be punished.",
+      "keywords": [
+        "abandonment",
+        "child",
+        "exposure",
+        "parent",
+        "neglect"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "96",
+      "section_title": "Concealment of birth by secret disposal of dead body",
+      "text": "Whoever, by secretly burying or otherwise disposing of the dead body of a child, intentionally conceals the birth of such child, shall be punished.",
+      "keywords": [
+        "concealment",
+        "birth",
+        "dead body",
+        "child"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "97",
+      "section_title": "Offences against children — causing death of a child",
+      "text": "Whoever causes the death of a child in any manner shall be punished according to the provisions of this Sanhita.",
+      "keywords": [
+        "child death",
+        "infanticide",
+        "child murder"
+      ],
+      "chapter": "V — Offences Against Woman and Child"
+    },
+    {
+      "section_number": "98",
+      "section_title": "Punishment for murder by life-convict",
+      "text": "Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death.",
+      "keywords": [
+        "murder",
+        "life convict",
+        "death sentence"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "99",
+      "section_title": "Punishment for murder",
+      "text": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.",
+      "keywords": [
+        "murder",
+        "punishment",
+        "death",
+        "life imprisonment"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "100",
+      "section_title": "When culpable homicide is not murder",
+      "text": "Culpable homicide is not murder if the offender, whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation.",
+      "keywords": [
+        "culpable homicide",
+        "murder",
+        "provocation",
+        "exception"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "101",
+      "section_title": "Culpable homicide by causing death of person other than person intended",
+      "text": "If a person, by doing anything which he intends or knows to be likely to cause death, causes death of any person whose death he neither intends nor knows himself to be likely to cause, such culpable homicide is murder.",
+      "keywords": [
+        "culpable homicide",
+        "murder",
+        "intention",
+        "death of another"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "102",
+      "section_title": "Punishment for culpable homicide not amounting to murder",
+      "text": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "culpable homicide",
+        "not murder",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "103",
+      "section_title": "Punishment for murder by life-convict",
+      "text": "Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death.",
+      "keywords": [
+        "murder",
+        "life convict",
+        "death penalty"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "104",
+      "section_title": "Punishment for attempt to murder",
+      "text": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "attempt to murder",
+        "attempt",
+        "intention",
+        "knowledge"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "105",
+      "section_title": "Punishment for attempt to commit culpable homicide",
+      "text": "Whoever attempts to commit culpable homicide shall be punished with imprisonment.",
+      "keywords": [
+        "attempt",
+        "culpable homicide",
+        "attempt to kill"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "106",
+      "section_title": "Punishment for causing death by negligence",
+      "text": "Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.",
+      "keywords": [
+        "negligence",
+        "death",
+        "rash act",
+        "negligent act",
+        "accident"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "107",
+      "section_title": "Causing death by rash and negligent driving",
+      "text": "Whoever causes the death of any person by rash and negligent driving of a vehicle not amounting to culpable homicide shall be punished.",
+      "keywords": [
+        "rash driving",
+        "negligent driving",
+        "death",
+        "road accident",
+        "vehicle"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "109",
+      "section_title": "Punishment for abetting suicide",
+      "text": "Whoever abets the commission of suicide by any person shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "abetment",
+        "suicide",
+        "instigation",
+        "driving to suicide"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "110",
+      "section_title": "Attempt to commit suicide",
+      "text": "Whoever attempts to commit suicide and does any act towards the commission of such offence shall be punished.",
+      "keywords": [
+        "attempt to suicide",
+        "suicide",
+        "mental health"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "111",
+      "section_title": "Organised crime",
+      "text": "Whoever, being a member of an organised crime syndicate, commits an offence shall be punished with imprisonment for a term which may extend to imprisonment for life or death.",
+      "keywords": [
+        "organised crime",
+        "syndicate",
+        "gang",
+        "MCOCA"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "112",
+      "section_title": "Petty organised crime",
+      "text": "Whoever commits petty organised crime such as theft, snatching, or vehicle theft as part of an organised crime syndicate shall be punished.",
+      "keywords": [
+        "petty organised crime",
+        "theft",
+        "snatching",
+        "gang"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "113",
+      "section_title": "Terrorist act",
+      "text": "Whoever commits a terrorist act with intent to threaten the unity, integrity, security, or sovereignty of India shall be punished.",
+      "keywords": [
+        "terrorist act",
+        "terrorism",
+        "national security",
+        "UAPA"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "114",
+      "section_title": "Causing hurt",
+      "text": "Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.",
+      "keywords": [
+        "hurt",
+        "bodily pain",
+        "disease",
+        "infirmity"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "115",
+      "section_title": "Voluntarily causing hurt",
+      "text": "Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said voluntarily to cause hurt.",
+      "keywords": [
+        "voluntarily causing hurt",
+        "intention",
+        "hurt"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "116",
+      "section_title": "Grievous hurt",
+      "text": "The following kinds of hurt only are designated as grievous: first, emasculation; secondly, permanent loss of sight; thirdly, permanent loss of hearing; fourthly, privation of any member or joint; fifthly, destruction or permanent impairing of the powers of any member or joint; sixthly, permanent disfiguration of the head or face; seventhly, fracture or dislocation of a bone or tooth; eighthly, any hurt which endangers life or which causes the sufferer to be during the space of twenty days in severe bodily pain or unable to follow his ordinary pursuits.",
+      "keywords": [
+        "grievous hurt",
+        "permanent injury",
+        "fracture"
+      ],
+      "chapter": "XV — Of Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "117",
+      "section_title": "Voluntarily causing grievous hurt",
+      "text": "Whoever voluntarily causes hurt, if the hurt which he causes is grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "grievous hurt",
+        "voluntarily causing grievous hurt",
+        "punishment"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "118",
+      "section_title": "Grievous hurt",
+      "text": "The following kinds of hurt are designated as 'grievous': (a) Emasculation; (b) Permanent loss of sight; (c) Permanent loss of hearing; (d) Privation of any member or joint; (e) Destruction or permanent impairing of powers of any member or joint; (f) Permanent disfiguration of head or face; (g) Fracture or dislocation of bone or tooth; (h) Any hurt which endangers life or which causes the sufferer to be in severe bodily pain or unable to follow ordinary pursuits for twenty days.",
+      "keywords": [
+        "grievous hurt",
+        "definition",
+        "fracture",
+        "dislocation",
+        "permanent loss"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "119",
+      "section_title": "Voluntarily causing hurt by dangerous weapons",
+      "text": "Whoever voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument used as a weapon of offence likely to cause death, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "dangerous weapons",
+        "hurt",
+        "stabbing",
+        "shooting"
+      ],
+      "chapter": "XV — Of Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "120",
+      "section_title": "Voluntarily causing grievous hurt by dangerous weapons",
+      "text": "Whoever voluntarily causes grievous hurt by any dangerous weapon or means shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "grievous hurt",
+        "dangerous weapon",
+        "life imprisonment"
+      ],
+      "chapter": "XV — Of Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "123",
+      "section_title": "Wrongful restraint",
+      "text": "Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person.",
+      "keywords": [
+        "wrongful restraint",
+        "obstruction",
+        "freedom of movement"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "124",
+      "section_title": "Wrongful confinement",
+      "text": "Whoever wrongfully restrains any person in such a manner as to prevent that person from proceeding beyond certain circumscribing limits, is said wrongfully to confine that person.",
+      "keywords": [
+        "wrongful confinement",
+        "illegal detention",
+        "restraint"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "126",
+      "section_title": "Punishment for wrongful confinement",
+      "text": "Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+      "keywords": [
+        "wrongful confinement",
+        "punishment",
+        "illegal detention"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "127",
+      "section_title": "Wrongful confinement for three or more days",
+      "text": "Whoever wrongfully confines any person for three days or more shall be punished with imprisonment.",
+      "keywords": [
+        "wrongful confinement",
+        "three days",
+        "extended detention"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "128",
+      "section_title": "Wrongful confinement of person for ten or more days",
+      "text": "Whoever wrongfully confines any person for ten days or more shall be punished with imprisonment.",
+      "keywords": [
+        "wrongful confinement",
+        "ten days",
+        "long detention"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "131",
+      "section_title": "Force",
+      "text": "A person is said to use force to another if he causes motion, change of motion, or cessation of motion to that other person.",
+      "keywords": [
+        "force",
+        "definition",
+        "criminal force"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "132",
+      "section_title": "Criminal force",
+      "text": "Whoever intentionally uses force to any person without that person's consent, in order to cause injury, fear, or annoyance, commits criminal force.",
+      "keywords": [
+        "criminal force",
+        "assault",
+        "force without consent"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "133",
+      "section_title": "Assault",
+      "text": "Whoever makes any gesture or preparation, intending or knowing it to be likely that such gesture or preparation will cause any person to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault.",
+      "keywords": [
+        "assault",
+        "apprehension",
+        "criminal force",
+        "gesture"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "134",
+      "section_title": "Punishment for assault",
+      "text": "Whoever commits assault shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+      "keywords": [
+        "assault",
+        "punishment",
+        "simple assault"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "135",
+      "section_title": "Punishment for criminal force",
+      "text": "Whoever commits criminal force without the consent of the other person shall be punished.",
+      "keywords": [
+        "criminal force",
+        "punishment",
+        "non-consensual force"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "136",
+      "section_title": "Kidnapping",
+      "text": "Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship.",
+      "keywords": [
+        "kidnapping",
+        "definition",
+        "from India",
+        "from guardianship"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "137",
+      "section_title": "Kidnapping from lawful guardianship",
+      "text": "Whoever takes or entices any minor or person of unsound mind out of the keeping of the lawful guardian without consent of such guardian, is said to kidnap such minor or person from lawful guardianship.",
+      "keywords": [
+        "kidnapping",
+        "minor",
+        "guardianship",
+        "enticement"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "140",
+      "section_title": "Punishment for kidnapping",
+      "text": "Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "kidnapping",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "141",
+      "section_title": "Abduction",
+      "text": "Whoever by force compels, or by any deceitful means induces, any person to go from any place, is said to abduct that person.",
+      "keywords": [
+        "abduction",
+        "force",
+        "deceit",
+        "compulsion"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "144",
+      "section_title": "Kidnapping or abducting with intent to murder",
+      "text": "Whoever kidnaps or abducts any person with intent that such person may be murdered, shall be punished.",
+      "keywords": [
+        "kidnapping for murder",
+        "abduction",
+        "intent to kill"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "147",
+      "section_title": "Wrongful confinement for extortion",
+      "text": "Whoever wrongfully confines any person for the purpose of extorting any property or valuable security shall be punished.",
+      "keywords": [
+        "wrongful confinement",
+        "extortion",
+        "property",
+        "ransom"
+      ],
+      "chapter": "VI — Offences Affecting the Human Body"
+    },
+    {
+      "section_number": "148",
+      "section_title": "Punishment for extortion",
+      "text": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "extortion",
+        "punishment",
+        "property",
+        "threat"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "149",
+      "section_title": "Robbery",
+      "text": "In all robbery there is either extortion or theft. Theft is 'robbery' if, in the course of committing theft, the offender causes or attempts to cause death, hurt, or wrongful restraint.",
+      "keywords": [
+        "robbery",
+        "theft",
+        "extortion",
+        "hurt",
+        "force"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "150",
+      "section_title": "Punishment for robbery",
+      "text": "Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "robbery",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "151",
+      "section_title": "Dacoity",
+      "text": "When five or more persons conjointly commit or attempt to commit a robbery, every person so committing, attempting, or aiding is said to commit dacoity.",
+      "keywords": [
+        "dacoity",
+        "robbery",
+        "five persons",
+        "gang",
+        "armed"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "152",
+      "section_title": "Punishment for dacoity",
+      "text": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "dacoity",
+        "punishment",
+        "life imprisonment"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "153",
+      "section_title": "Punishment for theft",
+      "text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "theft",
+        "punishment",
+        "stealing",
+        "movable property"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "154",
+      "section_title": "Theft",
+      "text": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+      "keywords": [
+        "theft",
+        "definition",
+        "dishonest",
+        "movable property",
+        "consent"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "157",
+      "section_title": "Criminal misappropriation of property",
+      "text": "Whoever dishonestly misappropriates or converts to his own use any movable property, shall be punished.",
+      "keywords": [
+        "criminal misappropriation",
+        "conversion",
+        "property"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "158",
+      "section_title": "Dishonest misappropriation of property possessed by deceased person at time of death",
+      "text": "Whoever, dishonestly misappropriates property which he knows to have been in the possession of a deceased person at the time of that person's death, shall be punished.",
+      "keywords": [
+        "misappropriation",
+        "deceased",
+        "property",
+        "inheritance"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "159",
+      "section_title": "Criminal breach of trust",
+      "text": "Whoever, being entrusted with property, or with any dominion over property, dishonestly misappropriates or converts that property to his own use, commits criminal breach of trust.",
+      "keywords": [
+        "criminal breach of trust",
+        "entrustment",
+        "misappropriation"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "160",
+      "section_title": "Punishment for criminal breach of trust",
+      "text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "criminal breach of trust",
+        "punishment",
+        "entrusted property"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "161",
+      "section_title": "Receiving stolen property",
+      "text": "Whoever receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished.",
+      "keywords": [
+        "receiving stolen property",
+        "stolen goods",
+        "knowledge"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "162",
+      "section_title": "Cheating",
+      "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm, is said to 'cheat'.",
+      "keywords": [
+        "cheating",
+        "fraud",
+        "deception",
+        "inducement",
+        "property"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "163",
+      "section_title": "Punishment for cheating",
+      "text": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "keywords": [
+        "cheating",
+        "punishment",
+        "fraud"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "164",
+      "section_title": "Cheating with knowledge that wrongful loss may ensue",
+      "text": "Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest he is bound to protect, shall be punished.",
+      "keywords": [
+        "cheating",
+        "wrongful loss",
+        "knowledge",
+        "aggravated"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "165",
+      "section_title": "Cheating and dishonestly inducing delivery of property",
+      "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, shall be punished with imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "cheating",
+        "delivery of property",
+        "inducement",
+        "fraud"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "166",
+      "section_title": "Punishment for forgery",
+      "text": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "keywords": [
+        "forgery",
+        "punishment",
+        "false document"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "167",
+      "section_title": "Forgery",
+      "text": "Whoever makes any false document or false electronic record with intent to cause damage or injury, or to support any claim, or to commit fraud, commits forgery.",
+      "keywords": [
+        "forgery",
+        "false document",
+        "false electronic record",
+        "fraud"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "168",
+      "section_title": "Forgery for purpose of cheating",
+      "text": "Whoever commits forgery, intending that the document forged shall be used for the purpose of cheating, shall be punished with imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "forgery",
+        "cheating",
+        "aggravated forgery"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "169",
+      "section_title": "Making or possessing counterfeit seal, etc., with intent to commit forgery",
+      "text": "Whoever makes or possesses any counterfeit seal, plate, or other instrument with intent to commit forgery shall be punished.",
+      "keywords": [
+        "counterfeit",
+        "seal",
+        "forgery",
+        "instrument"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "176",
+      "section_title": "Mischief",
+      "text": "Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property as destroys or diminishes its value or utility, commits 'mischief'.",
+      "keywords": [
+        "mischief",
+        "destruction",
+        "property",
+        "damage",
+        "vandalism"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "177",
+      "section_title": "Punishment for mischief",
+      "text": "Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+      "keywords": [
+        "mischief",
+        "punishment",
+        "property damage"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "191",
+      "section_title": "Criminal trespass",
+      "text": "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, commits criminal trespass.",
+      "keywords": [
+        "criminal trespass",
+        "entry",
+        "property",
+        "possession"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "192",
+      "section_title": "Punishment for criminal trespass",
+      "text": "Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+      "keywords": [
+        "criminal trespass",
+        "punishment"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "193",
+      "section_title": "House-trespass",
+      "text": "Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or as a place for worship or for custody of property, commits house-trespass.",
+      "keywords": [
+        "house-trespass",
+        "dwelling",
+        "building",
+        "worship"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "194",
+      "section_title": "Punishment for house-trespass",
+      "text": "Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "keywords": [
+        "house-trespass",
+        "punishment"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "195",
+      "section_title": "House-breaking",
+      "text": "A person is said to commit house-breaking who commits house-trespass if he effects his entrance into the house by any of the means specified.",
+      "keywords": [
+        "house-breaking",
+        "break-in",
+        "burglary"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "196",
+      "section_title": "Punishment for house-breaking",
+      "text": "Whoever commits house-breaking shall be punished with imprisonment for a term which may extend to two years, and shall also be liable to fine.",
+      "keywords": [
+        "house-breaking",
+        "punishment",
+        "burglary"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "197",
+      "section_title": "House-breaking by night",
+      "text": "Whoever commits house-breaking between sunset and sunrise shall be punished with imprisonment for a term which may extend to five years.",
+      "keywords": [
+        "house-breaking",
+        "night",
+        "aggravated",
+        "burglary"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "198",
+      "section_title": "Punishment for lurking house-trespass or house-breaking",
+      "text": "Whoever commits lurking house-trespass or house-breaking shall be punished.",
+      "keywords": [
+        "lurking",
+        "house-trespass",
+        "house-breaking",
+        "concealment"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "199",
+      "section_title": "Unlawful assembly",
+      "text": "An assembly of five or more persons is designated an 'unlawful assembly' if the common object is to: (a) Overawe the government or any public servant; (b) Resist execution of law; (c) Commit any mischief or criminal trespass; (d) Forcibly take possession of property; (e) Compel a person to do what he is not legally bound to do.",
+      "keywords": [
+        "unlawful assembly",
+        "five persons",
+        "common object",
+        "riot"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "200",
+      "section_title": "Punishment for being member of unlawful assembly",
+      "text": "Whoever, being a member of an unlawful assembly, shall be punished with imprisonment for a term which may extend to six months, or with fine, or with both.",
+      "keywords": [
+        "unlawful assembly",
+        "punishment",
+        "member"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "201",
+      "section_title": "Rioting",
+      "text": "Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting.",
+      "keywords": [
+        "rioting",
+        "violence",
+        "force",
+        "unlawful assembly"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "202",
+      "section_title": "Punishment for rioting",
+      "text": "Whoever is guilty of rioting shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "keywords": [
+        "rioting",
+        "punishment",
+        "violence"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "203",
+      "section_title": "Liability of member of unlawful assembly for offence committed in prosecution of common object",
+      "text": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.",
+      "keywords": [
+        "unlawful assembly",
+        "common object",
+        "vicarious liability",
+        "constructive liability"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "204",
+      "section_title": "Affray",
+      "text": "When two or more persons, by fighting in a public place, disturb the public peace, they are said to commit an affray.",
+      "keywords": [
+        "affray",
+        "public place",
+        "fighting",
+        "disturbance"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "205",
+      "section_title": "Punishment for affray",
+      "text": "Whoever commits an affray shall be punished with imprisonment of either description for a term which may extend to one month, or with fine, or with both.",
+      "keywords": [
+        "affray",
+        "punishment",
+        "public fight"
+      ],
+      "chapter": "VIII — Offences Against Public Tranquillity"
+    },
+    {
+      "section_number": "206",
+      "section_title": "Unlawful assembly",
+      "text": "An assembly of five or more persons is designated an unlawful assembly if the common object of the persons composing that assembly is to overawe the Government, resist execution of law, commit mischief, criminal trespass, or any offence.",
+      "keywords": [
+        "unlawful assembly",
+        "five persons",
+        "common object"
+      ],
+      "chapter": "XVI — Of Offences Relating to Public Order and Decency"
+    },
+    {
+      "section_number": "207",
+      "section_title": "Punishment for unlawful assembly",
+      "text": "Whoever, being a member of an unlawful assembly, shall be punished with imprisonment for a term which may extend to six months, or with fine, or with both.",
+      "keywords": [
+        "unlawful assembly",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "XVI — Of Offences Relating to Public Order and Decency"
+    },
+    {
+      "section_number": "208",
+      "section_title": "Causing public nuisance",
+      "text": "Whoever does any act or omits to do any act which causes any common injury, danger or annoyance to the public, commits public nuisance.",
+      "keywords": [
+        "public nuisance",
+        "common injury",
+        "danger",
+        "annoyance"
+      ],
+      "chapter": "IX — Offences Relating to Public Order and Decency"
+    },
+    {
+      "section_number": "209",
+      "section_title": "Punishment for public nuisance",
+      "text": "Whoever commits a public nuisance shall be punished.",
+      "keywords": [
+        "public nuisance",
+        "punishment"
+      ],
+      "chapter": "IX — Offences Relating to Public Order and Decency"
+    },
+    {
+      "section_number": "221",
+      "section_title": "Furnishing false information",
+      "text": "Whoever, being legally bound to furnish information on any subject, furnishes information which he knows or believes to be false, shall be punished.",
+      "keywords": [
+        "false information",
+        "misinformation",
+        "legal obligation"
+      ],
+      "chapter": "X — Offences by or Relating to Public Servants"
+    },
+    {
+      "section_number": "222",
+      "section_title": "Public servant disobeying law with intent to cause injury",
+      "text": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself, intending to cause injury to any person, shall be punished.",
+      "keywords": [
+        "public servant",
+        "disobedience",
+        "injury",
+        "abuse of office"
+      ],
+      "chapter": "X — Offences by or Relating to Public Servants"
+    },
+    {
+      "section_number": "223",
+      "section_title": "Public servant framing incorrect document with intent to cause injury",
+      "text": "Whoever, being a public servant, frames any incorrect document with intent to cause injury to any person, shall be punished.",
+      "keywords": [
+        "public servant",
+        "incorrect document",
+        "false document",
+        "injury"
+      ],
+      "chapter": "X — Offences by or Relating to Public Servants"
+    },
+    {
+      "section_number": "224",
+      "section_title": "Public servant unlawfully engaging in trade",
+      "text": "Whoever, being a public servant, engages in trade or business, shall be punished.",
+      "keywords": [
+        "public servant",
+        "trade",
+        "business",
+        "unlawful"
+      ],
+      "chapter": "X — Offences by or Relating to Public Servants"
+    },
+    {
+      "section_number": "225",
+      "section_title": "Criminal force",
+      "text": "Whoever intentionally uses force to any person without that person's consent, in order to cause injury, fear or annoyance, commits criminal force.",
+      "keywords": [
+        "criminal force",
+        "assault",
+        "force"
+      ],
+      "chapter": "XIII — Of Offences Relating to Criminal Force"
+    },
+    {
+      "section_number": "226",
+      "section_title": "Assault",
+      "text": "Whoever makes any gesture or preparation, intending or knowing it to be likely that such gesture or preparation will cause any person to apprehend that force is about to be used against him, is said to commit assault.",
+      "keywords": [
+        "assault",
+        "threat",
+        "gesture"
+      ],
+      "chapter": "XIII — Of Offences Relating to Criminal Force"
+    },
+    {
+      "section_number": "227",
+      "section_title": "Punishment for assault",
+      "text": "Whoever commits assault shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.",
+      "keywords": [
+        "assault",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "XIII — Of Offences Relating to Criminal Force"
+    },
+    {
+      "section_number": "228",
+      "section_title": "Giving false evidence",
+      "text": "Whoever, being legally bound by an oath or by any express provision of law to state the truth, makes a false statement, is said to give false evidence.",
+      "keywords": [
+        "false evidence",
+        "perjury",
+        "false statement",
+        "oath"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "229",
+      "section_title": "Punishment for false evidence",
+      "text": "Whoever gives false evidence shall be punished with imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "false evidence",
+        "perjury",
+        "punishment"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "230",
+      "section_title": "Issuing or signing false certificate",
+      "text": "Whoever issues or signs any certificate required by law to be given, knowing that such certificate is false, shall be punished.",
+      "keywords": [
+        "false certificate",
+        "false document",
+        "issuing",
+        "signing"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "231",
+      "section_title": "Using as true a false certificate",
+      "text": "Whoever uses as true any certificate which he knows or believes to be false, shall be punished.",
+      "keywords": [
+        "false certificate",
+        "using",
+        "fraud"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "234",
+      "section_title": "Escaping from lawful custody",
+      "text": "Whoever, being in lawful custody, escapes from such custody, shall be punished.",
+      "keywords": [
+        "escape",
+        "lawful custody",
+        "prison break",
+        "escape from custody"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "235",
+      "section_title": "Resistance to arrest",
+      "text": "Whoever voluntarily obstructs or resists the lawful apprehension of himself or any other person, shall be punished.",
+      "keywords": [
+        "resistance",
+        "arrest",
+        "obstruction",
+        "lawful apprehension"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "236",
+      "section_title": "Obstructing public servant in discharge of duty",
+      "text": "Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished.",
+      "keywords": [
+        "obstruction",
+        "public servant",
+        "discharge of duty"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "237",
+      "section_title": "Obstructing public servant in discharge of duty with knowledge of court order",
+      "text": "Whoever obstructs a public servant in the discharge of his duty knowing that the public servant is acting under a court order, shall be punished.",
+      "keywords": [
+        "obstruction",
+        "public servant",
+        "court order",
+        "contempt"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "238",
+      "section_title": "Omission to apprehend or sufferance of escape",
+      "text": "Whoever, being a public servant legally bound to apprehend any person, omits to do so, or suffers such person to escape, shall be punished.",
+      "keywords": [
+        "public servant",
+        "omission",
+        "apprehend",
+        "escape",
+        "negligence"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "239",
+      "section_title": "Resistance or obstruction by person to his lawful arrest",
+      "text": "Whoever resists or obstructs the lawful arrest of himself shall be punished.",
+      "keywords": [
+        "resistance",
+        "arrest",
+        "self-arrest",
+        "obstruction"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "240",
+      "section_title": "Harbouring escaped convict",
+      "text": "Whoever harbours any person who has escaped from lawful custody, knowing him to have so escaped, shall be punished.",
+      "keywords": [
+        "harbouring",
+        "escaped convict",
+        "escape"
+      ],
+      "chapter": "XI — Offences Relating to Criminal Force and Offences Against Public Justice"
+    },
+    {
+      "section_number": "241",
+      "section_title": "Punishment for criminal intimidation",
+      "text": "Whoever commits criminal intimidation shall be punished with imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "keywords": [
+        "criminal intimidation",
+        "threat",
+        "punishment"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "242",
+      "section_title": "Criminal intimidation",
+      "text": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which he is legally entitled to do, commits criminal intimidation.",
+      "keywords": [
+        "criminal intimidation",
+        "threat",
+        "alarm",
+        "injury"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "243",
+      "section_title": "Intentional insult with intent to provoke breach of the peace",
+      "text": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, shall be punished.",
+      "keywords": [
+        "intentional insult",
+        "provocation",
+        "breach of peace"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "244",
+      "section_title": "Punishment for defamation",
+      "text": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "keywords": [
+        "defamation",
+        "punishment",
+        "reputation",
+        "libel",
+        "slander"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "245",
+      "section_title": "Defamation",
+      "text": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said to defame that person.",
+      "keywords": [
+        "defamation",
+        "imputation",
+        "reputation",
+        "harm",
+        "publication"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "246",
+      "section_title": "Printing or engraving matter known to be defamatory",
+      "text": "Whoever prints or engraves any matter which he knows to be defamatory shall be punished.",
+      "keywords": [
+        "defamation",
+        "printing",
+        "engraving",
+        "publication"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "247",
+      "section_title": "Sale of printed or engraved substance containing defamatory matter",
+      "text": "Whoever sells or offers for sale any printed or engraved substance containing defamatory matter, knowing it to contain such matter, shall be punished.",
+      "keywords": [
+        "defamation",
+        "sale",
+        "printed matter",
+        "knowledge"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "248",
+      "section_title": "Exceptions to defamation",
+      "text": "It is not defamation to impute anything which is true concerning any person, if it is for the public good that the imputation should be made or published.",
+      "keywords": [
+        "defamation",
+        "exception",
+        "truth",
+        "public good",
+        "defence"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "249",
+      "section_title": "Attempt to commit offences",
+      "text": "Whoever attempts to commit an offence punishable by this Sanhita with imprisonment for life or imprisonment, and in such attempt does any act towards the commission of the offence, shall be punished with imprisonment of any description for a term which may extend to one-half of the imprisonment for life or to one-half of the longest term of imprisonment provided for that offence, or with fine, or with both.",
+      "keywords": [
+        "attempt",
+        "punishment",
+        "half sentence"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "250",
+      "section_title": "Punishment for criminal conspiracy",
+      "text": "Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall be punished in the same manner as if he had abetted such offence.",
+      "keywords": [
+        "criminal conspiracy",
+        "punishment",
+        "abetment"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "251",
+      "section_title": "Attempt to commit suicide",
+      "text": "Whoever attempts to commit suicide and does any act towards the commission of such offence, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.",
+      "keywords": [
+        "attempt to suicide",
+        "suicide attempt"
+      ],
+      "chapter": "XIII — Attempt and Criminal Conspiracy"
+    },
+    {
+      "section_number": "252",
+      "section_title": "Criminal conspiracy to commit offence",
+      "text": "When two or more persons agree to do, or cause to be done, an illegal act, or an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy.",
+      "keywords": [
+        "criminal conspiracy",
+        "agreement",
+        "illegal act"
+      ],
+      "chapter": "XII — Offences Relating to Intimidation and Defamation"
+    },
+    {
+      "section_number": "303",
+      "section_title": "General exceptions — Act of a child under seven years",
+      "text": "Nothing is an offence which is done by a child under seven years of age.",
+      "keywords": [
+        "child",
+        "infant",
+        "under seven",
+        "defence",
+        "doli incapax"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "304",
+      "section_title": "Act of a child above seven and under twelve of immature understanding",
+      "text": "Nothing is an offence which is done by a child above seven years of age and under twelve, who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct.",
+      "keywords": [
+        "child",
+        "minor",
+        "immature understanding",
+        "defence",
+        "doli incapax"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "305",
+      "section_title": "Act of a person of unsound mind",
+      "text": "Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.",
+      "keywords": [
+        "unsound mind",
+        "insanity",
+        "defence",
+        "mental illness",
+        "McNaughten"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "306",
+      "section_title": "Act of a person incapable of judgment by reason of intoxication",
+      "text": "Nothing is an offence which is done by a person who, at the time of doing it, is incapable of knowing the nature of the act by reason of intoxication, provided that the thing which intoxicated him was administered without his knowledge or against his will.",
+      "keywords": [
+        "intoxication",
+        "involuntary",
+        "defence",
+        "incapable of judgment"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "307",
+      "section_title": "Dishonest misappropriation of property possessed by deceased person",
+      "text": "Whoever, at the time of the death of any person, knowingly dishonestly misappropriates property which he knows to have been in the possession of the deceased at the time of his death, shall be punished with imprisonment for a term which may extend to three years, and shall also be liable to fine.",
+      "keywords": [
+        "misappropriation",
+        "deceased",
+        "possession"
+      ],
+      "chapter": "VIII — Offences Against Property"
+    },
+    {
+      "section_number": "308",
+      "section_title": "Criminal breach of trust",
+      "text": "Whoever, being in any manner entrusted with property, dishonestly misappropriates or converts to his own use that property, commits criminal breach of trust.",
+      "keywords": [
+        "criminal breach of trust",
+        "entrustment",
+        "misappropriation"
+      ],
+      "chapter": "VIII — Offences Against Property"
+    },
+    {
+      "section_number": "309",
+      "section_title": "Punishment for criminal breach of trust",
+      "text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "breach of trust",
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "VIII — Offences Against Property"
+    },
+    {
+      "section_number": "310",
+      "section_title": "Communication made in good faith",
+      "text": "No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.",
+      "keywords": [
+        "good faith",
+        "communication",
+        "benefit",
+        "doctor-patient"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "311",
+      "section_title": "Act done to avoid other harm — necessity",
+      "text": "Nothing is an offence by reason of any harm which it may cause, if that harm was done in order to avoid other harm to person or property.",
+      "keywords": [
+        "necessity",
+        "avoid harm",
+        "defence",
+        "emergency"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "312",
+      "section_title": "Right of private defence of body",
+      "text": "Every person has a right to defend his own body and the body of any other person, against any offence affecting the human body.",
+      "keywords": [
+        "right of private defence",
+        "self-defence",
+        "body"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "313",
+      "section_title": "Right of private defence extending to causing death",
+      "text": "The right of private defence of the body extends to causing death if there is reasonable apprehension of: death, grievous hurt, rape, unnatural offence, kidnapping, abduction, or wrongful confinement.",
+      "keywords": [
+        "self-defence",
+        "death",
+        "private defence",
+        "reasonable apprehension"
+      ],
+      "chapter": "XIV — General Exceptions"
+    },
+    {
+      "section_number": "314",
+      "section_title": "Criminal breach of trust",
+      "text": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, commits \"criminal breach of trust\".",
+      "keywords": [
+        "trust",
+        "breach",
+        "misappropriation",
+        "property",
+        "entrustment"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "315",
+      "section_title": "Criminal breach of trust by carrier, etc.",
+      "text": "Whoever, being a carrier, wharfinger or other bailee, commits criminal breach of trust in respect of property entrusted to him.",
+      "keywords": [
+        "carrier",
+        "bailee",
+        "criminal breach of trust"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "316",
+      "section_title": "Criminal breach of trust by public servant",
+      "text": "Whoever, being a public servant, commits criminal breach of trust in respect of any property entrusted to him as such public servant.",
+      "keywords": [
+        "public servant",
+        "corruption",
+        "misappropriation"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "317",
+      "section_title": "Punishment for criminal breach of trust",
+      "text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "punishment",
+        "imprisonment"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "318",
+      "section_title": "Cheating",
+      "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to \"cheat\".",
+      "keywords": [
+        "cheating",
+        "fraud",
+        "deception",
+        "inducement"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "319",
+      "section_title": "Cheating by personation",
+      "text": "A person is said to \"cheat by personation\" if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he respectively is.",
+      "keywords": [
+        "personation",
+        "identity fraud",
+        "cheating"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "320",
+      "section_title": "Punishment for cheating",
+      "text": "Whoever commits cheating shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "punishment",
+        "cheating",
+        "imprisonment"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "321",
+      "section_title": "Cheating with knowledge that wrongful loss may ensue",
+      "text": "Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law or by legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "cheating",
+        "wrongful loss",
+        "breach of trust"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "322",
+      "section_title": "Cheating and dishonestly inducing delivery of property",
+      "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "cheating",
+        "property delivery",
+        "valuable security"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "323",
+      "section_title": "Punishment for cheating by personation",
+      "text": "Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "personation",
+        "cheating",
+        "punishment"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "324",
+      "section_title": "Cheating a person whose interests the offender is bound to protect",
+      "text": "Whoever cheats a person whose interest in the transaction to which the cheating relates, he was bound, either by law or by legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+      "keywords": [
+        "fiduciary duty",
+        "cheating",
+        "protection"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "325",
+      "section_title": "Mischief",
+      "text": "Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility or affects it injuriously, commits \"mischief\".",
+      "keywords": [
+        "mischief",
+        "damage",
+        "property destruction",
+        "wrongful loss"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "326",
+      "section_title": "Mischief causing damage to public property",
+      "text": "Whoever commits mischief and thereby causes damage to any property belonging to the Government or any local authority shall be punished with imprisonment for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "mischief",
+        "public property",
+        "vandalism"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "327",
+      "section_title": "Mischief by destroying or moving a boundary mark",
+      "text": "Whoever commits mischief by destroying or moving any landmark or boundary mark fixed by authority of a public servant, or by wrongfully taking up or removing any landmark or boundary mark fixed by the lawful authority of a public servant, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "boundary mark",
+        "mischief",
+        "land dispute"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "328",
+      "section_title": "Mischief by fire or explosive substance",
+      "text": "Whoever commits mischief by fire or any explosive substance intending to cause, or knowing it to be likely to cause, damage to any property shall be punished with imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "fire",
+        "explosive",
+        "arson",
+        "mischief"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "329",
+      "section_title": "Mischief by inundation",
+      "text": "Whoever commits mischief by causing the inundation of any land, or by causing the obstruction of any public drainage system, shall be punished with imprisonment for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "inundation",
+        "water damage",
+        "mischief"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "330",
+      "section_title": "Mischief re damage to telegraph, railway, etc.",
+      "text": "Whoever commits mischief by damaging or destroying a telegraph, railway, or other public utility shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "telegraph",
+        "railway",
+        "public utility",
+        "mischief"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "331",
+      "section_title": "Mischief by killing or maiming animal",
+      "text": "Whoever commits mischief by killing, poisoning, maiming or rendering useless any animal or animals of the value of fifty rupees or upwards, shall be punished with imprisonment for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "animal cruelty",
+        "mischief",
+        "killing"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "332",
+      "section_title": "Mischief by injury to works of irrigation",
+      "text": "Whoever commits mischief by making any dam, or by opening any tank or well, or by obstructing the flow of water in any watercourse, or by any other means, with intent to cause damage to any agricultural land or crop, shall be punished with imprisonment for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "irrigation",
+        "water",
+        "agricultural damage"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "333",
+      "section_title": "Punishment for mischief",
+      "text": "Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+      "keywords": [
+        "mischief",
+        "punishment",
+        "general"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "334",
+      "section_title": "Possession of stolen property",
+      "text": "Whoever receives or retains any property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "stolen property",
+        "receiving",
+        "possession"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "335",
+      "section_title": "Dishonestly receiving stolen property",
+      "text": "Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both.",
+      "keywords": [
+        "stolen property",
+        "dishonest receipt",
+        "criminal"
+      ],
+      "chapter": "VII — Offences Against Property"
+    },
+    {
+      "section_number": "336",
+      "section_title": "Forgery",
+      "text": "Whoever makes any false document or false electronic record with intent to cause damage or injury to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+      "keywords": [
+        "forgery",
+        "false document",
+        "fraud",
+        "electronic record"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "337",
+      "section_title": "Forgery of record of court or public register",
+      "text": "Whoever forges a document which is or purports to be a record or proceeding of or before a Court, or which is or purports to be a public register of births, marriages, deaths, or other registrations, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "forgery",
+        "court record",
+        "public register"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "338",
+      "section_title": "Forgery of valuable security or will",
+      "text": "Whoever forges a document which is or purports to be a valuable security or a will, or an authority to adopt a son, or which is or purports to be an authority to make or transfer any valuable security, shall be punished with imprisonment for life or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "forgery",
+        "valuable security",
+        "will",
+        "adoption"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "339",
+      "section_title": "Forgery for purpose of cheating",
+      "text": "Whoever forges a document intending that the forged document shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "forgery",
+        "cheating",
+        "fraud"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "340",
+      "section_title": "Forgery for purpose of harming reputation",
+      "text": "Whoever forges a document intending that the forged document shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.",
+      "keywords": [
+        "forgery",
+        "reputation",
+        "defamation"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "341",
+      "section_title": "Using as genuine a forged document",
+      "text": "Whoever fraudulently or dishonestly uses as genuine any document which is known or has reason to believe to be a forged document, shall be punished in the same manner as if he had forged such document.",
+      "keywords": [
+        "forged document",
+        "using as genuine",
+        "fraud"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "342",
+      "section_title": "Making or possessing instrument for forgery",
+      "text": "Whoever makes or has in his possession any plate, machinery, instrument or material for the purpose of its being used, or knowing or having reason to believe that it is intended to be used, for forging any document, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "forgery instrument",
+        "possession",
+        "machinery"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "343",
+      "section_title": "Counterfeiting currency notes or bank notes",
+      "text": "Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any currency note or bank note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "keywords": [
+        "counterfeiting",
+        "currency",
+        "bank note",
+        "forgery"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "344",
+      "section_title": "Having possession of forged document",
+      "text": "Whoever has in his possession any document which is known to be forged, intending that the same shall be used as genuine, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+      "keywords": [
+        "forged document",
+        "possession",
+        "knowledge"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "345",
+      "section_title": "Falsification of accounts",
+      "text": "Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully and with intent to defraud, destroys, alters, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": [
+        "falsification",
+        "accounts",
+        "fraud",
+        "employee"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "346",
+      "section_title": "Property mark",
+      "text": "A mark used for denoting that movable property belongs to a particular person is called a property mark.",
+      "keywords": [
+        "property mark",
+        "identification",
+        "ownership"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "347",
+      "section_title": "Counterfeiting a property mark",
+      "text": "Whoever counterfeits any property mark used by any other person, or puts on any article any false property mark with intent to cause damage or injury, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "counterfeiting",
+        "property mark",
+        "trademark"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "348",
+      "section_title": "Using a false property mark",
+      "text": "Whoever uses any false property mark, knowing or having reason to believe it to be false, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "false property mark",
+        "fraud"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "349",
+      "section_title": "Removing property mark",
+      "text": "Whoever removes any property mark from any article with intent to cause wrongful gain or wrongful loss, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.",
+      "keywords": [
+        "property mark",
+        "removal",
+        "wrongful gain"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "350",
+      "section_title": "Fraudulent stamping of gold or silver",
+      "text": "Whoever fraudulently stamps any article of gold or silver with any mark denoting that the article is of a finer standard than it actually is, shall be punished with imprisonment for a term which may extend to seven years, or with fine, or with both.",
+      "keywords": [
+        "fraudulent stamping",
+        "gold",
+        "silver",
+        "hallmark"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "351",
+      "section_title": "Trade mark",
+      "text": "A mark used for denoting that goods are the manufacture or merchandise of a particular person is called a trade mark.",
+      "keywords": [
+        "trade mark",
+        "goods",
+        "manufacture"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    },
+    {
+      "section_number": "352",
+      "section_title": "Counterfeiting a trade mark",
+      "text": "Whoever counterfeits any trade mark used by any other person, or puts on any goods any false trade mark with intent to cause damage or injury, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both.",
+      "keywords": [
+        "counterfeiting",
+        "trade mark",
+        "goods"
+      ],
+      "chapter": "XIV — Of Offences Relating to Documents and to Property Marks"
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,2264 @@
+{
+  "act_id": "bnss_2023",
+  "full_title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "short_title": "BNSS 2023",
+  "year": 2023,
+  "category": "criminal",
+  "enforcement_date": "2024-07-01",
+  "is_active": true,
+  "source_url": "https://indiacode.nic.in",
+  "last_verified": "2026-07-01",
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement",
+      "text": "This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "keywords": [
+        "short title",
+        "commencement"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "2",
+      "section_title": "Definitions",
+      "text": "In this Sanhita: (a) bailable offence means an offence shown as bailable in the First Schedule; (b) non-bailable offence means any other offence; (c) cognizable offence means an offence for which a police officer may arrest without warrant.",
+      "keywords": [
+        "definitions",
+        "bailable",
+        "cognizable"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "6",
+      "section_title": "Classes of Criminal Courts",
+      "text": "There shall be the following classes of Criminal Courts: Courts of Session, Judicial Magistrates of the First Class, Judicial Magistrates of the Second Class, Executive Magistrates.",
+      "keywords": [
+        "criminal courts",
+        "sessions court",
+        "magistrate"
+      ],
+      "chapter": "II — Constitution of Criminal Courts"
+    },
+    {
+      "section_number": "7",
+      "section_title": "Court of Session",
+      "text": "The State Government shall establish a Court of Session for every sessions division.",
+      "keywords": [
+        "sessions court",
+        "sessions judge"
+      ],
+      "chapter": "II — Constitution of Criminal Courts"
+    },
+    {
+      "section_number": "8",
+      "section_title": "Courts of Judicial Magistrates",
+      "text": "In every district, there shall be Courts of Judicial Magistrates of the First Class.",
+      "keywords": [
+        "judicial magistrate",
+        "first class"
+      ],
+      "chapter": "II — Constitution of Criminal Courts"
+    },
+    {
+      "section_number": "9",
+      "section_title": "Chief Judicial Magistrate",
+      "text": "The High Court shall appoint a Judicial Magistrate of the First Class to be the Chief Judicial Magistrate.",
+      "keywords": [
+        "chief judicial magistrate"
+      ],
+      "chapter": "II — Constitution of Criminal Courts"
+    },
+    {
+      "section_number": "14",
+      "section_title": "Executive Magistrates",
+      "text": "The State Government may appoint Executive Magistrates and shall appoint one as the District Magistrate.",
+      "keywords": [
+        "executive magistrate",
+        "district magistrate"
+      ],
+      "chapter": "II — Constitution of Criminal Courts"
+    },
+    {
+      "section_number": "21",
+      "section_title": "Public Prosecutors",
+      "text": "The State Government shall appoint a Public Prosecutor for every district.",
+      "keywords": [
+        "public prosecutor"
+      ],
+      "chapter": "III — Public Prosecutors"
+    },
+    {
+      "section_number": "22",
+      "section_title": "Sentences which High Courts and Sessions Judges may pass",
+      "text": "(1) The High Court may pass any sentence authorised by law. (2) A Sessions Judge or Additional Sessions Judge may pass any sentence authorised by law; but any sentence of death passed by any such Judge shall be subject to confirmation by the High Court.",
+      "keywords": [
+        "sentences",
+        "high court",
+        "sessions judge",
+        "death sentence"
+      ],
+      "chapter": "III — Power of Courts"
+    },
+    {
+      "section_number": "23",
+      "section_title": "Sentences which Magistrates may pass",
+      "text": "(1) The Court of a Chief Judicial Magistrate may pass any sentence authorised by law except a sentence of death or of imprisonment for life or of imprisonment for a term exceeding seven years. (2) The Court of a Magistrate of the first class may pass a sentence of imprisonment for a term not exceeding three years, or of fine not exceeding fifty thousand rupees, or of both, or of community service. (3) The Court of Magistrate of the second class may pass a sentence of imprisonment for a term not exceeding one year, or of fine not exceeding ten thousand rupees, or of both, or of community service.",
+      "keywords": [
+        "sentences",
+        "magistrate",
+        "community service",
+        "fine"
+      ],
+      "chapter": "III — Power of Courts"
+    },
+    {
+      "section_number": "24",
+      "section_title": "Sentence of imprisonment in default of fine",
+      "text": "(1) The Court of a Magistrate may award such term of imprisonment in default of payment of fine as is authorised by law: Provided that the term (a) is not in excess of the powers of the Magistrate under section 23; (b) shall not, where imprisonment has been awarded as part of the substantive sentence, exceed one-fourth of the term of imprisonment which the Magistrate is competent to inflict. (2) The imprisonment awarded under this section may be in addition to a substantive sentence of imprisonment for the maximum term awardable by the Magistrate under section 23.",
+      "keywords": [
+        "imprisonment",
+        "default of fine",
+        "sentence"
+      ],
+      "chapter": "III — Power of Courts"
+    },
+    {
+      "section_number": "25",
+      "section_title": "Sentence in cases of conviction of several offences at one trial",
+      "text": "(1) When a person is convicted at one trial of two or more offences, the Court may sentence him for such offences to the several punishments prescribed therefor which such Court is competent to inflict and shall order such punishments to run concurrently or consecutively. (2) In the case of consecutive sentences, it shall not be necessary for the Court to send the offender for trial before a higher Court: Provided that (a) in no case shall such person be sentenced to imprisonment for a longer period than twenty years; (b) the aggregate punishment shall not exceed twice the amount of punishment which the Court is competent to inflict for a single offence.",
+      "keywords": [
+        "concurrent",
+        "consecutive",
+        "multiple offences",
+        "aggregate sentence"
+      ],
+      "chapter": "III — Power of Courts"
+    },
+    {
+      "section_number": "30",
+      "section_title": "Powers of superior officers of police",
+      "text": "Police officers superior in rank to an officer in charge of a police station may exercise the same powers, throughout the local area to which they are appointed, as may be exercised by such officer within the limits of his station.",
+      "keywords": [
+        "superior police officer",
+        "police powers",
+        "jurisdiction"
+      ],
+      "chapter": "IV — Powers of Superior Officers of Police"
+    },
+    {
+      "section_number": "31",
+      "section_title": "Public when to assist Magistrates and police",
+      "text": "Every person is bound to assist a Magistrate or police officer reasonably demanding his aid (a) in the taking or preventing the escape of any other person whom such Magistrate or police officer is authorised to arrest; or (b) in the prevention or suppression of a breach of the peace; or (c) in the prevention of any injury attempted to be committed to any public property.",
+      "keywords": [
+        "public duty",
+        "assist police",
+        "assist magistrate"
+      ],
+      "chapter": "IV — Powers of Superior Officers of Police"
+    },
+    {
+      "section_number": "33",
+      "section_title": "Public to give information of certain offences",
+      "text": "Every person, aware of the commission of, or of the intention of any other person to commit, any offence punishable under certain specified sections of the Bharatiya Nyaya Sanhita, 2023 shall, in the absence of any reasonable excuse, forthwith give information to the nearest Magistrate or police officer of such commission or intention.",
+      "keywords": [
+        "information",
+        "offence",
+        "public duty"
+      ],
+      "chapter": "IV — Powers of Superior Officers of Police"
+    },
+    {
+      "section_number": "35",
+      "section_title": "Arrest without warrant — cognizable offences",
+      "text": "Any police officer may arrest any person concerned in a cognizable offence without a warrant.",
+      "keywords": [
+        "arrest",
+        "without warrant",
+        "cognizable"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "36",
+      "section_title": "Arrest without warrant — non-cognizable",
+      "text": "A police officer shall not arrest for a non-cognizable offence except under a warrant.",
+      "keywords": [
+        "arrest",
+        "non-cognizable",
+        "warrant"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "37",
+      "section_title": "Arrest on information of design to commit cognizable offence",
+      "text": "A police officer may arrest without warrant if it appears a person is about to commit a cognizable offence.",
+      "keywords": [
+        "arrest",
+        "preventive",
+        "cognizable"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "38",
+      "section_title": "Arrest on requisition",
+      "text": "A police officer may arrest upon requisition of another police officer.",
+      "keywords": [
+        "arrest",
+        "requisition"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "39",
+      "section_title": "Arrest by Magistrate",
+      "text": "A Magistrate may arrest any person for an offence committed in his presence.",
+      "keywords": [
+        "arrest",
+        "magistrate"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "40",
+      "section_title": "Arrest by private person",
+      "text": "Any private person may arrest any person who commits a non-bailable and cognizable offence in his presence.",
+      "keywords": [
+        "arrest",
+        "private person",
+        "citizen arrest"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "41",
+      "section_title": "Arrest procedure",
+      "text": "A police officer making an arrest shall touch or confine the body of the person to be arrested.",
+      "keywords": [
+        "arrest",
+        "procedure"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "42",
+      "section_title": "Search of arrested person",
+      "text": "The police officer may search the arrested person.",
+      "keywords": [
+        "arrest",
+        "search"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "43",
+      "section_title": "Mode of searching women",
+      "text": "Search of a woman shall be made by another woman.",
+      "keywords": [
+        "search",
+        "woman"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "45",
+      "section_title": "Rights of arrested person",
+      "text": "Every arrested person shall be informed of the grounds of arrest.",
+      "keywords": [
+        "arrest",
+        "rights",
+        "grounds of arrest"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "46",
+      "section_title": "Right to be produced before Magistrate",
+      "text": "Every arrested person shall be produced before a Magistrate within 24 hours.",
+      "keywords": [
+        "arrest",
+        "production",
+        "24 hours",
+        "Article 22"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "47",
+      "section_title": "Right to meet advocate",
+      "text": "Every arrested person has the right to meet, consult, and be defended by an advocate.",
+      "keywords": [
+        "arrest",
+        "right to counsel",
+        "advocate"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "50",
+      "section_title": "Bail for bailable offences",
+      "text": "When arrested without warrant for a bailable offence, the police officer shall release on bail.",
+      "keywords": [
+        "bail",
+        "bailable offence",
+        "police bail"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "52",
+      "section_title": "Notice to appear instead of arrest",
+      "text": "A police officer may issue a notice to appear instead of arrest for bailable offences.",
+      "keywords": [
+        "bail",
+        "notice to appear",
+        "Arnesh Kumar"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "53",
+      "section_title": "Arrest on breach of bond",
+      "text": "When any person who is bound by any bond taken under this Sanhita to appear before a Court, does not appear, the Court may issue a warrant for his arrest and may order his property to be attached.",
+      "keywords": [
+        "arrest",
+        "bond",
+        "breach",
+        "warrant"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "54",
+      "section_title": "Arrest by magistrate",
+      "text": "A Judicial Magistrate may at any time issue a warrant for the arrest of any person who has committed an offence in his presence and may order the arrest of any such person.",
+      "keywords": [
+        "magistrate",
+        "arrest warrant",
+        "immediate"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "55",
+      "section_title": "Arrest by police without warrant",
+      "text": "Any police officer may, without an order from a Magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence, or against whom a reasonable complaint has been made or credible information has been received, or a reasonable suspicion exists of his having been so concerned.",
+      "keywords": [
+        "police",
+        "arrest without warrant",
+        "cognizable offence"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "56",
+      "section_title": "Arrest on refusal to give name and residence",
+      "text": "When any person who is accused of a non-cognizable offence refuses to give his name and residence, or gives a name or residence which the police officer has reason to believe to be false, he may be arrested by such police officer.",
+      "keywords": [
+        "arrest",
+        "non-cognizable",
+        "identity"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "57",
+      "section_title": "Arrest of deserter from armed forces",
+      "text": "Any police officer may arrest a person who is a deserter from the armed forces of the Union.",
+      "keywords": [
+        "arrest",
+        "deserter",
+        "armed forces"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "58",
+      "section_title": "Arrest by private person and procedure on such arrest",
+      "text": "Any private person may arrest any person who in his presence commits a non-bailable and cognizable offence, or who is a proclaimed offender, and shall without unnecessary delay make over the person so arrested to a police officer.",
+      "keywords": [
+        "private arrest",
+        "citizen's arrest",
+        "cognizable"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "59",
+      "section_title": "Arrest by magistrate's order or by police officer in certain cases",
+      "text": "When any person is arrested by any police officer under a warrant, the police officer shall inform the person arrested of the substance of the warrant and shall, if required, show him the warrant.",
+      "keywords": [
+        "arrest",
+        "warrant",
+        "information"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "60",
+      "section_title": "Arrest how made",
+      "text": "In making an arrest, the police officer or other person making the same shall actually touch or confine the body of the person to be arrested, unless there be a submission to the custody by word or action.",
+      "keywords": [
+        "arrest procedure",
+        "touching",
+        "confinement"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "61",
+      "section_title": "Search of place entered by person sought to be arrested",
+      "text": "If any person acting under a warrant of arrest, or any police officer who may arrest without warrant, has reason to believe that the person to be arrested has entered into or is within any place, the person residing in or being in charge of such place shall allow him free ingress thereto and afford all reasonable facilities for a search therein.",
+      "keywords": [
+        "search",
+        "arrest",
+        "entry"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "62",
+      "section_title": "Search warrant",
+      "text": "A Magistrate may issue a search warrant if he has reason to believe evidence is in a person's possession.",
+      "keywords": [
+        "search warrant",
+        "magistrate"
+      ],
+      "chapter": "V — Search"
+    },
+    {
+      "section_number": "63",
+      "section_title": "Search for person wrongfully confined",
+      "text": "A Magistrate may issue a search warrant for any wrongfully confined person.",
+      "keywords": [
+        "search warrant",
+        "wrongful confinement"
+      ],
+      "chapter": "V — Search"
+    },
+    {
+      "section_number": "64",
+      "section_title": "Search without warrant",
+      "text": "A police officer may search without warrant for anything connected with a cognizable offence.",
+      "keywords": [
+        "search",
+        "without warrant",
+        "cognizable"
+      ],
+      "chapter": "V — Search"
+    },
+    {
+      "section_number": "65",
+      "section_title": "Search of place entered by person sought to be arrested",
+      "text": "If a police officer has reason to believe that a person to be arrested has entered a place, the occupier of the place shall allow free ingress for search.",
+      "keywords": [
+        "search",
+        "arrest",
+        "ingress"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "66",
+      "section_title": "Power to break open door or window",
+      "text": "A police officer may break open any outer or inner door or window of any house in order to liberate himself or any other person who is detained therein.",
+      "keywords": [
+        "break open",
+        "door",
+        "rescue",
+        "police"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "67",
+      "section_title": "Power to search for person wrongfully confined",
+      "text": "If any Magistrate has reason to believe that a person is wrongfully confined, he may issue a warrant to search for the person so confined.",
+      "keywords": [
+        "search",
+        "wrongful confinement",
+        "magistrate"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "68",
+      "section_title": "Warrant to search for property",
+      "text": "If a Magistrate has reason to believe that any property is stolen or secreted, he may issue a warrant to search for it.",
+      "keywords": [
+        "search warrant",
+        "property",
+        "stolen"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "69",
+      "section_title": "Search procedure",
+      "text": "The officer shall call two or more independent residents to witness the search.",
+      "keywords": [
+        "search",
+        "witness",
+        "panch"
+      ],
+      "chapter": "V — Search"
+    },
+    {
+      "section_number": "70",
+      "section_title": "Direction of search warrant",
+      "text": "Every search warrant shall be directed to one or more police officers, or to any other person named therein.",
+      "keywords": [
+        "search warrant",
+        "direction",
+        "police officer"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "71",
+      "section_title": "Seizure of property",
+      "text": "A police officer may seize property suspected to be stolen or used as evidence.",
+      "keywords": [
+        "seizure",
+        "property",
+        "evidence"
+      ],
+      "chapter": "V — Search"
+    },
+    {
+      "section_number": "72",
+      "section_title": "Search without warrant",
+      "text": "A police officer may, without a warrant, search any place for the purpose of investigation if he has reason to believe that anything necessary for the investigation may be found there.",
+      "keywords": [
+        "search",
+        "without warrant",
+        "investigation"
+      ],
+      "chapter": "IV — Arrest"
+    },
+    {
+      "section_number": "77",
+      "section_title": "Investigation of cognizable offences",
+      "text": "Any officer in charge of a police station may investigate any cognizable offence.",
+      "keywords": [
+        "investigation",
+        "cognizable"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "78",
+      "section_title": "Investigation by police officer",
+      "text": "Any police officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable offence which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try.",
+      "keywords": [
+        "investigation",
+        "police",
+        "cognizable offence"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "79",
+      "section_title": "Procedure where investigation cannot be completed",
+      "text": "If upon information of the commission of a cognizable offence, the officer in charge of a police station has reason to suspect the commission of such offence, he shall forthwith send a report to a Magistrate empowered to take cognizance of such offence.",
+      "keywords": [
+        "investigation",
+        "report",
+        "magistrate"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "80",
+      "section_title": "Power to summon persons",
+      "text": "A police officer making an investigation may, by order in writing, require the attendance before himself of any person who appears to be acquainted with the facts and circumstances of the case.",
+      "keywords": [
+        "summons",
+        "investigation",
+        "witness"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "81",
+      "section_title": "Examination of witnesses by police",
+      "text": "A police officer making an investigation may examine orally any person supposed to be acquainted with the facts and circumstances of the case, and shall reduce into writing any statement made by the person so examined.",
+      "keywords": [
+        "examination",
+        "witness",
+        "police",
+        "statement"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "82",
+      "section_title": "When police may arrest without warrant",
+      "text": "Any police officer may without an order from a Magistrate and without a warrant arrest any person who has been concerned in any cognizable offence, or against whom a reasonable complaint has been made.",
+      "keywords": [
+        "arrest",
+        "cognizable",
+        "police",
+        "warrant"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "83",
+      "section_title": "Procedure of arrest",
+      "text": "When a police officer arrests any person without warrant, he shall immediately communicate to the person arrested the full particulars of the offence for which he is arrested.",
+      "keywords": [
+        "arrest procedure",
+        "communication",
+        "grounds"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "84",
+      "section_title": "Search of arrested person",
+      "text": "Whenever a person is arrested by a police officer, the police officer may search the person arrested and place in safe custody all articles other than necessary wearing apparel found upon him.",
+      "keywords": [
+        "search",
+        "arrested person",
+        "custody"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "85",
+      "section_title": "Mode of searching women",
+      "text": "Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman with strict regard to decency.",
+      "keywords": [
+        "search",
+        "woman",
+        "decency",
+        "female officer"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "86",
+      "section_title": "Police custody remand",
+      "text": "Police may apply for custody of accused for up to 15 days.",
+      "keywords": [
+        "remand",
+        "police custody",
+        "15 days"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "87",
+      "section_title": "Judicial custody remand",
+      "text": "The Magistrate may authorize judicial custody for up to 15 days at a time.",
+      "keywords": [
+        "remand",
+        "judicial custody"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "88",
+      "section_title": "Maximum remand period",
+      "text": "Maximum detention: 90 days for offences punishable with death/life/10+ years, 60 days for other offences.",
+      "keywords": [
+        "remand",
+        "90 days",
+        "60 days",
+        "default bail"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "89",
+      "section_title": "Identification of person arrested",
+      "text": "When a person is arrested, the police officer may take measurements including fingerprints, photographs, and other identifying particulars.",
+      "keywords": [
+        "identification",
+        "fingerprints",
+        "photographs",
+        "measurements"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "90",
+      "section_title": "Report of arrest",
+      "text": "Every police officer making an arrest shall, without unnecessary delay, make a report of the arrest to the officer in charge of the police station.",
+      "keywords": [
+        "arrest report",
+        "police station",
+        "intimation"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "91",
+      "section_title": "Custody of person arrested",
+      "text": "A person arrested shall not be detained in custody for a longer period than under all the circumstances of the case is reasonable.",
+      "keywords": [
+        "custody",
+        "detention",
+        "reasonable period"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "92",
+      "section_title": "Release of arrested person",
+      "text": "A police officer may release a person arrested on his executing a bond with or without sureties for his appearance before a Magistrate.",
+      "keywords": [
+        "release",
+        "bond",
+        "sureties"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "93",
+      "section_title": "Chargesheet",
+      "text": "On completion of investigation, the police shall forward a report to the Magistrate.",
+      "keywords": [
+        "chargesheet",
+        "police report"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "94",
+      "section_title": "Electronic service",
+      "text": "Documents may be served through electronic means.",
+      "keywords": [
+        "electronic service",
+        "digital"
+      ],
+      "chapter": "VI — Investigation"
+    },
+    {
+      "section_number": "95",
+      "section_title": "Cognizance by Magistrate",
+      "text": "A Magistrate may take cognizance upon complaint, police report, or information.",
+      "keywords": [
+        "cognizance",
+        "magistrate"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "96",
+      "section_title": "Jurisdiction in case of offences committed on journey",
+      "text": "When an offence is committed whilst the offender is in the course of performing a journey, the offence may be inquired into or tried by a Court through whose local jurisdiction the person or thing passed in the course of that journey.",
+      "keywords": [
+        "jurisdiction",
+        "journey",
+        "travelling offence"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "97",
+      "section_title": "Place of trial where uncertain",
+      "text": "When it is uncertain in which of several local areas an offence was committed, or where an offence is committed partly in one local area and partly in another, it may be inquired into or tried by a Court having jurisdiction over any of such local areas.",
+      "keywords": [
+        "jurisdiction",
+        "uncertain",
+        "trial"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "98",
+      "section_title": "Offence committed during travel",
+      "text": "When an offence is committed while the offender is on a journey, it may be inquired into or tried by a Court through whose local jurisdiction the offender passed.",
+      "keywords": [
+        "jurisdiction",
+        "travel",
+        "trial"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "99",
+      "section_title": "High Court's power to order trial",
+      "text": "Whenever doubt arises as to the proper Court of jurisdiction, the High Court may determine in which Court the offence shall be inquired into or tried.",
+      "keywords": [
+        "High Court",
+        "jurisdiction",
+        "transfer"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "100",
+      "section_title": "Transfer of cases",
+      "text": "(1) Whenever it is made to appear to the High Court that an order under this section is expedient for the ends of justice, it may order that any particular case be transferred from one Criminal Court to another Criminal Court. (2) The High Court may act on the report of the lower Court or on the application of a party interested.",
+      "keywords": [
+        "transfer",
+        "high court",
+        "ends of justice",
+        "case transfer"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "101",
+      "section_title": "Transfer of case on application of accused",
+      "text": "When a complaint is made or a case is pending, the accused may apply to the High Court for transfer of the case on the ground that a fair and impartial trial cannot be held in the Court where the case is pending.",
+      "keywords": [
+        "transfer",
+        "accused",
+        "fair trial",
+        "impartial"
+      ],
+      "chapter": "VII — Jurisdiction"
+    },
+    {
+      "section_number": "109",
+      "section_title": "Complaint to Magistrate",
+      "text": "A complaint may be made to a Magistrate regarding commission of an offence.",
+      "keywords": [
+        "complaint",
+        "magistrate"
+      ],
+      "chapter": "VIII — Complaints"
+    },
+    {
+      "section_number": "110",
+      "section_title": "Examination of complainant",
+      "text": "A Magistrate taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate.",
+      "keywords": [
+        "complaint",
+        "examination",
+        "magistrate",
+        "oath"
+      ],
+      "chapter": "VIII — Complaints"
+    },
+    {
+      "section_number": "111",
+      "section_title": "Issue of process",
+      "text": "If after considering the complaint and the evidence of the complainant and witnesses, the Magistrate is satisfied that there is sufficient ground for proceeding, he shall issue process for the appearance of the accused.",
+      "keywords": [
+        "process",
+        "summons",
+        "magistrate",
+        "cognizance"
+      ],
+      "chapter": "VIII — Complaints"
+    },
+    {
+      "section_number": "112",
+      "section_title": "Dismissal of complaint",
+      "text": "If after considering the complaint and the evidence of the complainant and witnesses, the Magistrate is of opinion that there is no sufficient ground for proceeding, he shall dismiss the complaint, recording briefly his reasons for so doing.",
+      "keywords": [
+        "dismissal",
+        "complaint",
+        "no grounds",
+        "magistrate"
+      ],
+      "chapter": "VIII — Complaints"
+    },
+    {
+      "section_number": "125",
+      "section_title": "Security for keeping peace in other cases",
+      "text": "When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may occasion a breach of the peace, the Magistrate may require such person to show cause why he should not be ordered to execute a bond for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.",
+      "keywords": [
+        "security",
+        "peace",
+        "bond",
+        "executive magistrate"
+      ],
+      "chapter": "IX — Security for Keeping the Peace"
+    },
+    {
+      "section_number": "126",
+      "section_title": "Procedure for requiring security",
+      "text": "(1) When any Magistrate acting under this Chapter requires a person to show cause, he shall make an order in writing setting forth the substance of the information received. (2) The Magistrate shall then inquire into the truth of the information and take such evidence as is necessary.",
+      "keywords": [
+        "procedure",
+        "show cause",
+        "inquiry",
+        "security"
+      ],
+      "chapter": "IX — Security for Keeping the Peace"
+    },
+    {
+      "section_number": "127",
+      "section_title": "Order to give security",
+      "text": "If after inquiry the Magistrate is satisfied that it is necessary to require the person to execute a bond for keeping the peace, he shall pass an order requiring him to execute such bond for a sum proportionate to his means.",
+      "keywords": [
+        "order",
+        "security bond",
+        "execution"
+      ],
+      "chapter": "IX — Security for Keeping the Peace"
+    },
+    {
+      "section_number": "128",
+      "section_title": "Warrant in lieu of summons, or summons in lieu of warrant",
+      "text": "The Court may, in any case in which it is empowered to issue a summons for the appearance of any person, issue a warrant for his arrest instead of a summons, if after recording its reasons it is satisfied that such person will not attend voluntarily.",
+      "keywords": [
+        "warrant",
+        "summons",
+        "arrest",
+        "non-appearance"
+      ],
+      "chapter": "IX — Security for Keeping the Peace"
+    },
+    {
+      "section_number": "129",
+      "section_title": "Security for keeping the peace on conviction",
+      "text": "When a person is convicted of an offence involving a breach of the peace or of an offence likely to occasion a breach of the peace, the Court may, in addition to passing sentence, require him to execute a bond for keeping the peace for a period not exceeding three years.",
+      "keywords": [
+        "security",
+        "peace",
+        "conviction",
+        "bond"
+      ],
+      "chapter": "IX — Security for Keeping the Peace"
+    },
+    {
+      "section_number": "144",
+      "section_title": "Order for maintenance of wives, children and parents",
+      "text": "A Magistrate of the First Class may order maintenance for wife, child, or parent unable to maintain themselves.",
+      "keywords": [
+        "maintenance",
+        "wife",
+        "child",
+        "parents"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "145",
+      "section_title": "Quantum of maintenance",
+      "text": "The Magistrate shall order maintenance at a monthly rate considering financial capacity and needs.",
+      "keywords": [
+        "maintenance",
+        "quantum",
+        "amount"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "146",
+      "section_title": "Interim maintenance",
+      "text": "The Magistrate may order interim maintenance pending final determination.",
+      "keywords": [
+        "maintenance",
+        "interim"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "147",
+      "section_title": "Enforcement of maintenance",
+      "text": "On failure to pay, the Magistrate may issue a warrant for levying the amount.",
+      "keywords": [
+        "maintenance",
+        "enforcement",
+        "default"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "148",
+      "section_title": "Alteration of maintenance",
+      "text": "The Magistrate may alter the maintenance order on change of circumstances.",
+      "keywords": [
+        "maintenance",
+        "alteration",
+        "modification"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "149",
+      "section_title": "Procedure for maintenance order",
+      "text": "Proceedings for maintenance under this Chapter may be taken against any person in any district where he resides or where he last resided, or where the wife resides.",
+      "keywords": [
+        "maintenance procedure",
+        "jurisdiction",
+        "residence"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "150",
+      "section_title": "Enforcement of maintenance order",
+      "text": "A copy of the maintenance order shall be given to the person in whose favour it is made, and if the person ordered to pay fails without sufficient cause to comply with the order, the Magistrate may issue a warrant for levying the amount.",
+      "keywords": [
+        "maintenance enforcement",
+        "warrant",
+        "arrears"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "151",
+      "section_title": "Alteration in maintenance order",
+      "text": "On proof of a change in the circumstances of the person receiving maintenance, the Magistrate may make such alteration in the allowance as he thinks fit.",
+      "keywords": [
+        "maintenance alteration",
+        "change in circumstances",
+        "allowance"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "152",
+      "section_title": "Cancellation of maintenance order",
+      "text": "If the person in whose favour a maintenance order is made remarries, the maintenance order shall be cancelled.",
+      "keywords": [
+        "cancellation",
+        "maintenance",
+        "remarriage"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "153",
+      "section_title": "Maintenance of children",
+      "text": "The Magistrate may order maintenance for legitimate or illegitimate children unable to maintain themselves.",
+      "keywords": [
+        "child maintenance",
+        "legitimate",
+        "illegitimate"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "154",
+      "section_title": "Interim maintenance",
+      "text": "Pending the final determination of the application, the Magistrate may order interim maintenance at such rate as may be deemed just.",
+      "keywords": [
+        "interim maintenance",
+        "pending",
+        "temporary"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "155",
+      "section_title": "Maintenance from date of order",
+      "text": "The Magistrate may order maintenance from the date of the order, or if he thinks fit, from the date of the application.",
+      "keywords": [
+        "maintenance date",
+        "application",
+        "order"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "156",
+      "section_title": "Evidence in maintenance proceedings",
+      "text": "In any proceeding under this Chapter, the evidence of the wife, child or parent shall be taken on oath and the Magistrate may, for reasons to be recorded, dispense with the attendance of the husband or father if satisfied that his presence is not necessary.",
+      "keywords": [
+        "maintenance",
+        "evidence",
+        "oath",
+        "proceeding"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "157",
+      "section_title": "Procedure in maintenance proceedings",
+      "text": "Proceedings under this Chapter may be held in camera if the Magistrate considers it necessary and the Magistrate may, for the purpose of enforcing attendance of any person, exercise all the powers of a Civil Court.",
+      "keywords": [
+        "maintenance",
+        "procedure",
+        "in camera",
+        "attendance"
+      ],
+      "chapter": "XII — Maintenance"
+    },
+    {
+      "section_number": "163",
+      "section_title": "Power to issue order in urgent cases of nuisance or apprehended danger",
+      "text": "In cases where there is urgent nuisance or apprehended danger, any District Magistrate or Sub-divisional Magistrate or any other Executive Magistrate may, by a written order, direct any person to abstain from a certain act or to take certain order with respect to certain property in his possession or under his management.",
+      "keywords": [
+        "urgent",
+        "nuisance",
+        "danger",
+        "magistrate order",
+        "section 144"
+      ],
+      "chapter": "XI — Maintenance of Public Order and Tranquillity"
+    },
+    {
+      "section_number": "173",
+      "section_title": "FIR — Information in cognizable offences",
+      "text": "Every information of a cognizable offence shall be reduced to writing, signed by the informant, and entered in a book.",
+      "keywords": [
+        "FIR",
+        "cognizable",
+        "information"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "174",
+      "section_title": "Information in non-cognizable cases",
+      "text": "When information is given to a police officer of the commission of a non-cognizable offence, he shall enter the substance of the information in a book and refer the informant to the Magistrate.",
+      "keywords": [
+        "non-cognizable",
+        "information",
+        "police",
+        "Magistrate"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "175",
+      "section_title": "Duty to register FIR",
+      "text": "A police officer is bound to register an FIR on receiving information of a cognizable offence.",
+      "keywords": [
+        "FIR",
+        "registration",
+        "mandatory",
+        "Lalita Kumari"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "176",
+      "section_title": "Zero FIR",
+      "text": "A police officer may register FIR regardless of place of occurrence.",
+      "keywords": [
+        "FIR",
+        "zero FIR",
+        "jurisdiction"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "177",
+      "section_title": "Police diary of investigation",
+      "text": "The officer in charge of a police station shall maintain a diary of the investigation in such form as the State Government may prescribe, recording the day to day proceedings and the time at which information was received and the proceedings commenced and closed.",
+      "keywords": [
+        "police diary",
+        "investigation",
+        "case diary",
+        "proceedings"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "178",
+      "section_title": "Report of investigation by police",
+      "text": "On the completion of the investigation, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence a report in the prescribed form setting forth the facts and circumstances of the case and the names of the witnesses.",
+      "keywords": [
+        "investigation report",
+        "chargesheet",
+        "police report",
+        "cognizance"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "179",
+      "section_title": "Release of accused when evidence deficient",
+      "text": "If, upon investigation, it appears to the officer in charge of the police station that there is no sufficient evidence or reasonable ground to proceed against the accused, he shall release the accused, if in custody, on his executing a bond for appearance before the Magistrate when required.",
+      "keywords": [
+        "release",
+        "deficient evidence",
+        "investigation",
+        "bond"
+      ],
+      "chapter": "XIV — Information to Police"
+    },
+    {
+      "section_number": "180",
+      "section_title": "General principles of bail",
+      "text": "Bail is release from custody on furnishing security. Bail is the rule, jail is the exception.",
+      "keywords": [
+        "bail",
+        "general principles"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "181",
+      "section_title": "Bail in bailable offences",
+      "text": "When arrested for a bailable offence, the person shall be released on bail.",
+      "keywords": [
+        "bail",
+        "bailable offence",
+        "right to bail"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "182",
+      "section_title": "Bail in non-bailable offences",
+      "text": "A court may release on bail for non-bailable offences unless punishable with death or life imprisonment.",
+      "keywords": [
+        "bail",
+        "non-bailable",
+        "court discretion"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "183",
+      "section_title": "Bail factors",
+      "text": "The court shall consider: nature of accusation, antecedents, flight risk, evidence tampering, witness intimidation.",
+      "keywords": [
+        "bail",
+        "factors",
+        "consideration"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "184",
+      "section_title": "Bail in special acts",
+      "text": "No bail under NDPS, PMLA, UAPA unless court finds reasonable grounds accused is not guilty.",
+      "keywords": [
+        "bail",
+        "NDPS",
+        "PMLA",
+        "UAPA",
+        "special acts"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "185",
+      "section_title": "Conditions of bail",
+      "text": "The court may impose conditions: surrender of passport, reporting to police, surety.",
+      "keywords": [
+        "bail",
+        "conditions",
+        "surety"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "186",
+      "section_title": "Bail bond",
+      "text": "The accused shall execute a bail bond with or without sureties as the court may direct.",
+      "keywords": [
+        "bail",
+        "bond",
+        "surety"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "187",
+      "section_title": "Default bail",
+      "text": "If investigation is not completed within 90 or 60 days, the accused has a right to default bail.",
+      "keywords": [
+        "bail",
+        "default bail",
+        "90 days",
+        "60 days"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "188",
+      "section_title": "Anticipatory bail",
+      "text": "A person who apprehends arrest may apply to the Sessions Court or High Court for anticipatory bail.",
+      "keywords": [
+        "bail",
+        "anticipatory bail",
+        "pre-arrest"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "189",
+      "section_title": "Cancellation of bail",
+      "text": "A court may cancel bail if conditions are violated or the accused tampers with evidence.",
+      "keywords": [
+        "bail",
+        "cancellation",
+        "violation"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "190",
+      "section_title": "Appeal against bail order",
+      "text": "An appeal lies against an order granting or refusing bail.",
+      "keywords": [
+        "bail",
+        "appeal"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "191",
+      "section_title": "Bail when cognizable offence listed in First Schedule",
+      "text": "When any person accused of a cognizable offence listed in column 3 of the First Schedule is arrested or detained, he shall be released on bail if there are no reasonable grounds for believing that he has been guilty of such an offence.",
+      "keywords": [
+        "bail",
+        "cognizable",
+        "First Schedule",
+        "release"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "192",
+      "section_title": "Bail in case of non-cognizable offence",
+      "text": "When any person accused of a non-cognizable offence is arrested or detained by a police officer, he shall be released on bail.",
+      "keywords": [
+        "bail",
+        "non-cognizable",
+        "police"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "193",
+      "section_title": "Bail in case of bailable offence",
+      "text": "When any person accused of a bailable offence is arrested or detained without warrant, he shall be released on bail by the police officer having custody.",
+      "keywords": [
+        "bail",
+        "bailable offence",
+        "police custody"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "194",
+      "section_title": "Maximum period of detention",
+      "text": "When any person is detained in custody pending investigation, inquiry or trial, the total period of detention shall not exceed one-half of the maximum period of imprisonment prescribed for such offence.",
+      "keywords": [
+        "detention",
+        "maximum period",
+        "undertrial"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "195",
+      "section_title": "Bail not to be cancelled without notice",
+      "text": "A person who has been released on bail shall not be arrested and committed to custody without notice to the person or his surety of the application for cancellation of bail.",
+      "keywords": [
+        "bail cancellation",
+        "notice",
+        "surety"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "196",
+      "section_title": "Power to grant bail subject to conditions",
+      "text": "The Court may impose conditions while granting bail including conditions for surrender of passport, reporting to police, or not tampering with evidence.",
+      "keywords": [
+        "bail conditions",
+        "passport",
+        "police reporting"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "197",
+      "section_title": "Bail in case of default",
+      "text": "Where a person is accused of an offence punishable with imprisonment for a term which may extend to ten years or more, the Court may refuse bail if there are substantial grounds for believing that the accused would commit an offence while on bail.",
+      "keywords": [
+        "default bail",
+        "serious offence",
+        "refusal"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "198",
+      "section_title": "Anticipatory bail",
+      "text": "When any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section.",
+      "keywords": [
+        "anticipatory bail",
+        "pre-arrest",
+        "High Court",
+        "Sessions Court"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "199",
+      "section_title": "Direction for grant of bail to person apprehending arrest",
+      "text": "Where the High Court or the Court of Session grants anticipatory bail, it may impose such conditions as it thinks fit including a condition that the person shall not leave India without the permission of the Court.",
+      "keywords": [
+        "anticipatory bail",
+        "conditions",
+        "travel restriction"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "200",
+      "section_title": "Protection of witnesses",
+      "text": "The Court may pass orders to protect the safety of witnesses and ensure that they are not tampered with during the trial.",
+      "keywords": [
+        "witness protection",
+        "tampering",
+        "trial"
+      ],
+      "chapter": "XV — Bail"
+    },
+    {
+      "section_number": "210",
+      "section_title": "Form and contents of charge",
+      "text": "(1) Every charge shall be in writing and shall contain the statement of the offence with which the accused is charged. (2) If the law which creates the offence gives it any specific name, the offence may be described in the charge by that name only.",
+      "keywords": [
+        "charge",
+        "form",
+        "contents",
+        "offence name"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "211",
+      "section_title": "Contents of charge",
+      "text": "Every charge under this Sanhita shall state the offence with which the accused is charged, together with particulars of the time and place of the alleged offence and the person against whom it was committed.",
+      "keywords": [
+        "charge",
+        "contents",
+        "particulars",
+        "offence"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "215",
+      "section_title": "Effect of errors in charge",
+      "text": "No error in stating either the offence or the particulars required to be stated in the charge, and no omission to state the offence or those particulars, shall be regarded as material unless the accused was in fact misled by such error or omission.",
+      "keywords": [
+        "error",
+        "charge",
+        "material defect",
+        "misled"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "216",
+      "section_title": "Court may alter charge",
+      "text": "(1) Any Court may alter or add to any charge at any time before judgment is pronounced. (2) Every alteration or addition shall be read and explained to the accused. (3) If the alteration or addition is such that proceeding immediately with the trial is likely to prejudice the accused, the Court may order a new trial or adjourn the trial.",
+      "keywords": [
+        "alter charge",
+        "add charge",
+        "amendment",
+        "prejudice"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "217",
+      "section_title": "Recall of witnesses when charge altered",
+      "text": "Whenever a charge is altered or added to after the commencement of the trial, the prosecutor and the accused shall be allowed to recall or re-summon and examine any witness who may have been examined, unless the Court considers that the purpose of justice does not require it.",
+      "keywords": [
+        "recall witnesses",
+        "charge alteration",
+        "re-examination"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "218",
+      "section_title": "Separate charges for distinct offences",
+      "text": "For every distinct offence of which any person is accused there shall be a separate charge, and every such charge shall be tried separately except as provided in sections 219, 220, 221 and 222.",
+      "keywords": [
+        "separate charge",
+        "distinct offence",
+        "joinder"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "219",
+      "section_title": "Joinder of charges of same kind",
+      "text": "When a person is accused of more offences than one of the same kind committed within a period of twelve months, he may be charged with and tried at one trial for any number of them not exceeding three.",
+      "keywords": [
+        "joinder",
+        "same kind",
+        "three charges"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "220",
+      "section_title": "Trial for more than one offence",
+      "text": "If, in one series of acts so connected together as to form the same transaction, more offences than one are committed by the same person, he may be charged with and tried at one trial for every such offence.",
+      "keywords": [
+        "same transaction",
+        "multiple offences",
+        "single trial"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "222",
+      "section_title": "When offence proved is included in offence charged",
+      "text": "When a person is charged with an offence consisting of several particulars, and the proof shows that he committed a different offence but the one charged is a minor offence included in the major one, he may be convicted of the minor offence.",
+      "keywords": [
+        "minor offence",
+        "major offence",
+        "included offence",
+        "conviction"
+      ],
+      "chapter": "XVIII — The Charge"
+    },
+    {
+      "section_number": "223",
+      "section_title": "Trial before Court of Session",
+      "text": "All trials before a Court of Session shall be conducted in accordance with this Chapter.",
+      "keywords": [
+        "trial",
+        "sessions court"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "224",
+      "section_title": "Trial before Court of Session",
+      "text": "The trial in a Court of Session shall be conducted in accordance with the procedure specified in this Chapter.",
+      "keywords": [
+        "Session trial",
+        "procedure",
+        "Court of Session"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "225",
+      "section_title": "Opening of case by prosecution",
+      "text": "When the accused appears or is brought before the Court in pursuance of a commitment of the case, the prosecutor shall open his case by describing the charge against the accused and stating the evidence by which he proposes to prove the guilt of the accused.",
+      "keywords": [
+        "prosecution",
+        "opening statement",
+        "charge"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "226",
+      "section_title": "Discharge",
+      "text": "If after considering the record of the case and the documents submitted, the Judge considers that there is not sufficient ground for proceeding against the accused, he shall discharge the accused and record his reasons.",
+      "keywords": [
+        "discharge",
+        "no grounds",
+        "accused"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "227",
+      "section_title": "Framing of charge",
+      "text": "If after considering the record and documents and after hearing the submissions of both sides, the Judge is of opinion that there is ground for presuming that the accused has committed an offence, he shall frame in writing a charge against the accused.",
+      "keywords": [
+        "charge framing",
+        "prima facie",
+        "trial"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "228",
+      "section_title": "Conviction on plea of guilty",
+      "text": "If the accused pleads guilty, the Judge shall record the plea and may in his discretion convict the accused.",
+      "keywords": [
+        "guilty plea",
+        "conviction",
+        "plea bargaining"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "229",
+      "section_title": "Defence evidence",
+      "text": "After the prosecution evidence is concluded, the accused shall be called upon to enter his defence and produce his evidence.",
+      "keywords": [
+        "defence",
+        "evidence",
+        "trial"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "230",
+      "section_title": "Argument and judgment",
+      "text": "When the examination of the accused and the evidence for the defence are concluded, the prosecutor shall sum up his case and the accused or his pleader shall be entitled to reply. The Court shall then pronounce judgment.",
+      "keywords": [
+        "argument",
+        "judgment",
+        "summing up"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "231",
+      "section_title": "Acquittal",
+      "text": "If the accused is not convicted, the Judge shall record an order of acquittal.",
+      "keywords": [
+        "acquittal",
+        "not guilty",
+        "discharge"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "232",
+      "section_title": "Judgment",
+      "text": "The Court, after hearing the arguments, shall deliver judgment in open Court, specifying the offence of which the accused is convicted and the sentence or other order passed.",
+      "keywords": [
+        "judgment",
+        "conviction",
+        "sentence"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "233",
+      "section_title": "Contents of judgment",
+      "text": "Every judgment shall contain the point for determination, the decision thereon, and the reasons for the decision.",
+      "keywords": [
+        "judgment contents",
+        "reasons",
+        "decision"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "234",
+      "section_title": "Order for compensation",
+      "text": "The Court may order the accused to pay compensation to the victim for any loss or injury caused by the offence.",
+      "keywords": [
+        "compensation",
+        "victim",
+        "loss"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "235",
+      "section_title": "Costs",
+      "text": "The Court may order payment of costs by the accused or the complainant in certain cases.",
+      "keywords": [
+        "costs",
+        "litigation expenses"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "236",
+      "section_title": "Warrant for execution of sentence",
+      "text": "When a sentence of imprisonment is passed, the Court shall issue a warrant for the execution of the sentence.",
+      "keywords": [
+        "warrant",
+        "execution",
+        "imprisonment"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "237",
+      "section_title": "Extent of sentence",
+      "text": "The Court may pass any sentence authorized by law, but the sentence shall not exceed the maximum punishment provided for the offence.",
+      "keywords": [
+        "sentence",
+        "maximum limit",
+        "law"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "238",
+      "section_title": "Suspension of sentence pending appeal",
+      "text": "The Court may suspend the execution of sentence pending an appeal.",
+      "keywords": [
+        "suspension",
+        "appeal",
+        "execution"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "239",
+      "section_title": "Concurrent and consecutive sentences",
+      "text": "When a person is convicted of two or more offences, the Court may order the sentences to run concurrently or consecutively.",
+      "keywords": [
+        "concurrent",
+        "consecutive",
+        "multiple sentences"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "240",
+      "section_title": "Transfer of cases",
+      "text": "The High Court may transfer any case from one Court subordinate to it to another Court for trial.",
+      "keywords": [
+        "transfer",
+        "case",
+        "High Court"
+      ],
+      "chapter": "XVIII — Trial"
+    },
+    {
+      "section_number": "241",
+      "section_title": "Procedure in warrant cases",
+      "text": "In a warrant-case instituted on a police report, the Magistrate shall follow the procedure specified in this Chapter.",
+      "keywords": [
+        "warrant case",
+        "procedure",
+        "magistrate"
+      ],
+      "chapter": "XX — Trial of Warrant Cases"
+    },
+    {
+      "section_number": "244",
+      "section_title": "Evidence for prosecution",
+      "text": "(1) When the accused appears or is brought before a Magistrate, the Magistrate shall proceed to hear the complainant and take all such evidence as may be produced in support of the prosecution. (2) The Magistrate may, on the application of the prosecution, issue summons to any witness.",
+      "keywords": [
+        "prosecution evidence",
+        "witness",
+        "complainant"
+      ],
+      "chapter": "XX — Trial of Warrant Cases"
+    },
+    {
+      "section_number": "248",
+      "section_title": "Acquittal or conviction",
+      "text": "(1) If, after taking the evidence for the prosecution and examining the accused, the Magistrate finds the accused not guilty, he shall record an order of acquittal. (2) If the Magistrate finds the accused guilty, he shall pass sentence according to law.",
+      "keywords": [
+        "acquittal",
+        "conviction",
+        "sentence",
+        "judgment"
+      ],
+      "chapter": "XX — Trial of Warrant Cases"
+    },
+    {
+      "section_number": "249",
+      "section_title": "Absence of complainant",
+      "text": "When the proceedings have been instituted upon complaint, and on the day fixed for hearing of the case, the complainant is absent, the Magistrate may, in his discretion, acquit the accused.",
+      "keywords": [
+        "complainant absent",
+        "acquittal",
+        "dismissal"
+      ],
+      "chapter": "XX — Trial of Warrant Cases"
+    },
+    {
+      "section_number": "255",
+      "section_title": "Summary trial",
+      "text": "Certain offences may be tried summarily by a Magistrate.",
+      "keywords": [
+        "summary trial",
+        "magistrate"
+      ],
+      "chapter": "XX — Summary Trials"
+    },
+    {
+      "section_number": "256",
+      "section_title": "Procedure in summons cases",
+      "text": "In a summons-case, the Magistrate shall, as soon as the accused appears, state the particulars of the offence to the accused and ask him whether he pleads guilty or claims trial.",
+      "keywords": [
+        "summons case",
+        "procedure",
+        "plea",
+        "Magistrate"
+      ],
+      "chapter": "XXI — Trial of Summons Cases"
+    },
+    {
+      "section_number": "257",
+      "section_title": "Conviction on plea of guilty",
+      "text": "If the accused pleads guilty, the Magistrate shall record the plea and may, in his discretion, convict him.",
+      "keywords": [
+        "plea of guilty",
+        "conviction",
+        "Magistrate"
+      ],
+      "chapter": "XXI — Trial of Summons Cases"
+    },
+    {
+      "section_number": "258",
+      "section_title": "Acquittal",
+      "text": "If, after the evidence of the complainant and the accused have been taken, the Magistrate finds the accused not guilty, he shall record an order of acquittal.",
+      "keywords": [
+        "acquittal",
+        "evidence",
+        "not guilty"
+      ],
+      "chapter": "XXI — Trial of Summons Cases"
+    },
+    {
+      "section_number": "259",
+      "section_title": "Withdrawal of complaint",
+      "text": "A complainant may, at any time before a final order is passed, withdraw his complaint. In such case, the Magistrate shall acquit the accused.",
+      "keywords": [
+        "withdrawal",
+        "complaint",
+        "acquittal"
+      ],
+      "chapter": "XXI — Trial of Summons Cases"
+    },
+    {
+      "section_number": "260",
+      "section_title": "Power to try summarily",
+      "text": "(1) A Chief Judicial Magistrate or any Magistrate of the first class may try summarily any offence which is not punishable with death or imprisonment for life or imprisonment for a term exceeding three years. (2) The Magistrate may, if he thinks fit, try any such case as a summons case.",
+      "keywords": [
+        "summary trial",
+        "magistrate",
+        "petty offences"
+      ],
+      "chapter": "XXII — Summary Trials"
+    },
+    {
+      "section_number": "261",
+      "section_title": "Procedure for summary trial",
+      "text": "In summary trials, the Magistrate shall record the substance of the evidence and the particulars of the finding and sentence. No judgment of a summary trial shall contain a detailed judgment exceeding the prescribed form.",
+      "keywords": [
+        "summary procedure",
+        "evidence record",
+        "judgment"
+      ],
+      "chapter": "XXII — Summary Trials"
+    },
+    {
+      "section_number": "265",
+      "section_title": "Application for plea bargaining",
+      "text": "(1) A person accused of an offence may file an application for plea bargaining in the Court in which the offence is pending for trial. (2) The application shall contain a brief description of the case and be accompanied by an affidavit stating that the accused has voluntarily accepted the plea offer.",
+      "keywords": [
+        "plea bargaining",
+        "application",
+        "voluntary",
+        "accused"
+      ],
+      "chapter": "XXIII — Plea Bargaining"
+    },
+    {
+      "section_number": "266",
+      "section_title": "Procedure for plea bargaining",
+      "text": "(1) On receipt of an application under section 265, the Court shall issue notice to the Public Prosecutor and the complainant, if any, and fix a date for the hearing. (2) The Court shall satisfy itself that the application is voluntary and shall give the accused an opportunity to be heard.",
+      "keywords": [
+        "plea bargaining",
+        "procedure",
+        "hearing",
+        "notice"
+      ],
+      "chapter": "XXIII — Plea Bargaining"
+    },
+    {
+      "section_number": "267",
+      "section_title": "Appeal from convictions",
+      "text": "An appeal lies from a conviction by a Magistrate to the Sessions Court.",
+      "keywords": [
+        "appeal",
+        "conviction",
+        "magistrate"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "268",
+      "section_title": "Appeal from Sessions Court",
+      "text": "An appeal lies from a Sessions Court conviction to the High Court.",
+      "keywords": [
+        "appeal",
+        "sessions court",
+        "high court"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "269",
+      "section_title": "Appeal to Supreme Court",
+      "text": "An appeal lies to the Supreme Court in certain cases.",
+      "keywords": [
+        "appeal",
+        "supreme court"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "270",
+      "section_title": "No appeal in petty cases",
+      "text": "No appeal lies for petty offences where fine only is imposed.",
+      "keywords": [
+        "appeal",
+        "petty cases"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "271",
+      "section_title": "Appeal against acquittal",
+      "text": "The State may appeal against an order of acquittal.",
+      "keywords": [
+        "appeal",
+        "acquittal",
+        "state appeal"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "272",
+      "section_title": "Procedure in appeals",
+      "text": "The appellate court may admit new evidence if necessary.",
+      "keywords": [
+        "appeal",
+        "procedure",
+        "additional evidence"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "273",
+      "section_title": "Powers of appellate court",
+      "text": "The appellate court may reverse, alter, or confirm the judgment.",
+      "keywords": [
+        "appeal",
+        "appellate powers"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "274",
+      "section_title": "Appeal from convictions",
+      "text": "Any person convicted on a trial held by a Sessions Judge or an Additional Sessions Judge, or on a trial held by any other Court in which a sentence of imprisonment for more than seven years has been passed, may appeal to the High Court.",
+      "keywords": [
+        "appeal",
+        "conviction",
+        "High Court"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "275",
+      "section_title": "No appeal in petty cases",
+      "text": "There shall be no appeal in cases where a Magistrate imposes a fine only not exceeding one thousand rupees, or where a sentence of imprisonment does not exceed three months.",
+      "keywords": [
+        "appeal",
+        "petty cases",
+        "Magistrate"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "276",
+      "section_title": "Appeal against acquittal",
+      "text": "The State Government may direct the Public Prosecutor to present an appeal to the High Court from an order of acquittal passed by any Court.",
+      "keywords": [
+        "appeal",
+        "acquittal",
+        "State"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "277",
+      "section_title": "Powers of appellate Court",
+      "text": "The appellate Court may in an appeal: (a) reverse the finding and sentence and acquit or discharge the accused, or order him to be re-tried, (b) alter the finding, or (c) alter the nature or the extent, or the nature and extent, of the sentence.",
+      "keywords": [
+        "appellate powers",
+        "reversal",
+        "retrial"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "278",
+      "section_title": "Summary dismissal of appeal",
+      "text": "If the appellate Court considers that there is no sufficient ground for interfering, it may dismiss the appeal summarily.",
+      "keywords": [
+        "dismissal",
+        "summary",
+        "appeal"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "279",
+      "section_title": "Procedure when appellant in jail",
+      "text": "If the appellant is in jail, he may present his appeal through the officer in charge of the jail.",
+      "keywords": [
+        "jail",
+        "appeal",
+        "prisoner"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "280",
+      "section_title": "Provision for bail pending appeal",
+      "text": "The appellate Court may, if the accused is in confinement, direct that he be released on bail or on his own bond pending the disposal of the appeal.",
+      "keywords": [
+        "bail pending appeal",
+        "suspension",
+        "release"
+      ],
+      "chapter": "XXI — Appeals"
+    },
+    {
+      "section_number": "311",
+      "section_title": "Bail under this Sanhita",
+      "text": "The provisions of this Sanhita relating to bail shall be construed liberally.",
+      "keywords": [
+        "bail",
+        "liberal construction"
+      ],
+      "chapter": "XXIV — General Provisions"
+    },
+    {
+      "section_number": "312",
+      "section_title": "Power to examine witness",
+      "text": "Any court may summon any person as a witness at any stage of the proceedings.",
+      "keywords": [
+        "witness",
+        "summon",
+        "court"
+      ],
+      "chapter": "XXIV — General Provisions"
+    },
+    {
+      "section_number": "330",
+      "section_title": "Limitation for taking cognizance",
+      "text": "(1) No Court shall take cognizance of an offence after the expiry of the period of limitation. (2) The period of limitation shall be: (a) six months for offences punishable with fine only; (b) one year for offences punishable with imprisonment not exceeding one year; (c) three years for offences punishable with imprisonment exceeding one year but not exceeding three years.",
+      "keywords": [
+        "limitation",
+        "cognizance",
+        "time bar",
+        "period"
+      ],
+      "chapter": "XXVI — Limitation"
+    },
+    {
+      "section_number": "331",
+      "section_title": "Commencement of limitation period",
+      "text": "(1) The period of limitation shall commence on the date of the offence. (2) Where the commission of the offence was not known to the person aggrieved, it shall commence on the date on which it first became known to him.",
+      "keywords": [
+        "limitation",
+        "commencement",
+        "date of offence",
+        "knowledge"
+      ],
+      "chapter": "XXVI — Limitation"
+    },
+    {
+      "section_number": "350",
+      "section_title": "Inherent powers of High Court",
+      "text": "The High Court may make any order to prevent abuse of process or secure ends of justice.",
+      "keywords": [
+        "high court",
+        "inherent powers",
+        "abuse of process",
+        "482"
+      ],
+      "chapter": "XXV — Miscellaneous"
+    },
+    {
+      "section_number": "351",
+      "section_title": "Saving of inherent powers",
+      "text": "Nothing in this Sanhita shall limit the inherent powers of the High Court.",
+      "keywords": [
+        "high court",
+        "inherent powers",
+        "saving"
+      ],
+      "chapter": "XXV — Miscellaneous"
+    },
+    {
+      "section_number": "352",
+      "section_title": "Inherent powers of High Court",
+      "text": "Nothing in this Sanhita shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+      "keywords": [
+        "inherent powers",
+        "High Court",
+        "abuse of process"
+      ],
+      "chapter": "XXV — Miscellaneous"
+    },
+    {
+      "section_number": "353",
+      "section_title": "Power to make rules",
+      "text": "The High Court may make rules consistent with this Sanhita for carrying on proceedings before Criminal Courts.",
+      "keywords": [
+        "rules",
+        "High Court",
+        "procedure"
+      ],
+      "chapter": "XXV — Miscellaneous"
+    },
+    {
+      "section_number": "354",
+      "section_title": "Repeal and savings",
+      "text": "The Code of Criminal Procedure, 1973 is hereby repealed. Notwithstanding such repeal, any action taken under the repealed Code shall be deemed to have been taken under this Sanhita.",
+      "keywords": [
+        "repeal",
+        "savings",
+        "transition"
+      ],
+      "chapter": "XXV — Miscellaneous"
+    },
+    {
+      "section_number": "394",
+      "section_title": "Reference to High Court",
+      "text": "Where any Court is satisfied that a case pending before it involves a question as to the validity of any Act or Regulation, it shall refer the question to the High Court for decision.",
+      "keywords": [
+        "reference",
+        "high court",
+        "validity",
+        "act"
+      ],
+      "chapter": "XXXI — Reference and Revision"
+    },
+    {
+      "section_number": "397",
+      "section_title": "Power of revision",
+      "text": "The High Court may call for and examine the record of any proceeding before any inferior Criminal Court situate within its local jurisdiction for the purpose of satisfying itself as to the correctness, legality or propriety of any finding, sentence or order.",
+      "keywords": [
+        "revision",
+        "high court",
+        "record",
+        "legality"
+      ],
+      "chapter": "XXXI — Reference and Revision"
+    },
+    {
+      "section_number": "401",
+      "section_title": "Revisional powers of Sessions Judge",
+      "text": "Any Sessions Judge may call for and examine the record of any proceeding before any Magistrate subordinate to him for the purpose of satisfying himself as to the correctness, legality or propriety of any finding, sentence or order.",
+      "keywords": [
+        "sessions judge",
+        "revision",
+        "magistrate",
+        "record"
+      ],
+      "chapter": "XXXI — Reference and Revision"
+    },
+    {
+      "section_number": "404",
+      "section_title": "Statement by Magistrate",
+      "text": "When a case is referred for revision, the Magistrate whose order is challenged shall, if required, submit a written statement setting forth the grounds of his decision.",
+      "keywords": [
+        "statement",
+        "magistrate",
+        "revision",
+        "grounds"
+      ],
+      "chapter": "XXXI — Reference and Revision"
+    },
+    {
+      "section_number": "410",
+      "section_title": "Power of High Court to transfer cases",
+      "text": "The High Court may, on the application of any person interested, order that any particular case be transferred from one Criminal Court to another Criminal Court in the same State or from any Criminal Court to any other Criminal Court of equal or superior jurisdiction.",
+      "keywords": [
+        "transfer",
+        "high court",
+        "case transfer",
+        "jurisdiction"
+      ],
+      "chapter": "XXXII — Transfer of Cases"
+    },
+    {
+      "section_number": "421",
+      "section_title": "Execution of warrant of imprisonment",
+      "text": "When a sentence of imprisonment is passed, the Court shall issue a warrant for the execution of such sentence to the officer in charge of the jail in which the prisoner is to be confined.",
+      "keywords": [
+        "execution",
+        "warrant",
+        "imprisonment",
+        "jail"
+      ],
+      "chapter": "XXXIII — Execution, Suspension, Remission and Commutation of Sentences"
+    },
+    {
+      "section_number": "427",
+      "section_title": "Suspension of sentence pending appeal",
+      "text": "When an appeal is presented, the Appellate Court may, for reasons to be recorded, suspend the execution of the sentence pending the appeal.",
+      "keywords": [
+        "suspension",
+        "sentence",
+        "appeal",
+        "pending"
+      ],
+      "chapter": "XXXIII — Execution, Suspension, Remission and Commutation of Sentences"
+    },
+    {
+      "section_number": "432",
+      "section_title": "Power to remit sentences",
+      "text": "The appropriate Government may, without the consent of the person sentenced, remit or commute any sentence, subject to conditions as may be specified.",
+      "keywords": [
+        "remission",
+        "government",
+        "sentence",
+        "commutation"
+      ],
+      "chapter": "XXXIII — Execution, Suspension, Remission and Commutation of Sentences"
+    },
+    {
+      "section_number": "478",
+      "section_title": "Bail when police grants bail",
+      "text": "When any person is arrested without warrant and is prepared to give bail, the officer in charge of the police station shall release him on bail if the offence is bailable.",
+      "keywords": [
+        "bail",
+        "police",
+        "bailable offence",
+        "release"
+      ],
+      "chapter": "XXXIV — Provisions as to Bail and Bonds"
+    },
+    {
+      "section_number": "479",
+      "section_title": "Bail when Magistrate grants bail",
+      "text": "When any person is arrested and is prepared to give bail, the Magistrate before whom he is produced shall release him on bail if the offence is bailable.",
+      "keywords": [
+        "bail",
+        "magistrate",
+        "bailable offence"
+      ],
+      "chapter": "XXXIV — Provisions as to Bail and Bonds"
+    },
+    {
+      "section_number": "482",
+      "section_title": "Direction for grant of bail to person apprehending arrest",
+      "text": "When any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail.",
+      "keywords": [
+        "anticipatory bail",
+        "high court",
+        "sessions court",
+        "non-bailable"
+      ],
+      "chapter": "XXXIV — Provisions as to Bail and Bonds"
+    },
+    {
+      "section_number": "483",
+      "section_title": "Provisions as to bonds",
+      "text": "(1) The amount of every bond executed under this Sanhita shall be fixed with due regard to the circumstances of the case and shall not be excessive. (2) The Court may accept the bond with or without sureties as it thinks fit. (3) A bond may be taken from any person who is present or from a surety.",
+      "keywords": [
+        "bond",
+        "surety",
+        "amount",
+        "excessive"
+      ],
+      "chapter": "XXXIV — Provisions as to Bail and Bonds"
+    },
+    {
+      "section_number": "484",
+      "section_title": "Public servants not to be compelled to disclose communications",
+      "text": "No public servant shall be compelled to disclose any communication made to him in official confidence, except with the permission of the officer to whom he is subordinate, if the public servant considers that such communication would be injurious to the public interest.",
+      "keywords": [
+        "public servant",
+        "privileged communication",
+        "official confidence",
+        "disclosure"
+      ],
+      "chapter": "XXXIV — Provisions as to Bail and Bonds"
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,486 @@
+[
+  {
+    "id": "kesavananda_bharati_1973",
+    "case_name": "Kesavananda Bharati vs. State of Kerala",
+    "year": 1973,
+    "citation": "AIR 1973 SC 1461",
+    "bench": "13-Judge Bench",
+    "core_issue": "Basic Structure Doctrine",
+    "holding": "Parliament cannot amend the basic structure of the Constitution",
+    "acts_affected": ["Constitution of India, Art. 368"],
+    "principles_established": [
+      "Basic structure doctrine",
+      "Judicial review of constitutional amendments",
+      "Parliament's amending power is not unlimited"
+    ],
+    "relevance": "Defines the limits of Parliament's power to amend the Constitution"
+  },
+  {
+    "id": "maneka_gandhi_1978",
+    "case_name": "Maneka Gandhi vs. Union of India",
+    "year": 1978,
+    "citation": "AIR 1978 SC 597",
+    "bench": "7-Judge Bench",
+    "core_issue": "Right to life and personal liberty under Article 21",
+    "holding": "Article 21 is not merely a procedure against deprivation of life and liberty but must be fair, just and reasonable",
+    "acts_affected": ["Constitution of India, Art. 21", "Passport Act, 1967"],
+    "principles_established": [
+      "Article 21 cannot be suspended even during emergency",
+      "Procedure established by law must be just, fair and reasonable",
+      "Golden triangle of Articles 14, 19 and 21"
+    ],
+    "relevance": "Expanded the scope of Article 21 to include due process requirements"
+  },
+  {
+    "id": "puttaswamy_2017",
+    "case_name": "K.S. Puttaswamy vs. Union of India",
+    "year": 2017,
+    "citation": "(2017) 10 SCC 1",
+    "bench": "9-Judge Bench",
+    "core_issue": "Right to privacy as a fundamental right",
+    "holding": "Right to privacy is a fundamental right under Article 21 of the Constitution",
+    "acts_affected": ["Constitution of India, Art. 21", "Aadhaar Act, 2016"],
+    "principles_established": [
+      "Right to privacy is intrinsic to life and liberty",
+      "Privacy includes informational, bodily and decisional autonomy",
+      "Overruled M.P. Sharma and Kharak Singh to the extent they denied privacy"
+    ],
+    "relevance": "Established privacy as a constitutionally protected fundamental right"
+  },
+  {
+    "id": "sr_bommai_1994",
+    "case_name": "S.R. Bommai vs. Union of India",
+    "year": 1994,
+    "citation": "AIR 1994 SC 1918",
+    "bench": "9-Judge Bench",
+    "core_issue": "President's rule and federalism under Article 356",
+    "holding": "President's power under Article 356 is subject to judicial review; secularism is part of basic structure",
+    "acts_affected": ["Constitution of India, Art. 356"],
+    "principles_established": [
+      "Federalism and secularism are part of the basic structure",
+      "President's satisfaction under Art. 356 is justiciable",
+      "State assemblies cannot be dissolved until proclamation is approved by Parliament"
+    ],
+    "relevance": "Limited the arbitrary use of Article 356 to dismiss state governments"
+  },
+  {
+    "id": "adm_jabalpur_1976",
+    "case_name": "A.D.M. Jabalpur vs. Shivkant Shukla",
+    "year": 1976,
+    "citation": "AIR 1976 SC 1207",
+    "bench": "5-Judge Bench",
+    "core_issue": "Writ of habeas corpus during national emergency",
+    "holding": "No person has locus standi to file a habeas corpus petition during emergency when fundamental rights are suspended",
+    "acts_affected": ["Constitution of India, Art. 359", "Maintenance of Internal Security Act, 1971"],
+    "principles_established": [
+      "Later overruled by Puttaswamy — right to life cannot be suspended",
+      "Dissent by Justice H.R. Khanna became landmark"
+    ],
+    "relevance": "Controversial judgment denying habeas corpus during Emergency; subsequently overruled"
+  },
+  {
+    "id": "indira_nehru_gandhi_1975",
+    "case_name": "Indira Nehru Gandhi vs. Raj Narain",
+    "year": 1975,
+    "citation": "AIR 1975 SC 2299",
+    "bench": "5-Judge Bench",
+    "core_issue": "Validity of election laws and constitutional amendments",
+    "holding": "Election disputes must be decided by an independent judiciary; amendments that destroy basic structure are invalid",
+    "acts_affected": ["Constitution of India, Art. 329A", "Representation of the People Act, 1951"],
+    "principles_established": [
+      "Democracy and rule of law are part of basic structure",
+      "Parliament cannot validate an invalid election by constitutional amendment",
+      "Even a unanimous vote cannot override fundamental rights"
+    ],
+    "relevance": "Struck down Article 329A which sought to immunize Prime Minister's election from judicial scrutiny"
+  },
+  {
+    "id": "minerva_mills_1980",
+    "case_name": "Minerva Mills vs. Union of India",
+    "year": 1980,
+    "citation": "AIR 1980 SC 1789",
+    "bench": "5-Judge Bench",
+    "core_issue": "Limits on Parliament's power to amend the Constitution",
+    "holding": "Parliament cannot abrogate fundamental rights through amendment; the harmony between fundamental rights and directive principles is part of basic structure",
+    "acts_affected": ["Constitution of India, Art. 368", "Constitution (42nd Amendment) Act, 1976"],
+    "principles_established": [
+      "Limited amending power of Parliament under Art. 368",
+      "Judicial review of constitutional amendments",
+      "Fundamental rights cannot be abrogated"
+    ],
+    "relevance": "Struck down clauses of the 42nd Amendment that gave unlimited amending power to Parliament"
+  },
+  {
+    "id": "dk_basu_1997",
+    "case_name": "D.K. Basu vs. State of West Bengal",
+    "year": 1997,
+    "citation": "(1997) 1 SCC 416",
+    "bench": "2-Judge Bench",
+    "core_issue": "Arrest procedure and custodial violence",
+    "holding": "Laid down detailed guidelines to be followed during arrest and detention to prevent custodial violence",
+    "acts_affected": ["Code of Criminal Procedure, 1973", "Constitution of India, Art. 21"],
+    "principles_established": [
+      "Right to know grounds of arrest",
+      "Right to inform family member about arrest",
+      "Right to legal representation",
+      "Right to be produced before magistrate within 24 hours",
+      "Compensation for custodial death"
+    ],
+    "relevance": "Foundational guidelines to prevent custodial torture and protect dignity of arrested persons"
+  },
+  {
+    "id": "lalita_kumari_2014",
+    "case_name": "Lalita Kumari vs. State of Uttar Pradesh",
+    "year": 2014,
+    "citation": "(2014) 2 SCC 1",
+    "bench": "5-Judge Bench",
+    "core_issue": "Whether police can conduct preliminary inquiry before registering FIR for cognizable offences",
+    "holding": "Registration of FIR is mandatory under Section 154 CrPC for cognizable offences; preliminary inquiry only in limited exceptional cases",
+    "acts_affected": ["Code of Criminal Procedure, 1973, Sec. 154"],
+    "principles_established": [
+      "FIR registration is mandatory for cognizable offences",
+      "Preliminary inquiry permitted only in matrimonial/medical corruption cases",
+      "Time limit of 7 days for preliminary inquiry"
+    ],
+    "relevance": "Ended discretion of police to avoid registering FIRs in cognizable offences"
+  },
+  {
+    "id": "arnesh_kumar_2014",
+    "case_name": "Arnesh Kumar vs. State of Bihar",
+    "year": 2014,
+    "citation": "(2014) 8 SCC 273",
+    "bench": "2-Judge Bench",
+    "core_issue": "Automatic arrest for offences punishable up to 7 years",
+    "holding": "Arrest is not mandatory for offences punishable up to 7 years; police must comply with Section 41 CrPC guidelines",
+    "acts_affected": ["Code of Criminal Procedure, 1973, Sec. 41", "Sec. 498A IPC"],
+    "principles_established": [
+      "No automatic arrest for offences up to 7 years imprisonment",
+      "Police must record reasons for arrest",
+      "Magistrates must not mechanically authorize detention",
+      "Anti-dowry laws should not be abused"
+    ],
+    "relevance": "Checked arbitrary arrests in matrimonial disputes and other offences punishable up to 7 years"
+  },
+  {
+    "id": "baldev_singh_1999",
+    "case_name": "State of Punjab vs. Baldev Singh",
+    "year": 1999,
+    "citation": "(1999) 6 SCC 172",
+    "bench": "5-Judge Bench",
+    "core_issue": "Compliance with search procedures under NDPS Act",
+    "holding": "Non-compliance with mandatory search and seizure provisions under NDPS Act renders the trial vitiated",
+    "acts_affected": ["NDPS Act, 1985, Sec. 42, 50"],
+    "principles_established": [
+      "Right of accused to be informed of right to search before a gazetted officer or magistrate",
+      "Non-compliance with procedural safeguards vitiates conviction",
+      "Strict compliance required for NDPS searches"
+    ],
+    "relevance": "Protected accused persons from arbitrary searches and seizures under strict NDPS laws"
+  },
+  {
+    "id": "nandini_satpathy_1978",
+    "case_name": "Nandini Satpathy vs. P.L. Dani",
+    "year": 1978,
+    "citation": "AIR 1978 SC 1025",
+    "bench": "3-Judge Bench",
+    "core_issue": "Right against self-incrimination under Article 20(3)",
+    "holding": "Article 20(3) protects accused persons from being compelled to be witnesses against themselves; applies to police interrogation",
+    "acts_affected": ["Constitution of India, Art. 20(3)", "Code of Criminal Procedure, 1973, Sec. 161"],
+    "principles_established": [
+      "Compelled testimony includes oral as well as documentary evidence",
+      "Right against self-incrimination extends to the stage of police interrogation",
+      "Police cannot compel answers that may incriminate"
+    ],
+    "relevance": "Broad interpretation of the right against self-incrimination during investigation"
+  },
+  {
+    "id": "hussainara_khatoon_1979",
+    "case_name": "Hussainara Khatoon vs. State of Bihar",
+    "year": 1979,
+    "citation": "AIR 1979 SC 1360",
+    "bench": "2-Judge Bench",
+    "core_issue": "Right to speedy trial and undertrial prisoners",
+    "holding": "Right to speedy trial is a fundamental right under Article 21; undertrial prisoners must be released if trial cannot be completed within reasonable time",
+    "acts_affected": ["Constitution of India, Art. 21", "Code of Criminal Procedure, 1973"],
+    "principles_established": [
+      "Speedy trial is an integral part of Article 21",
+      "Poverty cannot be a reason for pre-trial detention",
+      "Free legal aid is a fundamental right"
+    ],
+    "relevance": "Led to release of thousands of undertrial prisoners and established right to speedy trial"
+  },
+  {
+    "id": "bachan_singh_1980",
+    "case_name": "Bachan Singh vs. State of Punjab",
+    "year": 1980,
+    "citation": "AIR 1980 SC 898",
+    "bench": "5-Judge Bench",
+    "core_issue": "Constitutional validity of death penalty",
+    "holding": "Death penalty is constitutional but only in the 'rarest of rare' cases",
+    "acts_affected": ["Indian Penal Code, 1860, Sec. 302", "Code of Criminal Procedure, 1973, Sec. 354(3)"],
+    "principles_established": [
+      "Rarest of rare doctrine for death penalty",
+      "Death sentence must be an exception, not the rule",
+      "Aggravating and mitigating circumstances must be weighed"
+    ],
+    "relevance": "The guiding precedent for all death penalty sentencing in India"
+  },
+  {
+    "id": "selvi_2010",
+    "case_name": "Selvi vs. State of Karnataka",
+    "year": 2010,
+    "citation": "(2010) 7 SCC 263",
+    "bench": "3-Judge Bench",
+    "core_issue": "Constitutionality of narcoanalysis, polygraph and brain-mapping tests",
+    "holding": "Forcible administration of narcoanalysis, polygraph and brain-mapping tests violates Article 20(3) right against self-incrimination",
+    "acts_affected": ["Constitution of India, Art. 20(3)", "Indian Evidence Act, 1872"],
+    "principles_established": [
+      "Narcoanalysis violates right against self-incrimination",
+      "Results of such tests are not admissible as evidence",
+      "Consent-based tests are permissible with procedural safeguards"
+    ],
+    "relevance": "Prohibited invasive forensic interrogation techniques as violative of fundamental rights"
+  },
+  {
+    "id": "nikesh_tarachand_shah_2018",
+    "case_name": "Nikesh Tarachand Shah vs. Union of India",
+    "year": 2018,
+    "citation": "(2018) 11 SCC 1",
+    "bench": "2-Judge Bench",
+    "core_issue": "Constitutional validity of stringent bail provisions under PMLA",
+    "holding": "Section 45 of PMLA (twin conditions for bail) struck down as violative of Articles 14 and 21",
+    "acts_affected": ["Prevention of Money Laundering Act, 2002, Sec. 45"],
+    "principles_established": [
+      "Bail conditions must not be arbitrary or disproportionate",
+      "Presumption of innocence cannot be reversed for economic offences",
+      "Twin conditions for bail violated Article 14 and 21"
+    ],
+    "relevance": "Struck down the twin bail conditions that made bail nearly impossible under PMLA"
+  },
+  {
+    "id": "shayara_bano_2017",
+    "case_name": "Shayara Bano vs. Union of India",
+    "year": 2017,
+    "citation": "(2017) 9 SCC 1",
+    "bench": "5-Judge Bench",
+    "core_issue": "Constitutional validity of instant triple talaq (talaq-e-biddat)",
+    "holding": "Instant triple talaq is unconstitutional as it violates Article 14 and is not essential to Islamic practice",
+    "acts_affected": ["Muslim Personal Law (Shariat) Application Act, 1937", "Constitution of India, Art. 14, 15, 25"],
+    "principles_established": [
+      "Triple talaq is not an essential religious practice under Islam",
+      "Practice violates the fundamental right to equality",
+      "Muslim Women (Protection of Rights on Marriage) Act, 2019 subsequently enacted"
+    ],
+    "relevance": "Outlawed the practice of instant divorce among Indian Muslims and strengthened gender justice"
+  },
+  {
+    "id": "seema_ghosh_2006",
+    "case_name": "Seema Ghosh vs. State of Rajasthan",
+    "year": 2006,
+    "citation": "(2006) 2 SCC 17",
+    "bench": "3-Judge Bench",
+    "core_issue": "Compulsory registration of marriages",
+    "holding": "Registration of marriages should be made compulsory regardless of religion",
+    "acts_affected": ["Hindu Marriage Act, 1955", "Special Marriage Act, 1954", "Various personal laws"],
+    "principles_established": [
+      "Marriage registration is compulsory in the interest of women",
+      "Prevents denial of marriage, bigamy and abandonment",
+      "Directs states to frame rules for compulsory registration"
+    ],
+    "relevance": "Led to nationwide push for mandatory marriage registration to protect women's rights"
+  },
+  {
+    "id": "danial_latifi_2001",
+    "case_name": "Danial Latifi vs. Union of India",
+    "year": 2001,
+    "citation": "(2001) 7 SCC 740",
+    "bench": "5-Judge Bench",
+    "core_issue": "Muslim women's right to maintenance after divorce under Article 21",
+    "holding": "Section 125 CrPC applies to Muslim women even after divorce; maintenance must be paid for entire life or until remarriage",
+    "acts_affected": ["Muslim Women (Protection of Rights on Divorce) Act, 1986", "Code of Criminal Procedure, 1973, Sec. 125"],
+    "principles_established": [
+      "Muslim divorced women are entitled to maintenance under Sec. 125 CrPC",
+      "Maintenance under Muslim Women Act must be fair and reasonable",
+      "Obligation of husband continues until wife remarries"
+    ],
+    "relevance": "Upheld maintenance rights of Muslim divorced women while protecting personal law"
+  },
+  {
+    "id": "githa_hariharan_1999",
+    "case_name": "Githa Hariharan vs. Reserve Bank of India",
+    "year": 1999,
+    "citation": "(1999) 2 SCC 228",
+    "bench": "2-Judge Bench",
+    "core_issue": "Whether mother can be natural guardian of a child during father's lifetime",
+    "holding": "Mother is a natural guardian under Hindu Minority and Guardianship Act even during father's lifetime if father is absent or uninterested",
+    "acts_affected": ["Hindu Minority and Guardianship Act, 1956, Sec. 6", "Guardians and Wards Act, 1890"],
+    "principles_established": [
+      "Mother's right as natural guardian is not subordinate to father",
+      "Guardianship laws must be interpreted in light of gender equality",
+      "Father's 'after' in Sec. 6 does not mean mother is disqualifed"
+    ],
+    "relevance": "Advanced gender equality in guardianship rights; mother recognized as equal guardian"
+  },
+  {
+    "id": "vishaka_1997",
+    "case_name": "Vishaka vs. State of Rajasthan",
+    "year": 1997,
+    "citation": "(1997) 6 SCC 241",
+    "bench": "3-Judge Bench",
+    "core_issue": "Sexual harassment of women at workplace",
+    "holding": "Laid down guidelines (Vishaka Guidelines) to prevent sexual harassment at workplace until legislation is enacted",
+    "acts_affected": ["Constitution of India, Art. 14, 15, 19, 21", "International conventions under CEDAW"],
+    "principles_established": [
+      "Sexual harassment violates fundamental rights to equality and life",
+      "Employers must provide safe working environment",
+      "Complaints committee must be constituted in every workplace",
+      "Legislation later enacted as POSH Act, 2013"
+    ],
+    "relevance": "Established landmark framework against workplace sexual harassment; precursor to POSH Act, 2013"
+  },
+  {
+    "id": "mc_mehta_1987",
+    "case_name": "M.C. Mehta vs. Union of India",
+    "year": 1987,
+    "citation": "AIR 1987 SC 1086",
+    "bench": "2-Judge Bench",
+    "core_issue": "Strict and absolute liability for hazardous industries",
+    "holding": "Established the principle of absolute liability for enterprises engaged in hazardous activities; liability is not subject to exceptions under strict liability",
+    "acts_affected": ["Environment Protection Act, 1986", "Public Liability Insurance Act, 1991"],
+    "principles_established": [
+      "Absolute liability for harm from hazardous substances",
+      "No exceptions to liability (no act of God, third party, etc.)",
+      "Quantum of damages must be proportional to enterprise's capacity"
+    ],
+    "relevance": "Created strict environmental liability standard far exceeding the English rule in Rylands vs. Fletcher"
+  },
+  {
+    "id": "ima_vp_shantha_1995",
+    "case_name": "Indian Medical Association vs. V.P. Shantha",
+    "year": 1995,
+    "citation": "(1995) 6 SCC 651",
+    "bench": "3-Judge Bench",
+    "core_issue": "Whether medical services are covered under the Consumer Protection Act",
+    "holding": "Medical services rendered by doctors and hospitals are 'services' under the Consumer Protection Act and medical negligence is actionable",
+    "acts_affected": ["Consumer Protection Act, 1986, Sec. 2(1)(o)"],
+    "principles_established": [
+      "Medical services fall within ambit of consumer law",
+      "Free services in government hospitals may be exempt",
+      "Paid medical services are subject to consumer protection"
+    ],
+    "relevance": "Brought medical profession under consumer law, making doctors accountable for negligence"
+  },
+  {
+    "id": "dtc_mazdoor_congress_1991",
+    "case_name": "Delhi Transport Corporation vs. D.T.C. Mazdoor Congress",
+    "year": 1991,
+    "citation": "AIR 1991 SC 101",
+    "bench": "2-Judge Bench",
+    "core_issue": "Right to livelihood and arbitrary termination of workers",
+    "holding": "Right to livelihood is part of Article 21; termination without notice and without reasons violates natural justice and fundamental rights",
+    "acts_affected": ["Constitution of India, Art. 14, 21", "Industrial Disputes Act, 1947"],
+    "principles_established": [
+      "Right to livelihood flows from Article 21",
+      "Termination must be by reasoned order and after hearing",
+      "Unregulated power to terminate is arbitrary under Article 14"
+    ],
+    "relevance": "Expanded labour protections by linking employment security to fundamental rights"
+  },
+  {
+    "id": "lic_cerc_1995",
+    "case_name": "LIC of India vs. Consumer Education & Research Centre",
+    "year": 1995,
+    "citation": "(1995) 5 SCC 482",
+    "bench": "2-Judge Bench",
+    "core_issue": "Insurance contracts, public duty and fundamental rights",
+    "holding": "Insurance contracts are imbued with public duty; LIC as state must act fairly and all citizens have right to insurance coverage without discrimination",
+    "acts_affected": ["Constitution of India, Art. 14, 21", "Insurance Act, 1938", "LIC Act, 1956"],
+    "principles_established": [
+      "Right to life includes right to livelihood and health",
+      "Insurance is a social security measure",
+      "State instrumentalities cannot discriminate in insurance coverage"
+    ],
+    "relevance": "Held that insurance companies have a public duty and cannot arbitrarily deny coverage"
+  },
+  {
+    "id": "balchand_1977",
+    "case_name": "State of Rajasthan vs. Balchand",
+    "year": 1977,
+    "citation": "AIR 1977 SC 2447",
+    "bench": "2-Judge Bench",
+    "core_issue": "Bail jurisprudence — rule vs. exception",
+    "holding": "Bail is the rule and jail is the exception; personal liberty is paramount and should not be curtailed except in compelling circumstances",
+    "acts_affected": ["Code of Criminal Procedure, 1973, Sec. 437, 439"],
+    "principles_established": [
+      "Bail is a rule, jail is an exception",
+      "Personal liberty under Article 21 is supreme",
+      "Pre-trial detention should be minimal"
+    ],
+    "relevance": "Established the foundational principle of Indian bail jurisprudence"
+  },
+  {
+    "id": "sanjay_chandra_2012",
+    "case_name": "Sanjay Chandra vs. Central Bureau of Investigation",
+    "year": 2012,
+    "citation": "(2012) 1 SCC 40",
+    "bench": "2-Judge Bench",
+    "core_issue": "Bail in economic offences — 2G spectrum case",
+    "holding": "Seriousness of allegation and economic offence character alone are not grounds to deny bail; gravity of punishment is not the same as gravity of offence for bail purpose",
+    "acts_affected": ["Code of Criminal Procedure, 1973, Sec. 439"],
+    "principles_established": [
+      "Economic offences do not automatically disentitle bail",
+      "Pre-trial detention cannot be punitive",
+      "Liberty of accused is relevant even in serious economic crimes"
+    ],
+    "relevance": "Established that economic offences do not create a separate, stricter bail regime"
+  },
+  {
+    "id": "satender_kumar_antil_2022",
+    "case_name": "Satender Kumar Antil vs. Central Bureau of Investigation",
+    "year": 2022,
+    "citation": "(2022) 10 SCC 51",
+    "bench": "2-Judge Bench",
+    "core_issue": "Comprehensive bail guidelines under criminal law",
+    "holding": "Laid down comprehensive guidelines to ensure bail is granted liberally; no arrest for trivial reasons and strict compliance with Sections 41, 41A CrPC",
+    "acts_affected": ["Code of Criminal Procedure, 1973, Sec. 41, 41A, 436, 437, 439"],
+    "principles_established": [
+      "Categories of offences for bail purposes",
+      "Directions to magistrates to apply bail provisions liberally",
+      "Strict compliance with notice provisions under 41A",
+      "Consequences of illegal arrests and non-compliance"
+    ],
+    "relevance": "Comprehensive modern framework to decongest prisons by liberalizing bail"
+  },
+  {
+    "id": "arnab_goswami_2021",
+    "case_name": "Arnab Goswami vs. State of Maharashtra",
+    "year": 2021,
+    "citation": "(2021) 3 SCC 1",
+    "bench": "3-Judge Bench",
+    "core_issue": "Bail and personal liberty in cases involving serious allegations",
+    "holding": "Personal liberty cannot be curtailed even where allegations are serious; courts must not treat bail as a punishment",
+    "acts_affected": ["Code of Criminal Procedure, 1973, Sec. 439", "Constitution of India, Art. 21"],
+    "principles_established": [
+      "Personal liberty is paramount even in serious cases",
+      "Bail cannot be denied as a punishment",
+      "Length of incarceration is relevant for bail consideration"
+    ],
+    "relevance": "Reinforced that personal liberty under Article 21 is not forfeited by serious allegations alone"
+  },
+  {
+    "id": "ua_k_ajeeb_2021",
+    "case_name": "Union of India vs. K.A. Najeeb",
+    "year": 2021,
+    "citation": "(2021) 3 SCC 713",
+    "bench": "3-Judge Bench",
+    "core_issue": "Bail under UAPA — right to speedy trial",
+    "holding": "Right to speedy trial under Article 21 applies even under special acts like UAPA; courts can grant bail if trial is delayed despite stringent bail conditions in the Act",
+    "acts_affected": ["Unlawful Activities (Prevention) Act, 1967, Sec. 43D(5)", "Constitution of India, Art. 21"],
+    "principles_established": [
+      "Right to speedy trial overrides restrictive bail provisions",
+      "Stringent bail conditions in UAPA are not absolute",
+      "Prolonged incarceration without trial violates Article 21"
+    ],
+    "relevance": "Broke the nearly absolute bar on bail under UAPA by invoking fundamental rights"
+  }
+]

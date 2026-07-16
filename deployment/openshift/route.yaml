@@ -1,0 +1,16 @@
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  name: indian-legal-mcp-server
+  labels:
+    app: indian-legal-mcp-server
+    component: mcp-server
+spec:
+  to:
+    kind: Service
+    name: indian-legal-mcp-server
+  port:
+    targetPort: http
+  tls:
+    termination: edge
+    insecureEdgeTerminationPolicy: Redirect

@@ -1,0 +1,361 @@
+{
+  "act_id": "hma_1955",
+  "full_title": "Hindu Marriage Act, 1955",
+  "short_title": "HMA 1955",
+  "year": 1955,
+  "category": "family",
+  "enforcement_date": "1955-05-18",
+  "is_active": true,
+  "source_url": "https://indiacode.nic.in",
+  "last_verified": "2026-07-01",
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Short title and extent",
+      "text": "This Act may be called the Hindu Marriage Act, 1955. It extends to the whole of India.",
+      "keywords": [
+        "short title",
+        "extent"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "2",
+      "section_title": "Application of Act",
+      "text": "This Act applies to any person who is a Hindu by religion or is a Buddhist, Jain, or Sikh.",
+      "keywords": [
+        "application",
+        "hindu",
+        "buddhist",
+        "jain",
+        "sikh"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "3",
+      "section_title": "Definitions",
+      "text": "In this Act, unless the context otherwise requires: (a) 'custom' means any rule which has been continuously and uniformly observed; (b) 'degree of prohibited relationship' shall have the meaning assigned; (c) 'sapinda relationship' shall be construed accordingly.",
+      "keywords": [
+        "definitions",
+        "custom",
+        "prohibited relationship"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "5",
+      "section_title": "Conditions for a Hindu marriage",
+      "text": "A marriage may be solemnized between any two Hindus if: (a) neither has a spouse living at the time; (b) both are capable of giving valid consent; (c) the bridegroom has completed 21 years and the bride 18 years; (d) the parties are not within prohibited degrees; (e) the parties are not sapindas of each other.",
+      "keywords": [
+        "marriage",
+        "conditions",
+        "age",
+        "consent",
+        "capacity"
+      ],
+      "chapter": "II — Hindu Marriages"
+    },
+    {
+      "section_number": "6",
+      "section_title": "Guardianship in marriage",
+      "text": "Where a minor bride is concerned, the consent of the guardian is required.",
+      "keywords": [
+        "guardian",
+        "marriage",
+        "minor",
+        "consent"
+      ],
+      "chapter": "II — Hindu Marriages"
+    },
+    {
+      "section_number": "7",
+      "section_title": "Ceremonies for a Hindu marriage",
+      "text": "A Hindu marriage may be solemnized in accordance with the customary rites and ceremonies of either party.",
+      "keywords": [
+        "ceremonies",
+        "saptapadi",
+        "customary rites"
+      ],
+      "chapter": "II — Hindu Marriages"
+    },
+    {
+      "section_number": "8",
+      "section_title": "Registration of Hindu marriages",
+      "text": "The State Government may make rules for the registration of Hindu marriages.",
+      "keywords": [
+        "registration",
+        "marriage certificate"
+      ],
+      "chapter": "II — Hindu Marriages"
+    },
+    {
+      "section_number": "9",
+      "section_title": "Restitution of conjugal rights",
+      "text": "When either the husband or wife has withdrawn from the society of the other without reasonable excuse, the aggrieved party may apply to the court for restitution of conjugal rights.",
+      "keywords": [
+        "restitution",
+        "conjugal rights",
+        "withdrawal",
+        "society"
+      ],
+      "chapter": "III — Restitution and Judicial Separation"
+    },
+    {
+      "section_number": "10",
+      "section_title": "Judicial separation",
+      "text": "Either party to a marriage may present a petition for judicial separation on any of the grounds specified in section 13.",
+      "keywords": [
+        "judicial separation",
+        "grounds",
+        "petition"
+      ],
+      "chapter": "III — Restitution and Judicial Separation"
+    },
+    {
+      "section_number": "11",
+      "section_title": "Void marriages",
+      "text": "Any marriage solemnized after the commencement of this Act shall be null and void if it contravenes conditions specified in section 5.",
+      "keywords": [
+        "void marriage",
+        "nullity",
+        "invalid"
+      ],
+      "chapter": "IV — Nullity of Marriage"
+    },
+    {
+      "section_number": "12",
+      "section_title": "Voidable marriages",
+      "text": "A marriage may be annulled on grounds including: (a) impotency; (b) unsoundness of mind; (c) consent obtained by force or fraud; (d) pregnancy by another person at the time of marriage.",
+      "keywords": [
+        "voidable marriage",
+        "annulment",
+        "impotency",
+        "fraud",
+        "force"
+      ],
+      "chapter": "IV — Nullity of Marriage"
+    },
+    {
+      "section_number": "13",
+      "section_title": "Grounds for divorce",
+      "text": "A marriage may be dissolved by a decree of divorce on the following grounds: (a) adultery; (b) cruelty; (c) desertion for two years; (d) conversion to another religion; (e) unsoundness of mind; (f) leprosy; (g) venereal disease; (h) renunciation of the world; (i) not heard of as alive for seven years; (j) no resumption of cohabitation after one year of judicial separation; (k) no restitution of conjugal rights for one year after decree.",
+      "keywords": [
+        "divorce",
+        "grounds",
+        "adultery",
+        "cruelty",
+        "desertion",
+        "conversion"
+      ],
+      "chapter": "V — Divorce"
+    },
+    {
+      "section_number": "13A",
+      "section_title": "Alternate relief in divorce proceedings",
+      "text": "In any proceeding under section 13, the court may grant a decree of judicial separation instead of divorce.",
+      "keywords": [
+        "alternate relief",
+        "judicial separation",
+        "divorce"
+      ],
+      "chapter": "V — Divorce"
+    },
+    {
+      "section_number": "13B",
+      "section_title": "Divorce by mutual consent",
+      "text": "Both parties to a marriage may present a petition for divorce by mutual consent. They must be living separately for one year and agree that the marriage has broken down. The court shall pass a decree after six months but before 18 months from the date of petition.",
+      "keywords": [
+        "divorce",
+        "mutual consent",
+        "no-fault",
+        "one year separation"
+      ],
+      "chapter": "V — Divorce"
+    },
+    {
+      "section_number": "14",
+      "section_title": "No petition for divorce within one year of marriage",
+      "text": "No petition for divorce shall be presented within one year of marriage except in exceptional hardship cases.",
+      "keywords": [
+        "divorce",
+        "one year bar",
+        "exceptional hardship"
+      ],
+      "chapter": "V — Divorce"
+    },
+    {
+      "section_number": "15",
+      "section_title": "Remarriage after divorce",
+      "text": "Where a marriage has been dissolved, either party may remarry after the appeal period has expired.",
+      "keywords": [
+        "remarriage",
+        "divorce",
+        "appeal period"
+      ],
+      "chapter": "V — Divorce"
+    },
+    {
+      "section_number": "16",
+      "section_title": "Legitimacy of children",
+      "text": "Children born of void or voidable marriages shall be legitimate.",
+      "keywords": [
+        "legitimacy",
+        "children",
+        "void marriage",
+        "voidable marriage"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "17",
+      "section_title": "Punishment for bigamy",
+      "text": "Any person who marries while a spouse is living shall be punished under the Bharatiya Nyaya Sanhita.",
+      "keywords": [
+        "bigamy",
+        "punishment",
+        "second marriage"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "18",
+      "section_title": "Punishment for contravention of conditions",
+      "text": "Whoever contravenes the conditions of marriage shall be punished.",
+      "keywords": [
+        "punishment",
+        "contravention",
+        "marriage conditions"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "19",
+      "section_title": "Court to which petition shall be presented",
+      "text": "Every petition under this Act shall be presented to the District Court within whose jurisdiction the marriage was solemnized or the parties reside.",
+      "keywords": [
+        "jurisdiction",
+        "district court",
+        "petition",
+        "venue"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "20",
+      "section_title": "Contents and verification of petitions",
+      "text": "Every petition shall contain facts and be verified by the petitioner.",
+      "keywords": [
+        "petition",
+        "contents",
+        "verification"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "21",
+      "section_title": "Application of CPC",
+      "text": "The provisions of the Code of Civil Procedure apply to proceedings under this Act.",
+      "keywords": [
+        "CPC",
+        "procedure",
+        "civil procedure"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "22",
+      "section_title": "Proceedings in camera",
+      "text": "The court may order that proceedings be held in camera.",
+      "keywords": [
+        "in camera",
+        "privacy",
+        "proceedings"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "23",
+      "section_title": "Decree in proceedings",
+      "text": "The court shall decree relief if satisfied that grounds exist and there is no legal bar.",
+      "keywords": [
+        "decree",
+        "relief",
+        "grounds",
+        "satisfaction"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "24",
+      "section_title": "Maintenance pendente lite and expenses of proceedings",
+      "text": "Where either party has no independent income, the court may order the other party to pay maintenance during the proceedings and litigation expenses.",
+      "keywords": [
+        "maintenance",
+        "pendente lite",
+        "interim maintenance",
+        "litigation expenses"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "25",
+      "section_title": "Permanent alimony and maintenance",
+      "text": "The court may grant permanent alimony and maintenance to either party at the time of passing any decree.",
+      "keywords": [
+        "maintenance",
+        "permanent alimony",
+        "spousal support"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "26",
+      "section_title": "Custody of children",
+      "text": "The court may make orders for the custody, maintenance, and education of minor children.",
+      "keywords": [
+        "custody",
+        "children",
+        "minor",
+        "maintenance",
+        "education"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "27",
+      "section_title": "Disposal of property",
+      "text": "The court may make provisions for the disposal of joint property.",
+      "keywords": [
+        "property",
+        "disposal",
+        "joint property",
+        "settlement"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "28",
+      "section_title": "Appeals",
+      "text": "All decrees and orders are appealable as decrees under CPC.",
+      "keywords": [
+        "appeal",
+        "decree",
+        "order"
+      ],
+      "chapter": "VI — Miscellaneous"
+    },
+    {
+      "section_number": "29",
+      "section_title": "Savings",
+      "text": "This Act does not affect marriages solemnized under other personal laws or special marriage acts.",
+      "keywords": [
+        "savings",
+        "other laws",
+        "customary marriages"
+      ],
+      "chapter": "VI — Miscellaneous"
+    }
+  ],
+  "versions": []
+}

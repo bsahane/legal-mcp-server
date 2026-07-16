@@ -1,0 +1,677 @@
+{
+  "act_id": "special_marriage_act_1954",
+  "full_title": "Special Marriage Act, 1954",
+  "short_title": "Special Marriage Act 1954",
+  "year": 1954,
+  "category": "family",
+  "enforcement_date": "1955-01-01",
+  "is_active": true,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1707",
+  "last_verified": "2026-07-01",
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement",
+      "text": "This Act may be called the Special Marriage Act, 1954. It extends to the whole of India except the State of Jammu and Kashmir, and applies also to citizens of India domiciled outside India. It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.",
+      "keywords": [
+        "short title",
+        "extent",
+        "commencement",
+        "territorial application"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "2",
+      "section_title": "Definitions",
+      "text": "In this Act, unless the context otherwise requires, 'degrees of prohibited relationship' means a man and any of the persons mentioned in Schedule I; 'district' means the local limits of the jurisdiction of a principal civil court of original jurisdiction; 'district judge' includes additional district judge; 'marriage officer' means a person appointed under section 3; 'notification' means a notification published in the Official Gazette; 'prescribed' means prescribed by rules made under this Act; 'State Government' in relation to a Union territory means the Administrator thereof.",
+      "keywords": [
+        "definitions",
+        "degrees of prohibited relationship",
+        "marriage officer",
+        "district judge",
+        "interpretation"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "3",
+      "section_title": "Marriage Officers",
+      "text": "For the purposes of this Act, the State Government may, by notification in the Official Gazette, appoint one or more Marriage Officers for the whole or any part of the State. Every Marriage Officer shall have his office at such place as the State Government may specify.",
+      "keywords": [
+        "marriage officer",
+        "appointment",
+        "jurisdiction",
+        "notification"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "4",
+      "section_title": "Conditions relating to solemnization of special marriages",
+      "text": "A marriage between any two persons may be solemnized under this Act if neither party has a spouse living; neither party is incapable of giving a valid consent in consequence of unsoundness of mind; neither party is suffering from mental disorder of such a kind or to such an extent as to be unfit for marriage and procreation; neither party has been subject to recurrent attacks of insanity or epilepsy; the male has completed twenty-one years and the female eighteen years of age; the parties are not within the degrees of prohibited relationship; and where the marriage is solemnized in the territory of India, both parties are citizens of India.",
+      "keywords": [
+        "conditions for marriage",
+        "age requirement",
+        "consent",
+        "mental capacity",
+        "prohibited relationship",
+        "monogamy",
+        "citizenship"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "5",
+      "section_title": "Notice of intended marriage",
+      "text": "When a marriage is intended to be solemnized under this Act, the parties to the marriage shall give notice thereof in writing in the form specified in Schedule II to the Marriage Officer of the district in which at least one of the parties has resided for a period of not less than thirty days immediately preceding the date on which such notice is given.",
+      "keywords": [
+        "notice",
+        "intended marriage",
+        "residence requirement",
+        "marriage officer",
+        "thirty days"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "6",
+      "section_title": "Marriage Notice Book",
+      "text": "Every Marriage Officer shall keep a Marriage Notice Book in the form specified in Schedule III, and shall cause all notices given under section 5 to be entered therein. The Marriage Notice Book shall be open for inspection at all reasonable times, without fee, by any person desirous of inspecting the same.",
+      "keywords": [
+        "marriage notice book",
+        "record",
+        "inspection",
+        "public access"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "7",
+      "section_title": "Publication of notice",
+      "text": "Every Marriage Officer shall cause every notice given under section 5 to be published by affixing a copy thereof to a conspicuous place in his office, and where either of the parties has, before the date of the notice, resided for a period of not less than thirty days in a district other than that of the Marriage Officer, he shall also cause a copy of the notice to be sent to the Marriage Officer of that district for similar publication.",
+      "keywords": [
+        "publication",
+        "notice",
+        "affixture",
+        "marriage officer"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "8",
+      "section_title": "Objection to marriage",
+      "text": "Any person may, before the expiration of thirty days from the date of publication of the notice under section 7, object to the marriage on the ground that it would contravene one or more of the conditions specified in section 4. All such objections shall be recorded in writing by the Marriage Officer and shall be considered by him.",
+      "keywords": [
+        "objection",
+        "marriage",
+        "thirty days",
+        "conditions",
+        "section 4"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "9",
+      "section_title": "Procedure on receipt of objection",
+      "text": "Upon receipt of an objection under section 8, the Marriage Officer shall not solemnize the marriage until he has inquired into the matter of the objection and is satisfied that it ought not to prevent the solemnization of the marriage. The Marriage Officer shall conduct such inquiry in a summary manner and shall have power to summon and enforce the attendance of witnesses and compel the production of documents.",
+      "keywords": [
+        "objection inquiry",
+        "summary procedure",
+        "marriage officer",
+        "witnesses",
+        "production of documents"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "10",
+      "section_title": "Procedure if objection allowed",
+      "text": "If the Marriage Officer, after conducting an inquiry under section 9, is of the opinion that the objection is sustained, he shall, by order in writing, refuse to solemnize the marriage and shall record his reasons for such refusal. Any party aggrieved by such order may appeal to the District Judge within thirty days from the date of the order.",
+      "keywords": [
+        "objection sustained",
+        "refusal",
+        "appeal",
+        "district judge",
+        "thirty days"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "11",
+      "section_title": "Declaration by parties and witnesses",
+      "text": "Before the marriage is solemnized, the parties and three witnesses shall, in the presence of the Marriage Officer, sign a declaration in the form specified in Schedule III, and such declaration shall be countersigned by the Marriage Officer.",
+      "keywords": [
+        "declaration",
+        "parties",
+        "witnesses",
+        "marriage officer",
+        "signature"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "12",
+      "section_title": "Place and form of solemnization",
+      "text": "The marriage may be solemnized at the office of the Marriage Officer, or at such other place within a reasonable distance from such office as the parties may desire, and upon payment of such additional fee as may be prescribed. The marriage shall be solemnized in the form the parties may choose to adopt, but it shall not be complete and binding on the parties unless each party declares in the presence of the Marriage Officer and three witnesses that 'I, (A), take thee (B), to be my lawful wife/husband.'",
+      "keywords": [
+        "solemnization",
+        "place",
+        "form of marriage",
+        "declaration",
+        "vows",
+        "witnesses"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "13",
+      "section_title": "Certificate of marriage",
+      "text": "After the marriage has been solemnized, the Marriage Officer shall enter a certificate of the marriage in the Marriage Certificate Book in the form specified in Schedule IV, and such certificate shall be signed by the parties, the three witnesses, and the Marriage Officer. The certificate shall be the prima facie evidence of the marriage.",
+      "keywords": [
+        "marriage certificate",
+        "marriage certificate book",
+        "evidence",
+        "signature",
+        "registration"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "14",
+      "section_title": "Effect of certificate on marriage",
+      "text": "The certificate of marriage issued under section 13 shall be conclusive evidence of the fact that the marriage has been solemnized under this Act and that all formalities respecting the marriage have been complied with.",
+      "keywords": [
+        "conclusive evidence",
+        "marriage certificate",
+        "formalities",
+        "validity"
+      ],
+      "chapter": "II — Solemnization of Special Marriages"
+    },
+    {
+      "section_number": "15",
+      "section_title": "Registration of marriages celebrated in other forms",
+      "text": "Any marriage celebrated, whether before or after the commencement of this Act, in any form other than that prescribed under this Act, may be registered under this Chapter by a Marriage Officer if the parties to the marriage make a joint declaration to that effect and satisfy the Marriage Officer that the marriage was solemnized, that the parties have been cohabiting as husband and wife, and that the conditions specified in section 4 are fulfilled.",
+      "keywords": [
+        "registration",
+        "other forms of marriage",
+        "joint declaration",
+        "cohabitation",
+        "conditions"
+      ],
+      "chapter": "III — Registration of Marriages Celebrated in Other Forms"
+    },
+    {
+      "section_number": "16",
+      "section_title": "Procedure for registration",
+      "text": "Upon receipt of a joint declaration under section 15, the Marriage Officer shall publish a notice thereof by affixing a copy to a conspicuous place in his office. If no objection is received within thirty days, and if the Marriage Officer is satisfied that all conditions are met, he shall register the marriage by entering a certificate in the Marriage Certificate Book. Such registration shall take effect from the date of the original marriage.",
+      "keywords": [
+        "registration procedure",
+        "notice",
+        "publication",
+        "thirty days",
+        "marriage certificate book"
+      ],
+      "chapter": "III — Registration of Marriages Celebrated in Other Forms"
+    },
+    {
+      "section_number": "17",
+      "section_title": "Appeals from orders under section 16",
+      "text": "Any person aggrieved by an order of the Marriage Officer refusing to register a marriage under this Chapter may appeal to the District Judge having jurisdiction, and the decision of the District Judge shall be final.",
+      "keywords": [
+        "appeal",
+        "refusal to register",
+        "district judge",
+        "final decision"
+      ],
+      "chapter": "III — Registration of Marriages Celebrated in Other Forms"
+    },
+    {
+      "section_number": "18",
+      "section_title": "Effect of registration under this Chapter",
+      "text": "Upon the registration of a marriage under this Chapter, the certificate of registration shall be conclusive evidence of the marriage and, from the date of registration, all the rights and obligations of the parties under this Act shall apply as if the marriage had been solemnized under this Act.",
+      "keywords": [
+        "registration effect",
+        "conclusive evidence",
+        "rights",
+        "obligations",
+        "retrospective effect"
+      ],
+      "chapter": "III — Registration of Marriages Celebrated in Other Forms"
+    },
+    {
+      "section_number": "19",
+      "section_title": "Effect of marriage on joint family",
+      "text": "The marriage solemnized under this Act shall not be deemed to effect a severance of the joint family estate of the parties or either of them, nor shall it affect any right of succession to the property of any person which would have been possessed by the party but for the marriage.",
+      "keywords": [
+        "joint family",
+        "severance",
+        "succession",
+        "property rights",
+        "Hindu joint family"
+      ],
+      "chapter": "IV — Consequences of Marriage under this Act"
+    },
+    {
+      "section_number": "20",
+      "section_title": "Succession and inheritance rights",
+      "text": "The marriage solemnized under this Act shall not affect the right of succession to the property of any person and the parties to the marriage shall, in respect of succession and inheritance, be governed by the law to which they would have been subject if the marriage had not been solemnized under this Act.",
+      "keywords": [
+        "succession",
+        "inheritance",
+        "property",
+        "personal law",
+        "governing law"
+      ],
+      "chapter": "IV — Consequences of Marriage under this Act"
+    },
+    {
+      "section_number": "21",
+      "section_title": "Property of married women",
+      "text": "The property, both movable and immovable, which belongs to a woman at the time of her marriage, or which she may acquire after her marriage, shall be held by her as her separate property and shall not be subject to the control of her husband or his creditors.",
+      "keywords": [
+        "separate property",
+        "married women",
+        "movable property",
+        "immovable property",
+        "independence"
+      ],
+      "chapter": "IV — Consequences of Marriage under this Act"
+    },
+    {
+      "section_number": "22",
+      "section_title": "Restitution of conjugal rights",
+      "text": "When either the husband or the wife has, without reasonable excuse, withdrawn from the society of the other, the aggrieved party may apply to the District Court for restitution of conjugal rights. If the court is satisfied that the statements made in the petition are true and that there is no legal ground why the application should not be granted, it may decree restitution of conjugal rights accordingly.",
+      "keywords": [
+        "restitution of conjugal rights",
+        "withdrawal",
+        "society",
+        "district court",
+        "reasonable excuse"
+      ],
+      "chapter": "V — Restitution of Conjugal Rights and Judicial Separation"
+    },
+    {
+      "section_number": "23",
+      "section_title": "Judicial separation",
+      "text": "A petition for judicial separation may be presented to the District Court by either party to the marriage on the ground of adultery, cruelty, desertion for a period of not less than two years, or that the other party has ceased to be a Hindu by conversion to another religion. Where the court grants a decree of judicial separation, it shall no longer be obligatory for the petitioner to cohabit with the respondent.",
+      "keywords": [
+        "judicial separation",
+        "adultery",
+        "cruelty",
+        "desertion",
+        "conversion",
+        "cohabitation"
+      ],
+      "chapter": "V — Restitution of Conjugal Rights and Judicial Separation"
+    },
+    {
+      "section_number": "24",
+      "section_title": "Void marriages",
+      "text": "A marriage solemnized under this Act shall be null and void and may be so declared by a decree of nullity if it contravenes any of the conditions specified in section 4; or if the parties are within the degrees of prohibited relationship; or if either party was a lunatic or idiot at the time of the marriage.",
+      "keywords": [
+        "void marriage",
+        "nullity",
+        "decree of nullity",
+        "section 4 conditions",
+        "prohibited relationship",
+        "lunatic",
+        "idiot"
+      ],
+      "chapter": "VI — Nullity of Marriage and Divorce"
+    },
+    {
+      "section_number": "25",
+      "section_title": "Voidable marriages",
+      "text": "A marriage solemnized under this Act shall be voidable and may be annulled by a decree of nullity on the ground that the marriage has not been consummated owing to the wilful refusal of the respondent; or that the respondent was pregnant by some person other than the petitioner at the time of the marriage; or that the consent of the petitioner was obtained by coercion or fraud; or that the respondent was suffering from a communicable venereal disease at the time of the marriage.",
+      "keywords": [
+        "voidable marriage",
+        "annulment",
+        "non-consummation",
+        "pregnancy by another",
+        "coercion",
+        "fraud",
+        "venereal disease"
+      ],
+      "chapter": "VI — Nullity of Marriage and Divorce"
+    },
+    {
+      "section_number": "26",
+      "section_title": "Legitimacy of children of void and voidable marriages",
+      "text": "Notwithstanding that a marriage is declared to be null and void or annulled under section 24 or section 25, a child born of such marriage before the decree is made shall be considered legitimate. The provisions of this section shall not confer legitimacy on a child born of a marriage that is void where the child was conceived after the decree.",
+      "keywords": [
+        "legitimacy",
+        "children",
+        "void marriage",
+        "voidable marriage",
+        "annulment",
+        "protection"
+      ],
+      "chapter": "VI — Nullity of Marriage and Divorce"
+    },
+    {
+      "section_number": "27",
+      "section_title": "Grounds for divorce",
+      "text": "A marriage solemnized under this Act may be dissolved by a decree of divorce on any of the following grounds: adultery; desertion for a continuous period of not less than two years; conversion to another religion; unsoundness of mind for a continuous period of not less than three years; incurable venereal disease; leprosy; not heard of as being alive for seven years; failure to resume cohabitation after a decree of judicial separation for one year; or that the respondent has been guilty of cruelty or rape, sodomy or bestiality.",
+      "keywords": [
+        "divorce",
+        "grounds for divorce",
+        "adultery",
+        "desertion",
+        "conversion",
+        "unsound mind",
+        "venereal disease",
+        "leprosy",
+        "cruelty",
+        "presumption of death"
+      ],
+      "chapter": "VI — Nullity of Marriage and Divorce"
+    },
+    {
+      "section_number": "28",
+      "section_title": "Divorce by mutual consent",
+      "text": "A petition for dissolution of marriage by a decree of divorce may be presented jointly by both parties to the marriage to the District Court on the ground that they have been living separately for a period of one year or more, that they have not been able to live together, and that they have mutually agreed that the marriage should be dissolved. No petition under this section shall be presented within one year of the marriage.",
+      "keywords": [
+        "mutual consent",
+        "divorce",
+        "joint petition",
+        "living separately",
+        "one year",
+        "cooling-off period"
+      ],
+      "chapter": "VI — Nullity of Marriage and Divorce"
+    },
+    {
+      "section_number": "29",
+      "section_title": "Remarriage of divorced persons",
+      "text": "Where a marriage has been dissolved by a decree of divorce and where there is no right of appeal or the period of appeal has expired without an appeal being filed, or where an appeal has been dismissed, either party to the marriage may marry again.",
+      "keywords": [
+        "remarriage",
+        "divorce",
+        "appeal period",
+        "final decree"
+      ],
+      "chapter": "VI — Nullity of Marriage and Divorce"
+    },
+    {
+      "section_number": "31",
+      "section_title": "Court to which petition should be made",
+      "text": "Every petition under Chapter V or Chapter VI shall be presented to the District Court within the local limits of whose jurisdiction the marriage was solemnized, or the respondent resides, or the parties last resided together.",
+      "keywords": [
+        "jurisdiction",
+        "district court",
+        "petition",
+        "venue",
+        "residence"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "32",
+      "section_title": "Contents of petition",
+      "text": "Every petition under Chapter V or Chapter VI shall state such particulars as may be prescribed and shall be verified by the petitioner or one of the petitioners. The petition shall set forth the facts on which the claim is founded with sufficient particularity and shall specify the relief sought.",
+      "keywords": [
+        "petition contents",
+        "particulars",
+        "verification",
+        "facts",
+        "relief"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "33",
+      "section_title": "Proceedings to be in camera",
+      "text": "All proceedings under this Act shall be conducted in camera, except where the court otherwise directs. The court may, if it thinks fit, order that the proceedings shall be held in open court.",
+      "keywords": [
+        "in camera",
+        "privacy",
+        "proceedings",
+        "open court",
+        "discretion"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "34",
+      "section_title": "Duty of court",
+      "text": "The court shall, before passing a decree, make an endeavour to bring about a reconciliation between the parties, unless it is of the opinion that it would not be in the interest of justice to do so. The court may adjourn the proceedings for a reasonable period to enable such reconciliation.",
+      "keywords": [
+        "reconciliation",
+        "duty of court",
+        "adjournment",
+        "marriage counselling"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "35",
+      "section_title": "Power to award maintenance",
+      "text": "The court may, at the time of passing a decree or at any subsequent date, order the husband to pay maintenance to the wife or, in the case of the wife's incapacity, order the wife to pay maintenance to the husband, for such period as the court deems just, having regard to the means of the parties.",
+      "keywords": [
+        "maintenance",
+        "alimony",
+        "spousal support",
+        "financial relief",
+        "means of parties"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "36",
+      "section_title": "Appeals",
+      "text": "All decrees and orders made by the District Court under this Act shall be appealable to the High Court. An appeal shall lie within thirty days from the date of the decree or order appealed against.",
+      "keywords": [
+        "appeal",
+        "high court",
+        "district court",
+        "thirty days",
+        "decree",
+        "order"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "37",
+      "section_title": "Enforcement of decrees and orders",
+      "text": "All decrees and orders made by the court under this Act shall be enforced in the same manner as decrees and orders of the court in suits. The court shall have power to enforce its decrees and orders in accordance with the Code of Civil Procedure, 1908.",
+      "keywords": [
+        "enforcement",
+        "decree",
+        "order",
+        "Code of Civil Procedure",
+        "execution"
+      ],
+      "chapter": "VII — Jurisdiction and Procedure"
+    },
+    {
+      "section_number": "38",
+      "section_title": "Penalty for bigamy",
+      "text": "Whoever, being a party to a marriage solemnized under this Act, contracts any other marriage during the lifetime of the other party shall be subject to the penalties provided in the Indian Penal Code for the offence of bigamy.",
+      "keywords": [
+        "bigamy",
+        "penalty",
+        "second marriage",
+        "IPC",
+        "criminal offence"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "39",
+      "section_title": "Penalty for signing false declaration or certificate",
+      "text": "Every person who signs a declaration or certificate required by this Act knowing the same to be false in any material particular shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+      "keywords": [
+        "false declaration",
+        "false certificate",
+        "penalty",
+        "imprisonment",
+        "fine",
+        "perjury"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "40",
+      "section_title": "Penalty for fraudulently going through marriage ceremony",
+      "text": "Whoever, not being a Marriage Officer, solemnizes or attempts to solemnize a marriage under this Act, or does any act to induce any person to believe that a marriage has been duly solemnized under this Act, knowing that it has not been so solemnized, shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+      "keywords": [
+        "fraudulent marriage",
+        "unauthorized solemnization",
+        "penalty",
+        "imprisonment",
+        "fine"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "41",
+      "section_title": "Saving of marriages solemnized under other laws",
+      "text": "Nothing in this Act shall affect the validity of any marriage solemnized under any other law for the time being in force, and no marriage solemnized under any other law shall be deemed to be invalid by reason of the provisions of this Act.",
+      "keywords": [
+        "saving clause",
+        "other laws",
+        "marriage validity",
+        "existing marriages"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "42",
+      "section_title": "Effect of transfer of marriage officer",
+      "text": "When a Marriage Officer is transferred, any documents or records kept by him in his official capacity shall be transferred to his successor in office, and the successor shall continue the proceedings from the stage at which they were left.",
+      "keywords": [
+        "transfer",
+        "marriage officer",
+        "records",
+        "successor",
+        "continuity"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "43",
+      "section_title": "Power to make rules",
+      "text": "The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act. In particular, and without prejudice to the generality of the foregoing power, such rules may prescribe the forms and books required under this Act, the fees payable, and the procedure to be followed by Marriage Officers.",
+      "keywords": [
+        "rule-making power",
+        "central government",
+        "notification",
+        "forms",
+        "fees",
+        "procedure"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "44",
+      "section_title": "Repeal",
+      "text": "The Special Marriage Act, 1872 is hereby repealed. Nothing in this repeal shall affect any marriage solemnized under the repealed Act or any right, liability or proceedings under the repealed Act.",
+      "keywords": [
+        "repeal",
+        "Special Marriage Act 1872",
+        "savings",
+        "existing marriages"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "45",
+      "section_title": "Savings of certain marriages and proceedings",
+      "text": "Any marriage solemnized under the Special Marriage Act, 1872 shall be deemed to have been solemnized under this Act, and all proceedings pending under the repealed Act shall be continued as if they had been instituted under this Act.",
+      "keywords": [
+        "savings",
+        "transitional provisions",
+        "pending proceedings",
+        "deemed marriage"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "46",
+      "section_title": "Amendment of Act 43 of 1950",
+      "text": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.",
+      "keywords": [
+        "overriding effect",
+        "inconsistency",
+        "other laws",
+        "paramountcy"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "47",
+      "section_title": "Validation of marriages",
+      "text": "No marriage solemnized under this Act shall be deemed to be invalid merely by reason of any irregularity in procedure, provided the essential conditions of a valid marriage under this Act have been complied with.",
+      "keywords": [
+        "validation",
+        "irregularity",
+        "procedure",
+        "essential conditions",
+        "validity"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "48",
+      "section_title": "Jurisdiction of courts not affected",
+      "text": "Nothing in this Act shall be deemed to exclude the jurisdiction of the High Court or the Supreme Court to entertain any proceedings or to pass any orders under any other law for the time being in force.",
+      "keywords": [
+        "jurisdiction",
+        "high court",
+        "supreme court",
+        "concurrent jurisdiction",
+        "savings"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "49",
+      "section_title": "Power of court to remove difficulties",
+      "text": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the purposes of this Act as appear to it to be necessary or expedient for removing the difficulty.",
+      "keywords": [
+        "remove difficulties",
+        "central government",
+        "order",
+        "power"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    },
+    {
+      "section_number": "50",
+      "section_title": "Amendment of certain enactments",
+      "text": "The enactments specified in the Schedule shall be amended in the manner specified therein and all references to the Special Marriage Act, 1872 in any other law or document shall be construed as references to this Act.",
+      "keywords": [
+        "amendment",
+        "schedule",
+        "references",
+        "construction",
+        "1872 Act"
+      ],
+      "chapter": "VIII — Miscellaneous"
+    }
+  ],
+  "versions": [
+    {
+      "version": "original",
+      "date": "1954-10-09",
+      "description": "Original enactment of the Special Marriage Act, 1954 (Act 43 of 1954)"
+    },
+    {
+      "version": "amended_1976",
+      "date": "1976-05-27",
+      "description": "Amended by the Special Marriage (Amendment) Act, 1976 to raise the age of marriage and modify divorce grounds"
+    },
+    {
+      "version": "amended_2003",
+      "date": "2003-01-03",
+      "description": "Amendment to section 28 reducing the separation period for mutual consent divorce"
+    },
+    {
+      "version": "current",
+      "date": "2026-07-01",
+      "description": "Consolidated version incorporating all amendments up to date"
+    }
+  ]
+}

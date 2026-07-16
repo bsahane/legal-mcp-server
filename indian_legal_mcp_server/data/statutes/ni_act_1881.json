@@ -1,0 +1,1091 @@
+{
+  "act_id": "ni_act_1881",
+  "full_title": "Negotiable Instruments Act, 1881",
+  "short_title": "NI Act 1881",
+  "year": 1881,
+  "category": "commercial",
+  "enforcement_date": "1882-03-01",
+  "is_active": true,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/XXXX",
+  "last_verified": "2026-07-01",
+  "versions": [],
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement",
+      "text": "This Act may be called the Negotiable Instruments Act, 1881. It extends to the whole of India and applies to all negotiable instruments made, drawn, accepted or endorsed in India. It shall come into force on the first day of March, 1882.",
+      "keywords": [
+        "short title",
+        "extent",
+        "commencement",
+        "scope"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "3",
+      "section_title": "Interpretation clause",
+      "text": "In this Act, unless there is something repugnant in the subject or context, 'banker' includes any person acting as a banker and any post office savings bank. All other expressions shall have the meanings respectively assigned to them in the Act.",
+      "keywords": [
+        "interpretation",
+        "banker",
+        "definitions"
+      ],
+      "chapter": "I — Preliminary"
+    },
+    {
+      "section_number": "4",
+      "section_title": "Promissory note defined",
+      "text": "A 'promissory note' is an instrument in writing (not being a bank-note or a currency-note) containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer of the instrument.",
+      "keywords": [
+        "promissory note",
+        "definition",
+        "unconditional undertaking",
+        "maker"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "5",
+      "section_title": "Bill of exchange defined",
+      "text": "A 'bill of exchange' is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.",
+      "keywords": [
+        "bill of exchange",
+        "definition",
+        "unconditional order",
+        "drawee"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "6",
+      "section_title": "Cheque defined",
+      "text": "A 'cheque' is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand, and it includes the electronic image of a truncated cheque and a cheque in electronic form. 'Electronic form' means any cheque containing the exact mirror image of a paper cheque and generated in a secure system. 'Truncated cheque' means a cheque which is truncated during the course of a clearing cycle, either by the clearing house or by the bank, resulting in the generation of an electronic image for transmission.",
+      "keywords": [
+        "cheque",
+        "definition",
+        "electronic cheque",
+        "truncated cheque",
+        "demand draft"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "7",
+      "section_title": "Drawer, drawee, payee defined",
+      "text": "The 'maker' of a bill of exchange or cheque is called the 'drawer'; the person thereby directed to pay is called the 'drawee'; the person named in the instrument to whom the money is directed to be paid is called the 'payee'. 'Drawee in case of need' means a person named in the instrument as a person in case of need. 'Acceptor' is the drawee who has accepted the bill by signing his assent upon the instrument.",
+      "keywords": [
+        "drawer",
+        "drawee",
+        "payee",
+        "acceptor",
+        "drawee in case of need"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "8",
+      "section_title": "Holder defined",
+      "text": "The 'holder' of a promissory note, bill of exchange or cheque means any person entitled in his own name to the possession thereof and to receive or recover the amount due thereon from the parties thereto. Where the note, bill or cheque is lost or destroyed, the holder is the person so entitled at the time of such loss or destruction.",
+      "keywords": [
+        "holder",
+        "possession",
+        "entitled",
+        "definition"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "9",
+      "section_title": "Holder in due course defined",
+      "text": "'Holder in due course' means any person who for consideration became the possessor of a promissory note, bill of exchange or cheque, if payable to bearer, or the payee or indorsee thereof, if payable to order, before the amount mentioned in it became payable, and without having sufficient cause to believe that any defect existed in the title of the person from whom he derived his title.",
+      "keywords": [
+        "holder in due course",
+        "consideration",
+        "bonafide",
+        "without defect"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "10",
+      "section_title": "Payment in due course defined",
+      "text": "'Payment in due course' means payment in accordance with the apparent tenor of the instrument in good faith and without negligence to any person in possession thereof under circumstances which do not afford a reasonable ground for believing that he is not entitled to receive payment of the amount therein mentioned.",
+      "keywords": [
+        "payment in due course",
+        "good faith",
+        "without negligence",
+        "bona fide payment"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "11",
+      "section_title": "Inland instrument defined",
+      "text": "A promissory note, bill of exchange or cheque drawn or made in India and made payable in, or drawn upon any person resident in, India shall be deemed to be an inland instrument.",
+      "keywords": [
+        "inland instrument",
+        "India",
+        "resident"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "12",
+      "section_title": "Foreign instrument defined",
+      "text": "Any promissory note, bill of exchange or cheque not falling within the definition of inland instrument is deemed to be a foreign instrument.",
+      "keywords": [
+        "foreign instrument",
+        "definition",
+        "cross-border"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "13",
+      "section_title": "Negotiable instrument defined",
+      "text": "A 'negotiable instrument' means a promissory note, bill of exchange or cheque payable either to order or to bearer. The Central Government may, by notification, declare any other instrument to be negotiable. A negotiable instrument may be made payable to two or more payees jointly, or to the order of two or more payees jointly.",
+      "keywords": [
+        "negotiable instrument",
+        "definition",
+        "promissory note",
+        "bill of exchange",
+        "cheque"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "14",
+      "section_title": "Negotiation defined",
+      "text": "When a promissory note, bill of exchange or cheque is transferred to any person, so as to constitute that person the holder thereof, the instrument is said to be negotiated.",
+      "keywords": [
+        "negotiation",
+        "transfer",
+        "holder"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "15",
+      "section_title": "Endorsement defined",
+      "text": "When the maker or holder of a negotiable instrument signs the same, otherwise than as such maker, for the purpose of negotiation, on the back or face thereof or on a slip of paper annexed thereto, or so signs for the same purpose a stamped paper intended to be completed as a negotiable instrument, he is said to endorse the instrument, and is called the endorser.",
+      "keywords": [
+        "endorsement",
+        "endorser",
+        "signature",
+        "negotiation"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "16",
+      "section_title": "Kinds of endorsement",
+      "text": "An endorsement may be in blank or special. An endorsement in blank specifies no endorsee, and an instrument so endorsed becomes payable to bearer. A special endorsement specifies the person to whom or to whose order the instrument is payable. An endorsement may be restrictive, partial, or conditional. An endorsement 'in blank' followed by a 'special endorsement' makes the instrument payable to the order of the special endorsee.",
+      "keywords": [
+        "blank endorsement",
+        "special endorsement",
+        "restrictive endorsement",
+        "endorsee",
+        "bearer"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "17",
+      "section_title": "Ambiguous instruments",
+      "text": "Where an instrument may be construed either as a promissory note or bill of exchange, the holder may at his election treat it as either, and the instrument shall be interpreted accordingly.",
+      "keywords": [
+        "ambiguous instrument",
+        "election",
+        "interpretation"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "18",
+      "section_title": "Where amount stated differently",
+      "text": "If the amount undertaken or ordered to be paid is stated differently in words and in figures, the sum denoted by the words shall be the amount payable.",
+      "keywords": [
+        "amount",
+        "words prevail",
+        "figures",
+        "discrepancy"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "19",
+      "section_title": "Instruments payable on demand",
+      "text": "A promissory note or bill of exchange, in which no time for payment is specified, and a cheque, are payable on demand. An instrument in which a time for payment is specified is not payable on demand even if before maturity the holder treats it as such.",
+      "keywords": [
+        "payable on demand",
+        "demand instrument",
+        "cheque",
+        "no due date"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "20",
+      "section_title": "Inchoate stamped instruments",
+      "text": "Where one person signs and delivers to another a paper stamped in accordance with the law relating to negotiable instruments then in force, and either wholly blank or having written thereon an incomplete negotiable instrument, he thereby gives prima facie authority to the holder thereof to make or complete, as the case may be, a negotiable instrument for any amount not exceeding the amount covered by the stamp, and the signer shall be liable upon such instrument.",
+      "keywords": [
+        "inchoate instrument",
+        "stamped paper",
+        "incomplete instrument",
+        "authority to complete"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "21",
+      "section_title": "At what time presentment unnecessary",
+      "text": "Presentment for payment is not necessary in order to charge the maker of a promissory note, the acceptor of a bill of exchange, and the drawer of a cheque who has no right to expect that the cheque will be presented in due time.",
+      "keywords": [
+        "presentment",
+        "unnecessary",
+        "maker",
+        "acceptor",
+        "drawer"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "22",
+      "section_title": "Matured time instruments",
+      "text": "A promissory note or bill of exchange payable at a certain period after date or sight becomes payable on the expiration of that period calculated from the date or sight. The expression 'after date' means after the day of the date, and 'after sight' means after acceptance or noting for non-acceptance or protest for non-acceptance.",
+      "keywords": [
+        "maturity",
+        "time instrument",
+        "after date",
+        "after sight"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "23",
+      "section_title": "Calculation of time",
+      "text": "In calculating the date of maturity of a promissory note or bill of exchange, the day on which it is payable shall be excluded, and the instrument shall be payable on the day on which the period of time expires.",
+      "keywords": [
+        "calculation",
+        "time",
+        "maturity",
+        "exclusion of start day"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "24",
+      "section_title": "Days of grace",
+      "text": "Every promissory note or bill of exchange which is not expressed to be payable on demand, at sight or on presentment, is at maturity on the third day after the day on which it is expressed to be payable. Three days of grace shall be allowed for all such instruments.",
+      "keywords": [
+        "days of grace",
+        "maturity",
+        "grace period",
+        "acceptance"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "25",
+      "section_title": "When day of maturity is a holiday",
+      "text": "When the day on which a promissory note or bill of exchange is at maturity is a public holiday, the instrument shall be deemed to be due on the next preceding business day. Explanation — A 'public holiday' includes Sundays and any other day declared by the Government to be a public holiday.",
+      "keywords": [
+        "holiday",
+        "maturity",
+        "preceding business day",
+        "public holiday"
+      ],
+      "chapter": "II — Of Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "26",
+      "section_title": "Capacity to make, etc., promissory notes, etc.",
+      "text": "Every person capable of contracting, according to the law to which he is subject, may bind himself and be bound by the making, drawing, acceptance, endorsement, delivery and negotiation of a promissory note, bill of exchange or cheque. A minor may draw, endorse, deliver and negotiate such instruments so as to bind all parties except himself.",
+      "keywords": [
+        "capacity",
+        "minor",
+        "contract",
+        "binding"
+      ],
+      "chapter": "III — Of Parties to Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "27",
+      "section_title": "Agency",
+      "text": "Every person capable of binding himself or of being bound, as mentioned in section 26, may so bind himself or be bound by a duly authorized agent acting in his name. A signature by an agent on a negotiable instrument is binding on the principal if the agent is duly authorized and signs in the principal's name.",
+      "keywords": [
+        "agency",
+        "agent",
+        "principal",
+        "authorized signature"
+      ],
+      "chapter": "III — Of Parties to Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "28",
+      "section_title": "Liability of agent signing",
+      "text": "An agent who signs his name to a promissory note, bill of exchange or cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur personal responsibility, is liable personally on the instrument.",
+      "keywords": [
+        "agent liability",
+        "personal liability",
+        "signature",
+        "without qualification"
+      ],
+      "chapter": "III — Of Parties to Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "29",
+      "section_title": "Liability of legal representative",
+      "text": "A legal representative of a deceased person who signs his name to a promissory note, bill of exchange or cheque is liable personally thereon unless he expressly limits his liability to the extent of the assets of the deceased.",
+      "keywords": [
+        "legal representative",
+        "deceased",
+        "personal liability",
+        "assets"
+      ],
+      "chapter": "III — Of Parties to Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "30",
+      "section_title": "Liability of drawer",
+      "text": "The drawer of a bill of exchange or cheque is bound, in case of dishonour by the drawee or acceptor thereof, to compensate the holder, provided due notice of dishonour has been given to, or received by, the drawer.",
+      "keywords": [
+        "drawer",
+        "liability",
+        "dishonour",
+        "compensation",
+        "notice"
+      ],
+      "chapter": "III — Of Parties to Notes, Bills and Cheques"
+    },
+    {
+      "section_number": "31",
+      "section_title": "Liability of endorser",
+      "text": "The endorser of a negotiable instrument is, in case of dishonour by any party thereto, bound to compensate the holder or any subsequent endorser who is compelled to pay it, provided due notice of dishonour has been given to him.",
+      "keywords": [
+        "endorser",
+        "liability",
+        "dishonour",
+        "compensation",
+        "notice"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "32",
+      "section_title": "Liability of maker of note and acceptor of bill",
+      "text": "In the absence of a contract to the contrary, the maker of a promissory note and the acceptor of a bill of exchange shall, by making or accepting the instrument, engage that they will pay or cause to be paid according to the apparent tenor thereof, and shall be bound by the instrument accordingly.",
+      "keywords": [
+        "maker",
+        "acceptor",
+        "liability",
+        "promissory note",
+        "bill of exchange"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "33",
+      "section_title": "Drawee's liability on presentment for acceptance",
+      "text": "No person except the drawee of a bill of exchange is, by drawing the bill, bound to accept it. The drawee is not liable on the bill until he accepts it.",
+      "keywords": [
+        "drawee",
+        "acceptance",
+        "liability",
+        "presentment"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "34",
+      "section_title": "Negotiation of instrument by delivery",
+      "text": "A promissory note, bill of exchange or cheque payable to bearer is negotiable by delivery thereof. An instrument payable to bearer may be transferred by simple delivery without endorsement.",
+      "keywords": [
+        "negotiation by delivery",
+        "bearer",
+        "transfer"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "35",
+      "section_title": "Negotiation of instrument by endorsement and delivery",
+      "text": "A promissory note, bill of exchange or cheque payable to order is negotiable by the holder by endorsement and delivery thereof. The endorsement must be on the instrument and signed by the holder.",
+      "keywords": [
+        "endorsement and delivery",
+        "order instrument",
+        "negotiation"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "36",
+      "section_title": "Effects of endorsement",
+      "text": "The endorsement of a negotiable instrument followed by delivery transfers to the endorsee the property therein with the right of further negotiation. However, the endorsement may, by express words, restrict or exclude such right.",
+      "keywords": [
+        "endorsement effect",
+        "transfer of property",
+        "endorsee",
+        "right of negotiation"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "37",
+      "section_title": "Who may negotiate",
+      "text": "The holder of a negotiable instrument may negotiate it to any person. The holder may negotiate an instrument even if it is overdue, but the endorsee takes it subject to any defects of title that affected the endorser.",
+      "keywords": [
+        "negotiation by holder",
+        "overdue instrument",
+        "title defect"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "43",
+      "section_title": "Transfer of instrument by delivery and liability of transferor",
+      "text": "Where an instrument is transferred by delivery, the transferor warrants to the immediate transferee: (a) that the instrument is genuine and what it purports to be; (b) that he has a right to transfer it; (c) that he is not aware of any fact which renders it valueless. A transferor by delivery is not liable on the instrument itself.",
+      "keywords": [
+        "transfer by delivery",
+        "transferor warranty",
+        "genuineness",
+        "liability"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "44",
+      "section_title": "Negotiation of an overdue instrument",
+      "text": "A negotiable instrument which is overdue may be negotiated, but the person taking it with notice of its being overdue takes it subject to any defects of title affecting it at the date of maturity.",
+      "keywords": [
+        "overdue",
+        "negotiation",
+        "defect in title",
+        "notice"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "45",
+      "section_title": "Partial absence or failure of consideration",
+      "text": "Where the consideration for which a person signed a promissory note, bill of exchange or cheque, failed in part or was absent in part, the liability of the signer is reduced proportionately.",
+      "keywords": [
+        "consideration",
+        "partial failure",
+        "partial absence",
+        "liability reduction"
+      ],
+      "chapter": "IV — Of Negotiation"
+    },
+    {
+      "section_number": "61",
+      "section_title": "Presentment for acceptance",
+      "text": "Presentment for acceptance must be made at the place where the bill is drawn payable, or if no place is specified, at the drawer's place of business or residence, by the holder or his agent to the drawee or his authorized agent.",
+      "keywords": [
+        "presentment",
+        "acceptance",
+        "place of payment",
+        "holder",
+        "drawee"
+      ],
+      "chapter": "V — Of Presentment"
+    },
+    {
+      "section_number": "64",
+      "section_title": "Presentment for payment",
+      "text": "Presentment for payment must be made to the maker, acceptor or drawee of a negotiable instrument, as the case may be, by the holder or his agent at the maturity of the instrument, at the place specified for payment, or if no place is specified, at the place where the instrument is payable.",
+      "keywords": [
+        "presentment for payment",
+        "maturity",
+        "holder",
+        "maker",
+        "acceptor",
+        "drawee"
+      ],
+      "chapter": "V — Of Presentment"
+    },
+    {
+      "section_number": "78",
+      "section_title": "To whom payment should be made",
+      "text": "Subject to the provisions of section 82, payment of the amount due on a promissory note, bill of exchange or cheque must be made to the holder of the instrument. Payment to any other person does not discharge the maker or acceptor unless made under the authority of the holder.",
+      "keywords": [
+        "payment to holder",
+        "discharge",
+        "authority",
+        "holder"
+      ],
+      "chapter": "VI — Of Payment and Interest"
+    },
+    {
+      "section_number": "79",
+      "section_title": "Interest when no rate specified",
+      "text": "When interest is payable on a negotiable instrument but no rate is specified, interest shall be calculated at the rate of eighteen per centum per annum from the date on which the instrument becomes payable until the date of payment or until the date on which payment is duly tendered.",
+      "keywords": [
+        "interest",
+        "rate",
+        "default rate",
+        "18 percent"
+      ],
+      "chapter": "VI — Of Payment and Interest"
+    },
+    {
+      "section_number": "80",
+      "section_title": "Interest when no date for payment specified",
+      "text": "When no time for payment is specified in a negotiable instrument, interest shall be payable from the date of the instrument, or if a suit is filed, from the date of the suit, at the rate specified in section 79.",
+      "keywords": [
+        "interest",
+        "no fixed date",
+        "date of instrument",
+        "suit"
+      ],
+      "chapter": "VI — Of Payment and Interest"
+    },
+    {
+      "section_number": "81",
+      "section_title": "Delivery of instrument on payment",
+      "text": "Any person liable to pay, and called upon by the holder to pay, the amount due on a promissory note, bill of exchange or cheque is entitled to have the instrument shown to him and delivered up to him upon payment.",
+      "keywords": [
+        "delivery on payment",
+        "discharge",
+        "surrender",
+        "instrument"
+      ],
+      "chapter": "VI — Of Payment and Interest"
+    },
+    {
+      "section_number": "82",
+      "section_title": "Discharge from liability",
+      "text": "The maker, acceptor or endorser of a negotiator instrument is discharged from liability thereon: (a) to a holder who cancels or releases such party in writing; (b) to a holder who otherwise discharges such party; (c) when payment is made in due course to the holder; (d) when the holder expressly waives his rights.",
+      "keywords": [
+        "discharge",
+        "cancellation",
+        "release",
+        "payment in due course",
+        "waiver"
+      ],
+      "chapter": "VII — Of Discharge from Liability"
+    },
+    {
+      "section_number": "85",
+      "section_title": "Cheque payable to order",
+      "text": "Where a cheque payable to order purports to be endorsed by or on behalf of the payee, the banker is discharged by payment in due course. A banker who pays a cheque in due course is not liable by reason of the endorsement being forged, provided the payment is made in good faith and without negligence.",
+      "keywords": [
+        "cheque payable to order",
+        "banker protection",
+        "forged endorsement",
+        "payment in due course"
+      ],
+      "chapter": "VII — Of Discharge from Liability"
+    },
+    {
+      "section_number": "85A",
+      "section_title": "Drafts drawn by one branch on another",
+      "text": "Where a draft, including a demand draft, is drawn by one office of a bank upon another office of the same bank, the draft shall be treated as a negotiable instrument and the bank shall be liable on the draft as if it were a bill of exchange.",
+      "keywords": [
+        "demand draft",
+        "bank draft",
+        "branch",
+        "negotiable instrument",
+        "bank liability"
+      ],
+      "chapter": "VII — Of Discharge from Liability"
+    },
+    {
+      "section_number": "87",
+      "section_title": "Effect of material alteration",
+      "text": "Any material alteration of a negotiable instrument renders the instrument void against any party who has not consented to the alteration, unless the alteration was made to carry out the common intention of the original parties. An alteration which does not change the effect of the instrument is not material.",
+      "keywords": [
+        "material alteration",
+        "void",
+        "consent",
+        "common intention"
+      ],
+      "chapter": "VII — Of Discharge from Liability"
+    },
+    {
+      "section_number": "91",
+      "section_title": "Dishonour by non-acceptance",
+      "text": "A bill of exchange is said to be dishonoured by non-acceptance when the drawee, or one of several drawees not being partners, makes default in acceptance upon being duly required to accept the bill, or when presentment for acceptance is excused and the bill is not accepted.",
+      "keywords": [
+        "dishonour by non-acceptance",
+        "default",
+        "drawee",
+        "acceptance"
+      ],
+      "chapter": "VIII — Of Notice of Dishonour"
+    },
+    {
+      "section_number": "92",
+      "section_title": "Dishonour by non-payment",
+      "text": "A promissory note, bill of exchange or cheque is said to be dishonoured by non-payment when the maker, acceptor or drawee, as the case may be, makes default in payment upon being duly required to pay the same.",
+      "keywords": [
+        "dishonour by non-payment",
+        "default",
+        "maker",
+        "acceptor",
+        "drawee"
+      ],
+      "chapter": "VIII — Of Notice of Dishonour"
+    },
+    {
+      "section_number": "93",
+      "section_title": "Notice of dishonour",
+      "text": "When a promissory note, bill of exchange or cheque is dishonoured, the holder thereof must give notice of such dishonour to all parties whom the holder seeks to make liable thereon. If notice is not given within a reasonable time, the parties entitled to notice are discharged from liability.",
+      "keywords": [
+        "notice of dishonour",
+        "holder obligation",
+        "discharge",
+        "reasonable time",
+        "liability"
+      ],
+      "chapter": "VIII — Of Notice of Dishonour"
+    },
+    {
+      "section_number": "94",
+      "section_title": "Mode of notice",
+      "text": "Notice of dishonour may be given in writing or by oral communication. It may be sent by post and may be given in any form, but it must inform the party to whom it is given, either expressly or by necessary implication, that the instrument has been dishonoured and in what respect.",
+      "keywords": [
+        "notice mode",
+        "written",
+        "oral",
+        "post",
+        "communication"
+      ],
+      "chapter": "VIII — Of Notice of Dishonour"
+    },
+    {
+      "section_number": "98",
+      "section_title": "When notice of dishonour is unnecessary",
+      "text": "Notice of dishonour is unnecessary when: (a) the party charged could not suffer damage for want of notice; (b) the party charged is the maker of a promissory note; (c) the party charged is the drawer who has no reason to expect payment; (d) the party charged is the drawee who is also the acceptor; (e) the dishonour is caused by the death or insolvency of the drawer or acceptor.",
+      "keywords": [
+        "notice unnecessary",
+        "exceptions",
+        "maker",
+        "drawer",
+        "insolvency",
+        "death"
+      ],
+      "chapter": "VIII — Of Notice of Dishonour"
+    },
+    {
+      "section_number": "99",
+      "section_title": "Noting",
+      "text": "When a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may cause such dishonour to be noted by a notary public upon the instrument or upon a paper attached thereto, or partly upon each. The noting must be made within a reasonable time of dishonour.",
+      "keywords": [
+        "noting",
+        "notary public",
+        "dishonour",
+        "certification"
+      ],
+      "chapter": "IX — Of Noting and Protest"
+    },
+    {
+      "section_number": "100",
+      "section_title": "Protest",
+      "text": "When a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may, within a reasonable time, cause such dishonour to be noted and certified by a notary public. The certificate of the notary is called a protest. Protest may also be made for better security.",
+      "keywords": [
+        "protest",
+        "notary public",
+        "certificate",
+        "dishonour"
+      ],
+      "chapter": "IX — Of Noting and Protest"
+    },
+    {
+      "section_number": "104",
+      "section_title": "Protest for non-payment after dishonour by non-acceptance",
+      "text": "A bill of exchange which has been protested for non-acceptance may be subsequently protested for non-payment. A foreign bill must be protested for dishonour, but an inland bill may be noted without protest if the holder chooses.",
+      "keywords": [
+        "protest for non-payment",
+        "foreign bill",
+        "inland bill",
+        "non-acceptance"
+      ],
+      "chapter": "IX — Of Noting and Protest"
+    },
+    {
+      "section_number": "105",
+      "section_title": "Reasonable time",
+      "text": "In determining what is a reasonable time for presentment for acceptance or payment, for giving notice of dishonour and for noting, regard shall be had to the nature of the instrument, the usage of trade with respect to similar instruments, the facts of the particular case, and the distance between the parties.",
+      "keywords": [
+        "reasonable time",
+        "presentment",
+        "notice",
+        "usage of trade",
+        "distance"
+      ],
+      "chapter": "X — Of Reasonable Time"
+    },
+    {
+      "section_number": "106",
+      "section_title": "Reasonable time for payment",
+      "text": "A negotiable instrument payable at a certain period after date or sight must be presented for payment at maturity. What is a reasonable time for presentment for payment depends on the circumstances of each case.",
+      "keywords": [
+        "reasonable time for payment",
+        "presentment",
+        "maturity"
+      ],
+      "chapter": "X — Of Reasonable Time"
+    },
+    {
+      "section_number": "117",
+      "section_title": "Rules as to compensation",
+      "text": "The compensation payable in case of dishonour of a promissory note, bill of exchange or cheque shall be determined according to the following rules: (a) the holder is entitled to the amount due on the instrument; (b) the holder is entitled to interest; (c) the holder is entitled to all expenses properly incurred in presenting, noting and protesting the instrument.",
+      "keywords": [
+        "compensation",
+        "dishonour",
+        "holder",
+        "interest",
+        "expenses",
+        "damages"
+      ],
+      "chapter": "XII — Of Compensation"
+    },
+    {
+      "section_number": "118",
+      "section_title": "Presumptions as to negotiable instruments",
+      "text": "Until the contrary is proved, the following presumptions shall be made: (a) of consideration — that every negotiable instrument was made or drawn for consideration; (b) as to date — that every negotiable instrument bearing a date was made or drawn on that date; (c) as to time of acceptance — that every accepted bill was accepted within a reasonable time; (d) as to transfer — that every transfer was made before the instrument became overdue; (e) that every holder is a holder in due course; (f) that every signature was genuine and made by the person it purports to be.",
+      "keywords": [
+        "presumption",
+        "consideration",
+        "holder in due course",
+        "date",
+        "genuineness",
+        "burden of proof"
+      ],
+      "chapter": "XIII — Special Rules of Evidence"
+    },
+    {
+      "section_number": "119",
+      "section_title": "Presumption as to noting and protest",
+      "text": "A protest by a notary public under his hand and seal is evidence of the matters stated therein, including the dishonour and the service of notice of dishonour, and the court shall presume the facts stated in the protest unless the contrary is proved.",
+      "keywords": [
+        "presumption",
+        "protest",
+        "notary public",
+        "evidence",
+        "dishonour"
+      ],
+      "chapter": "XIII — Special Rules of Evidence"
+    },
+    {
+      "section_number": "120",
+      "section_title": "Estoppel against denying original validity",
+      "text": "No maker of a promissory note, and no drawer of a bill of exchange or cheque, and no acceptor of a bill of exchange for the honour of the drawer shall, in a suit thereon by a holder in due course, be permitted to deny the validity of the instrument as originally made or drawn.",
+      "keywords": [
+        "estoppel",
+        "original validity",
+        "maker",
+        "drawer",
+        "acceptor",
+        "holder in due course"
+      ],
+      "chapter": "XIII — Special Rules of Evidence"
+    },
+    {
+      "section_number": "121",
+      "section_title": "Estoppel against denying capacity of payee",
+      "text": "No maker of a promissory note and no acceptor of a bill of exchange payable to order shall, in a suit thereon by the payee, be permitted to deny the payee's capacity to endorse the instrument at the date of the note or bill.",
+      "keywords": [
+        "estoppel",
+        "payee capacity",
+        "endorsement",
+        "maker",
+        "acceptor"
+      ],
+      "chapter": "XIII — Special Rules of Evidence"
+    },
+    {
+      "section_number": "122",
+      "section_title": "Estoppel against endorser",
+      "text": "No endorser of a negotiable instrument shall, in a suit thereon by a subsequent holder, be permitted to deny the signature or capacity to contract of any prior party to the instrument.",
+      "keywords": [
+        "estoppel",
+        "endorser",
+        "signature",
+        "capacity",
+        "prior party"
+      ],
+      "chapter": "XIII — Special Rules of Evidence"
+    },
+    {
+      "section_number": "123",
+      "section_title": "Cheque crossed generally",
+      "text": "Where a cheque bears across its face an addition of the words 'and company' or any abbreviation thereof, between two parallel transverse lines, or of two parallel transverse lines simply, with or without the words 'not negotiable', that addition constitutes a crossing and the cheque is crossed generally.",
+      "keywords": [
+        "crossed cheque",
+        "general crossing",
+        "parallel lines",
+        "and company",
+        "not negotiable"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "124",
+      "section_title": "Cheque crossed specially",
+      "text": "Where a cheque bears across its face an addition of the name of a banker, with or without the words 'not negotiable', that addition constitutes a crossing and the cheque is crossed specially and to that banker.",
+      "keywords": [
+        "crossed cheque",
+        "special crossing",
+        "banker name",
+        "not negotiable"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "125",
+      "section_title": "Crossing after issue",
+      "text": "The holder of a cheque may cross it generally or specially. A banker to whom a cheque is crossed specially may again cross it specially to another banker for collection. The drawer may also cross the cheque generally or specially at the time of issue or afterwards.",
+      "keywords": [
+        "crossing after issue",
+        "holder",
+        "banker",
+        "drawer",
+        "collection"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "126",
+      "section_title": "Payment of crossed cheques",
+      "text": "Where a cheque is crossed generally, the banker on whom it is drawn shall not pay it otherwise than to a banker. Where a cheque is crossed specially, the banker on whom it is drawn shall not pay it otherwise than to the banker to whom it is crossed or his agent for collection.",
+      "keywords": [
+        "payment of crossed cheque",
+        "general crossing",
+        "special crossing",
+        "banker obligation"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "127",
+      "section_title": "Payment of crossed cheque out of due course",
+      "text": "Where the banker on whom a crossed cheque is drawn pays the same in due course, he shall be deemed to have paid it in due course within the meaning of this Act, even if the payment is made to a person other than the true owner, provided the banker acted without negligence.",
+      "keywords": [
+        "payment in due course",
+        "crossed cheque",
+        "banker protection",
+        "negligence",
+        "true owner"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "128",
+      "section_title": "Payment of crossed cheque by banker",
+      "text": "Where a banker has paid a crossed cheque in due course, the banker paying the cheque and, if the cheque has come into the hands of the payee, the drawer thereof shall be respectively entitled to the same rights and be placed in the same position as if payment had been made to the true owner.",
+      "keywords": [
+        "banker protection",
+        "payment in due course",
+        "crossed cheque",
+        "true owner"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "129",
+      "section_title": "Collecting banker's protection",
+      "text": "A banker who has in good faith and without negligence received payment for a customer of a crossed cheque shall not, in case the title to the cheque proves defective, incur any liability to the true owner of the cheque by reason only of having received such payment.",
+      "keywords": [
+        "collecting banker",
+        "protection",
+        "good faith",
+        "negligence",
+        "true owner"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "130",
+      "section_title": "Cheque bearing 'not negotiable'",
+      "text": "A person taking a cheque crossed generally or specially bearing in either case the words 'not negotiable' shall not have and shall not be capable of giving a better title to the cheque than that which the person from whom he took it had.",
+      "keywords": [
+        "not negotiable",
+        "crossing",
+        "title",
+        "transfer"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "131",
+      "section_title": "Protection to banker collecting payment of crossed cheque",
+      "text": "A banker who has in good faith and without negligence received payment for a customer of a cheque crossed generally or specially to himself shall not, in case the title to the cheque proves defective, incur any liability to the true owner of the cheque by reason only of having received such payment, provided the banker acted without negligence in receiving the cheque for collection.",
+      "keywords": [
+        "banker protection",
+        "collection",
+        "crossed cheque",
+        "good faith",
+        "no negligence",
+        "true owner"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "131A",
+      "section_title": "Application of certain sections to drafts",
+      "text": "The provisions of sections 123 to 131 inclusive shall apply to any draft, as defined in section 85A, as if the draft were a cheque.",
+      "keywords": [
+        "draft",
+        "crossed draft",
+        "cheque provisions",
+        "demand draft"
+      ],
+      "chapter": "XIV — Of Crossed Cheques"
+    },
+    {
+      "section_number": "138",
+      "section_title": "Dishonour of cheque for insufficiency, etc., of funds",
+      "text": "Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of insufficiency of funds in that account or because the amount exceeds the arrangement made with the banker, such person shall be deemed to have committed an offence and shall, without prejudice to any other provision of this Act, be punished with imprisonment for a term which may be extended to two years, or with fine which may extend to twice the amount of the cheque, or with both. Provided that nothing contained in this section shall apply unless: (a) the cheque has been presented to the bank within a period of three months from the date on which it is drawn or within the period of its validity, whichever is earlier; (b) the payee or the holder in due course, as the case may be, makes a demand for the payment of the said amount of money by giving a notice in writing, to the drawer of the cheque, within thirty days of receipt of information from the bank regarding the return of the cheque as unpaid; and (c) the drawer of such cheque fails to make the payment of the said amount of money to the payee or the holder in due course within fifteen days of receipt of the said notice.",
+      "keywords": [
+        "cheque dishonour",
+        "insufficiency of funds",
+        "offence",
+        "imprisonment",
+        "fine",
+        "notice demand",
+        "presentation period",
+        "15 days"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "139",
+      "section_title": "Presumption in favour of holder",
+      "text": "It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in section 138 for the discharge, in whole or in part, of any debt or other liability.",
+      "keywords": [
+        "presumption",
+        "holder",
+        "debt",
+        "liability",
+        "consideration"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "140",
+      "section_title": "Defence which may not be allowed",
+      "text": "It shall not be a defence in a prosecution for an offence under section 138 that the drawer had no reason to believe when he issued the cheque that the cheque may be dishonoured. No defence based on the absence of consideration shall be allowed except where the drawer proves that the debt or liability was not legally enforceable.",
+      "keywords": [
+        "defence not allowed",
+        "no reason to believe",
+        "consideration",
+        "legally enforceable debt"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "141",
+      "section_title": "Offences by companies",
+      "text": "If the person committing an offence under section 138 is a company, every person who, at the time the offence was committed, was in charge of and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished. Nothing contained in this sub-section shall render any person liable to punishment if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence. If the offence is proved to have been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such person shall also be deemed to be guilty of the offence.",
+      "keywords": [
+        "company",
+        "director",
+        "officer liability",
+        "due diligence",
+        "consent",
+        "connivance",
+        "neglect"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "142",
+      "section_title": "Cognizance of offences",
+      "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973: (a) no court shall take cognizance of any offence punishable under section 138 except upon a complaint, in writing, made by the payee or the holder in due course of the cheque, within one month of the date on which the cause of action arises under clause (c) of the proviso to section 138; (b) such complaint shall be made within one month of the date on which the cause of action arises, but the court may condone the delay for sufficient cause; (c) no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under section 138.",
+      "keywords": [
+        "cognizance",
+        "complaint",
+        "payee",
+        "holder in due course",
+        "limitation",
+        "one month",
+        "metropolitan magistrate",
+        "judicial magistrate first class"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "142A",
+      "section_title": "Validation for transfer of pending cases",
+      "text": "Notwithstanding any judgment, order or decree of any court, all complaints and proceedings pending before any court under section 138 as on the date of the commencement of the Negotiable Instruments (Amendment) Act, 2015, shall be transferred to the court having jurisdiction under this Act and the same shall be heard and decided by such court. Any transfer order made by any court before such commencement shall be deemed to be valid and shall not be questioned in any court.",
+      "keywords": [
+        "validation",
+        "transfer of cases",
+        "pending complaints",
+        "jurisdiction",
+        "amendment 2015"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "143",
+      "section_title": "Power of Court to try cases summarily",
+      "text": "All offences under section 138 shall be tried by a Judicial Magistrate of the first class or by a Metropolitan Magistrate and the provisions of sections 262 to 265 of the Code of Criminal Procedure, 1973, shall apply to such trials. The magistrate may, if he thinks fit, pass a sentence of imprisonment for a term not exceeding one year and fine exceeding five thousand rupees notwithstanding anything contained in section 262 of the Code. In case the magistrate is of the opinion that a sentence of imprisonment for a term exceeding one year or fine exceeding five thousand rupees ought to be imposed, he may try the case as a summons case.",
+      "keywords": [
+        "summary trial",
+        "magistrate",
+        "imprisonment",
+        "fine",
+        "speedy trial"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "144",
+      "section_title": "Mode of service of summons",
+      "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the court may serve the summons on the accused by sending it by registered post or by speed post or by courier service or by any other means of transmission of documents including fax message or electronic mail service giving proper demonstration of receipt. When a summons is sent by registered post or by speed post or by courier service or by any other means, and it is proved that the summons was properly addressed, prepaid and sent, the court shall presume that the summons was served on the accused unless the contrary is proved.",
+      "keywords": [
+        "summons",
+        "service",
+        "registered post",
+        "speed post",
+        "courier",
+        "email",
+        "fax",
+        "deemed service"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "145",
+      "section_title": "Evidence on affidavit",
+      "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the evidence of the complainant may be given by him on affidavit and may, subject to all just exceptions, be read in evidence in any enquiry, trial or other proceeding under the said Code. The court may, if it thinks fit, summon and examine any person as to the facts contained in the affidavit.",
+      "keywords": [
+        "affidavit evidence",
+        "complainant",
+        "examination",
+        "summon",
+        "CrPC"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "146",
+      "section_title": "Bank's slip prima facie evidence",
+      "text": "The return of a cheque unpaid by the bank containing a memo or slip of the bank indicating the reason for return shall be prima facie evidence of the facts mentioned therein and shall be presumed to be true unless the contrary is proved. The court shall not require the bank to produce the original cheque or any other document to prove the dishonour.",
+      "keywords": [
+        "bank slip",
+        "prima facie evidence",
+        "return memo",
+        "dishonour proof",
+        "presumption"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    },
+    {
+      "section_number": "147",
+      "section_title": "Offences to be compoundable",
+      "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973, every offence punishable under this Act shall be compoundable.",
+      "keywords": [
+        "compoundable offence",
+        "settlement",
+        "compromise",
+        "negotiated settlement"
+      ],
+      "chapter": "XVII — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+    }
+  ]
+}
