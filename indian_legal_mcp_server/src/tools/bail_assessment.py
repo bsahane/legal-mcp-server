@@ -3,12 +3,12 @@ import re
 from pathlib import Path
 from typing import Optional
 
+from indian_legal_mcp_server.prompts.system_instructions import DISCLAIMER
 from indian_legal_mcp_server.services.statute_index import StatuteIndex
 from indian_legal_mcp_server.utils.formatters import (
     format_confidence,
     format_data_freshness,
 )
-from indian_legal_mcp_server.prompts.system_instructions import DISCLAIMER
 
 FIRST_SCHEDULE_PATH = "indian_legal_mcp_server/data/first_schedule.json"
 

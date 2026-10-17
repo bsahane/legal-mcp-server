@@ -6,6 +6,12 @@
       "url": "http://localhost:5001/mcp",
       "enabled": true,
       "timeout": 30000
+    },
+    "mobbin": {
+      "type": "remote",
+      "url": "https://api.mobbin.com/mcp",
+      "enabled": true,
+      "timeout": 30000
     }
   }
 }

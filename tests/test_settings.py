@@ -6,7 +6,11 @@ from unittest.mock import patch
 import pytest
 from pydantic import ValidationError
 
-from indian_legal_mcp_server.src.settings import Settings, parse_sso_scopes, validate_config
+from indian_legal_mcp_server.src.settings import (
+    Settings,
+    parse_sso_scopes,
+    validate_config,
+)
 
 
 class TestSettings:

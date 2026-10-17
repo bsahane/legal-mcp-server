@@ -474,7 +474,8 @@
     "cognizable": true,
     "compoundable": false,
     "trial_by": "Court of Session",
-    "punishment": "Rigorous imprisonment of not less than 10 years extending to life, and fine"
+    "punishment": "Rigorous imprisonment of not less than 10 years extending to life, and fine",
+    "notes": "Rape under BNS. Note that the marital rape exception (exception 2 to s. 63) excludes sexual intercourse by a husband with his wife above 18 years from constituting rape, except where the wife is under a separation decree."
   },
   {
     "section": "64",
@@ -501,7 +502,8 @@
     "cognizable": false,
     "compoundable": false,
     "trial_by": "Magistrate First Class",
-    "punishment": "Imprisonment up to 2 years and fine"
+    "punishment": "Imprisonment up to 2 years and fine",
+    "notes": "Partial criminalisation of marital rape — applies only when wife is living separately. Does not address marital rape in cohabiting relationships, consistent with the marital rape exception carved out of BNS s. 63."
   },
   {
     "section": "70",
@@ -519,7 +521,8 @@
     "cognizable": true,
     "compoundable": true,
     "trial_by": "Magistrate First Class",
-    "punishment": "Rigorous imprisonment up to 3 years, or fine, or both"
+    "punishment": "Rigorous imprisonment up to 3 years, or fine, or both",
+    "notes": "Sexual harassment at workplace provisions codified following Vishaka guidelines. Bailable classification has been criticised by women's rights groups as inadequate given the power imbalance inherent in workplace harassment."
   },
   {
     "section": "72",
@@ -528,7 +531,8 @@
     "cognizable": true,
     "compoundable": true,
     "trial_by": "Magistrate First Class",
-    "punishment": "Imprisonment of not less than 1 year up to 3 years, and fine (first conviction)"
+    "punishment": "Imprisonment of not less than 1 year up to 3 years, and fine (first conviction)",
+    "notes": "Voyeurism provisions (BNS equivalent of IPC s. 354C). Marked bailable despite being a serious invasion of privacy. Courts have discretion to impose stricter bail conditions."
   },
   {
     "section": "73",
@@ -537,7 +541,8 @@
     "cognizable": true,
     "compoundable": true,
     "trial_by": "Magistrate First Class",
-    "punishment": "Imprisonment up to 3 years and fine"
+    "punishment": "Imprisonment up to 3 years and fine",
+    "notes": "Stalking provisions (BNS equivalent of IPC s. 354D). Bailable classification balanced against the need for restraining orders under BNSS."
   },
   {
     "section": "74",
@@ -618,7 +623,8 @@
     "cognizable": true,
     "compoundable": false,
     "trial_by": "Magistrate First Class",
-    "punishment": "Imprisonment up to 3 years and fine"
+    "punishment": "Imprisonment up to 3 years and fine",
+    "notes": "This section (BNS equivalent of IPC s. 498A) is marked bailable per the BNSS First Schedule but is widely contested. Many High Courts (Delhi, Bombay, Karnataka) have issued conflicting judgments on whether dowry cruelty should be treated as non-bailable. Classification is disputed in legal practice."
   },
   {
     "section": "91",
@@ -1729,7 +1735,7 @@
   },
   {
     "section": "311",
-    "offence": "Act done to avoid other harm \u2014 necessity (General Exception)",
+    "offence": "Act done to avoid other harm — necessity (General Exception)",
     "bailable": true,
     "cognizable": false,
     "compoundable": false,

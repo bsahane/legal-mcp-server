@@ -1,9 +1,12 @@
-from jinja2 import Environment, BaseLoader
+from jinja2 import BaseLoader, Environment
 
 
 class NoticeTemplate:
     def __init__(self, template_str: str):
-        self.env = Environment(loader=BaseLoader())
+        # Renders plain-text Markdown notices, not HTML. autoescape=True would
+        # corrupt legitimate values ("Adv. & Co.", "<name>"), so it stays off;
+        # nosec records that this is deliberate rather than overlooked.
+        self.env = Environment(loader=BaseLoader(), autoescape=False)  # nosec B701
         self.template = self.env.from_string(template_str)
 
     def render(self, **kwargs) -> str:

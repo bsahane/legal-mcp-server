@@ -1,6 +1,6 @@
 import re
-from pydantic import BaseModel, field_validator
 
+from pydantic import BaseModel, field_validator
 
 INJECTION_PATTERNS = [
     r"ignore\s+(previous|above|all)\s+instructions",

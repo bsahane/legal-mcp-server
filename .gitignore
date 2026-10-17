@@ -69,3 +69,7 @@ safety-report.json
 build.log
 *.tmp
 *.bak
+
+# Build artifacts (regeneratable)
+indian_legal_mcp_server/data/statute_index.db
+indian_legal_mcp_server/data/feedback.db

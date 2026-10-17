@@ -1,7 +1,8 @@
 import time
 from collections import defaultdict
 from typing import Optional
-from indian_legal_mcp_server.config import settings
+
+from indian_legal_mcp_server.src.settings import settings
 
 
 class RateLimiter:

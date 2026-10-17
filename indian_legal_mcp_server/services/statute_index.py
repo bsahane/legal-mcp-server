@@ -1,8 +1,9 @@
 import json
 import os
 from typing import Optional
+
 from indian_legal_mcp_server.services.search_engine import StatuteSearchEngine
-from indian_legal_mcp_server.config import settings
+from indian_legal_mcp_server.src.settings import settings
 
 
 class StatuteIndex:
@@ -45,6 +46,9 @@ def build_index_from_json(json_dir: str, db_path: str):
     import sqlite3
 
     conn = sqlite3.connect(db_path)
+    conn.execute("""
+        DROP TABLE IF EXISTS statute_fts
+    """)
     conn.execute("""
         CREATE VIRTUAL TABLE IF NOT EXISTS statute_fts USING fts5(
             act_id,

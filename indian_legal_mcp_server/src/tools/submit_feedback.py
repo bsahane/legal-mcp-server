@@ -6,11 +6,10 @@ Zero-tolerance tool errors (limitation_calculator, bail_assessment)
 trigger priority alerts.
 """
 
-import sqlite3
 import os
+import sqlite3
 from datetime import datetime
 from typing import Optional
-
 
 FEEDBACK_DB_PATH = os.path.join(
     os.path.dirname(__file__), "..", "..", "data", "feedback.db"

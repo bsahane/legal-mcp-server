@@ -1,8 +1,8 @@
 from typing import Optional
 
-from indian_legal_mcp_server.config import settings
-from indian_legal_mcp_server.utils.formatters import format_confidence
 from indian_legal_mcp_server.prompts.system_instructions import DISCLAIMER
+from indian_legal_mcp_server.src.settings import settings
+from indian_legal_mcp_server.utils.formatters import format_confidence
 
 SAMPLE_CASE_RESPONSE = {
     "case_number": "CNR/2024/000123",
@@ -41,7 +41,7 @@ async def ecourts_lookup(
                     "next_date": "Refer to ecourts.gov.in",
                 },
                 "message": "Live eCourts API integration requires API endpoint configuration. Check config for ECOURTS_API_KEY.",
-                "ecourts_url": f"https://ecourts.gov.in/ecourts_home/",
+                "ecourts_url": "https://ecourts.gov.in/ecourts_home/",
                 "disclaimer": DISCLAIMER,
                 "confidence": format_confidence(0.7),
             }
@@ -63,9 +63,9 @@ async def ecourts_lookup(
                 "eCourts live lookup requires ECOURTS_API_KEY in .env. "
                 "This is a simulated response for demonstration."
             ),
-            "ecourts_url": f"https://ecourts.gov.in/ecourts_home/",
+            "ecourts_url": "https://ecourts.gov.in/ecourts_home/",
             "search_tips": [
-                f"Visit https://ecourts.gov.in and search by CNR number or case type",
+                "Visit https://ecourts.gov.in and search by CNR number or case type",
                 f"Use the 'Case Status' tab with {court_type} court in {district or 'your district'}",
                 "CNR number format: CNR/YYYY/XXXXXXX",
             ],

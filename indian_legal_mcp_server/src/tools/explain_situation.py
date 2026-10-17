@@ -5,24 +5,23 @@ Takes a free-text legal scenario and returns plain-language explanation,
 applicable law, rights, and next steps.
 """
 
-from typing import Optional
-from indian_legal_mcp_server.src.tools._impl.statute_search import statute_search
-from indian_legal_mcp_server.services.llm_client import get_llm_client
-from indian_legal_mcp_server.services.citation_validator import (
-    validate_citations,
-    expand_citations,
-)
 from indian_legal_mcp_server.prompts.explain_situation_prompt import (
     build_explain_situation_prompt,
 )
 from indian_legal_mcp_server.prompts.system_instructions import DISCLAIMER
-from indian_legal_mcp_server.utils.validators import ScenarioInput
-from indian_legal_mcp_server.utils.privacy import hash_scenario, redact_pii
+from indian_legal_mcp_server.services.citation_validator import (
+    expand_citations,
+    validate_citations,
+)
+from indian_legal_mcp_server.services.llm_client import get_llm_client
+from indian_legal_mcp_server.src.settings import settings
+from indian_legal_mcp_server.src.tools._impl.statute_search import statute_search
 from indian_legal_mcp_server.utils.formatters import (
     format_confidence,
     format_data_freshness,
 )
-from indian_legal_mcp_server.config import settings
+from indian_legal_mcp_server.utils.privacy import hash_scenario, redact_pii
+from indian_legal_mcp_server.utils.validators import ScenarioInput
 
 CLASSIFICATION_RULES = {
     "arrest_and_bail": {

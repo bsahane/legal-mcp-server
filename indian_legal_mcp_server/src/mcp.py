@@ -7,12 +7,11 @@ v0.1 ships: legal_search, explain_situation, submit_feedback.
 from fastmcp import FastMCP
 
 from indian_legal_mcp_server.src.settings import settings
-
-from indian_legal_mcp_server.src.tools.legal_search import legal_search
 from indian_legal_mcp_server.src.tools.explain_situation import explain_situation
-from indian_legal_mcp_server.src.tools.submit_feedback import submit_feedback
 from indian_legal_mcp_server.src.tools.legal_compute import legal_compute
 from indian_legal_mcp_server.src.tools.legal_lookup import legal_lookup
+from indian_legal_mcp_server.src.tools.legal_search import legal_search
+from indian_legal_mcp_server.src.tools.submit_feedback import submit_feedback
 from indian_legal_mcp_server.utils.pylogger import (
     force_reconfigure_all_loggers,
     get_python_logger,

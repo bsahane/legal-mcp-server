@@ -22,6 +22,6 @@ def hash_scenario(scenario: str) -> str:
 
 
 def should_redact() -> bool:
-    from indian_legal_mcp_server.config import settings
+    from indian_legal_mcp_server.src.settings import settings
 
     return settings.REDACT_SCENARIO_INPUT

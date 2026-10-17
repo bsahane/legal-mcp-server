@@ -19,7 +19,9 @@ class TestOAuth2Handler:
         expected_scope = parse_sso_scopes(default_scopes)
         mock_settings.oauth_scopes = expected_scope
 
-        with patch("indian_legal_mcp_server.src.oauth.handler.OAuth2Session") as mock_oauth:
+        with patch(
+            "indian_legal_mcp_server.src.oauth.handler.OAuth2Session"
+        ) as mock_oauth:
             mock_session = Mock()
             mock_oauth.return_value = mock_session
 
@@ -42,7 +44,9 @@ class TestOAuth2Handler:
         expected_scope = parse_sso_scopes(default_scopes)
         mock_settings.oauth_scopes = expected_scope
 
-        with patch("indian_legal_mcp_server.src.oauth.handler.OAuth2Session") as mock_oauth:
+        with patch(
+            "indian_legal_mcp_server.src.oauth.handler.OAuth2Session"
+        ) as mock_oauth:
             mock_session = Mock()
             mock_oauth.return_value = mock_session
 
@@ -56,7 +60,9 @@ class TestOAuth2Handler:
             )
             assert result == mock_session
 
-    @patch("indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.create_oauth_session")
+    @patch(
+        "indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.create_oauth_session"
+    )
     def test_get_authorization_url(self, mock_create_session):
         """Test getting authorization URL."""
         mock_session = Mock()
@@ -70,7 +76,9 @@ class TestOAuth2Handler:
         assert state == "state123"
 
     @patch("indian_legal_mcp_server.src.oauth.handler.settings")
-    @patch("indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.create_oauth_session")
+    @patch(
+        "indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.create_oauth_session"
+    )
     def test_get_access_token_from_authorization_code_flow(
         self, mock_create_session, mock_settings
     ):
@@ -96,7 +104,9 @@ class TestOAuth2Handler:
         assert result == mock_token
 
     @patch("indian_legal_mcp_server.src.oauth.handler.settings")
-    @patch("indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.create_oauth_session")
+    @patch(
+        "indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.create_oauth_session"
+    )
     def test_get_access_token_from_refresh_token(
         self, mock_create_session, mock_settings
     ):
@@ -241,7 +251,9 @@ class TestOAuth2Handler:
         assert result["active"] is True
         assert result["sub"] == "user123"
 
-    @patch("indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.verify_access_token")
+    @patch(
+        "indian_legal_mcp_server.src.oauth.handler.OAuth2Handler.verify_access_token"
+    )
     def test_verify_authorization_header_valid(self, mock_verify):
         """Test verifying valid authorization header."""
         mock_verify.return_value = {"active": True, "sub": "user123"}

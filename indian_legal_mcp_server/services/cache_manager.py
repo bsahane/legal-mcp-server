@@ -1,6 +1,5 @@
 import time
-from typing import Optional, Any
-from indian_legal_mcp_server.config import settings
+from typing import Any, Optional
 
 CACHE_CONFIG = {
     "statute_search": {"ttl": 86400},

@@ -6,8 +6,9 @@ Returns verbatim text, section references, and relevance scores.
 """
 
 from typing import Optional
-from indian_legal_mcp_server.services.statute_index import StatuteIndex
+
 from indian_legal_mcp_server.services.section_mapper import SectionMapper
+from indian_legal_mcp_server.services.statute_index import StatuteIndex
 from indian_legal_mcp_server.utils.formatters import (
     format_confidence,
     format_data_freshness,

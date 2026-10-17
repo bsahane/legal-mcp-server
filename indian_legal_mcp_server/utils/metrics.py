@@ -1,8 +1,6 @@
 import time
-import sqlite3
-from pathlib import Path
-from typing import Optional
 from collections import defaultdict
+from typing import Optional
 
 
 class ToolMetrics:
